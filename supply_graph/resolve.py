@@ -51,22 +51,20 @@ def resolve(mentions: pd.DataFrame, scored_pairs: list[dict]) -> tuple[pd.DataFr
 
     uf = UnionFind(list(work["mention_idx"]))
 
-    def idxs_for(name, tax, country) -> list[int]:
-        hits = []
-        for rec in work.to_dict(orient="records"):
-            if (
-                _na(rec.get("raw_name")) == _na(name)
-                and _na(rec.get("tax_id")) == _na(tax)
-                and _na(rec.get("country")) == _na(country)
-            ):
-                hits.append(int(rec["mention_idx"]))
-        return hits
+    # Candidate pairs refer to mentions by these identity fields. Build the lookup once instead
+    # of scanning and materializing every mention again for every scored pair.
+    identity_index: dict[tuple, list[int]] = defaultdict(list)
+    for rec in work.to_dict(orient="records"):
+        key = (_na(rec.get("raw_name")), _na(rec.get("tax_id")), _na(rec.get("country")))
+        identity_index[key].append(int(rec["mention_idx"]))
 
     for pair in scored_pairs:
         if pair["confidence"] < AUTO_MERGE_MIN:
             continue
-        left = idxs_for(pair["left_name"], pair["left_tax_id"], pair["left_country"])
-        right = idxs_for(pair["right_name"], pair["right_tax_id"], pair["right_country"])
+        left_key = (_na(pair["left_name"]), _na(pair["left_tax_id"]), _na(pair["left_country"]))
+        right_key = (_na(pair["right_name"]), _na(pair["right_tax_id"]), _na(pair["right_country"]))
+        left = identity_index[left_key]
+        right = identity_index[right_key]
         for i in left:
             for j in right:
                 uf.union(i, j)

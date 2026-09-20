@@ -2,3 +2,5 @@ pandas
 rapidfuzz
 networkx
 pycountry
+fastapi
+uvicorn[standard]
