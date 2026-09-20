@@ -3,6 +3,7 @@ import cytoscape from 'cytoscape'
 import { api } from '../api'
 
 const tierColors = ['#2563eb', '#0d9488', '#7c3aed', '#d97706', '#dc2626', '#475569']
+const tierFills = ['#dbeafe', '#ccfbf1', '#ede9fe', '#fef3c7', '#fee2e2', '#e2e8f0']
 
 export default function GraphExplorer({ summary }) {
   const container = useRef(null)
@@ -28,7 +29,7 @@ export default function GraphExplorer({ summary }) {
   useEffect(() => {
     if (!graph || !container.current) return
     const elements = [
-      ...graph.nodes.map((node) => ({ data: { id: node.entity_id, label: node.canonical_name, tier: node.tier, country: node.country || '—', taxId: node.tax_id || '—', mentions: node.mention_count, root: node.is_root } })),
+      ...graph.nodes.map((node) => ({ data: { id: node.entity_id, label: node.canonical_name, tier: node.tier, country: node.country || '—', taxId: node.tax_id || '—', mentions: node.mention_count, ...(node.is_root ? { root: true } : {}) } })),
       ...graph.edges.map((edge, index) => ({ data: { id: `e${index}`, source: edge.source, target: edge.target, label: (edge.relationship_types || []).join(', ') || 'supplies' } })),
     ]
     graphInstance.current?.destroy()
@@ -36,16 +37,30 @@ export default function GraphExplorer({ summary }) {
       container: container.current,
       elements,
       style: [
-        { selector: 'node', style: { 'background-color': (ele) => tierColors[Math.min(ele.data('tier'), tierColors.length - 1)], label: 'data(label)', color: '#172033', 'font-size': 10, 'font-weight': 600, 'text-wrap': 'wrap', 'text-max-width': 100, 'text-valign': 'bottom', 'text-margin-y': 8, width: 30, height: 30, 'border-width': 4, 'border-color': '#fff', 'shadow-blur': 12, 'shadow-opacity': 0.16, 'shadow-color': '#172033' } },
-        { selector: 'node[root]', style: { width: 42, height: 42, 'background-color': '#172033', 'border-color': '#93c5fd', 'border-width': 5 } },
-        { selector: 'edge', style: { width: 1.5, 'line-color': '#cbd5e1', 'target-arrow-color': '#94a3b8', 'target-arrow-shape': 'triangle', 'curve-style': 'bezier', 'arrow-scale': 0.8 } },
+        { selector: 'node', style: { 'background-color': (ele) => tierFills[Math.min(ele.data('tier'), tierFills.length - 1)], 'border-color': (ele) => tierColors[Math.min(ele.data('tier'), tierColors.length - 1)], label: 'data(label)', color: '#172033', 'font-size': 11, 'font-weight': 600, 'min-zoomed-font-size': 9, 'text-background-color': '#fff', 'text-background-opacity': 0.88, 'text-background-padding': 3, 'text-wrap': 'wrap', 'text-max-width': 120, 'text-valign': 'bottom', 'text-margin-y': 10, width: 34, height: 34, 'border-width': 6, 'shadow-blur': 12, 'shadow-opacity': 0.14, 'shadow-color': '#172033' } },
+        { selector: 'node[root]', style: { width: 48, height: 48, 'background-color': '#172033', 'border-color': '#2563eb', 'border-width': 7, color: '#0f172a', 'font-size': 12 } },
+        { selector: 'edge', style: { width: 1.25, 'line-color': '#b8c5d8', 'line-opacity': 0.22, 'target-arrow-color': '#94a3b8', 'target-arrow-shape': 'triangle', 'target-arrow-fill': 'filled', 'curve-style': 'bezier', 'arrow-scale': 0.7 } },
         { selector: ':selected', style: { 'overlay-color': '#2563eb', 'overlay-opacity': 0.12, 'overlay-padding': 8 } },
       ],
-      layout: { name: 'cose', animate: false, nodeRepulsion: 9000, idealEdgeLength: 110, gravity: 0.25, componentSpacing: 80 },
-      minZoom: 0.2,
+      layout: {
+        name: 'concentric',
+        animate: false,
+        fit: false,
+        minNodeSpacing: 85,
+        spacingFactor: 1.45,
+        concentric: (node) => -node.data('tier'),
+        levelWidth: () => 1,
+        startAngle: -Math.PI / 2,
+        sweep: 2 * Math.PI,
+        clockwise: true,
+      },
+      minZoom: 0.08,
       maxZoom: 2.5,
     })
     cy.on('tap', 'node', (event) => setFocusedNode(event.target.data()))
+    const root = cy.nodes('[root]')
+    cy.zoom(0.42)
+    cy.center(root)
     graphInstance.current = cy
     return () => cy.destroy()
   }, [graph])
@@ -53,6 +68,23 @@ export default function GraphExplorer({ summary }) {
   function choose(entity) {
     setSelected(entity); setQuery(entity.canonical_name); setOptions([]); setFocusedNode(null); setGraph(null); setError(''); setLoading(true)
     api(`/entities/${entity.entity_id}/graph`).then(setGraph).catch((err) => setError(err.message)).finally(() => setLoading(false))
+  }
+
+  function fitGraph() {
+    graphInstance.current?.fit(undefined, 60)
+  }
+
+  function centerRoot() {
+    const cy = graphInstance.current
+    if (!cy) return
+    cy.zoom(0.42)
+    cy.center(cy.nodes('[root]'))
+  }
+
+  function zoomBy(factor) {
+    const cy = graphInstance.current
+    if (!cy) return
+    cy.zoom({ level: cy.zoom() * factor, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } })
   }
 
   return (
@@ -70,8 +102,9 @@ export default function GraphExplorer({ summary }) {
       {error && <div className="error-banner">{error}</div>}
       {graph && <div className="graph-layout">
         <div className="graph-canvas-card">
-          <div className="graph-toolbar"><div><strong>{selected.canonical_name}</strong><span>{graph.nodes.length} entities · {graph.edges.length} relationships</span></div><div className="legend">{[...new Set(graph.nodes.map((n) => n.tier))].sort().map((tier) => <span key={tier}><i style={{ background: tierColors[Math.min(tier, tierColors.length - 1)] }} />Tier {tier}</span>)}</div></div>
+          <div className="graph-toolbar"><div><strong>{selected.canonical_name}</strong><span>{graph.nodes.length} entities · {graph.edges.length} relationships</span></div><div className="legend">{[...new Set(graph.nodes.map((n) => n.tier))].sort().map((tier) => <span key={tier}><i style={{ borderColor: tierColors[Math.min(tier, tierColors.length - 1)], background: tierFills[Math.min(tier, tierFills.length - 1)] }} />Tier {tier}</span>)}</div></div>
           <div ref={container} className="graph-canvas" />
+          <div className="graph-controls" aria-label="Graph view controls"><button onClick={() => zoomBy(1.25)} aria-label="Zoom in">+</button><button onClick={() => zoomBy(0.8)} aria-label="Zoom out">−</button><button onClick={centerRoot}>Center root</button><button onClick={fitGraph}>Fit all</button></div>
           <div className="canvas-help">Scroll to zoom · Drag to pan · Select a node for details</div>
         </div>
         <aside className="detail-panel">
