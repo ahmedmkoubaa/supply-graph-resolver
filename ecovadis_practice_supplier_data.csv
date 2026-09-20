@@ -1,0 +1,1340 @@
+row_id,source_system,reported_by,reported_by_tax_id,reported_by_country,declared_supplier,declared_supplier_tax_id,declared_supplier_country,relationship_type,last_updated,notes
+1,portal_v2,"Meridian  Foundry  Co.,  Ltd. ",6936664761,VN,Highland Steel Sp. z .oo.,PL7859126165,Poland,finishing,,
+2,legacy_manual_import,GLOBAL ALLOYS SARL,FR02653954607,France,Pacific  Metals  Inc. ,11-7347262,US,raw material,12-03-2023,"Data provided via phone, not verified"
+3,portal_v2,Global  Alloys  SARL ,,France,COPPERFIELD METALS A.Ş.,991853679,Turkey,packaging,28/03/2023,
+4,portal_v2,global alloys sarl,FR02653954607,France,Pacific Meatls Inc.,11-7347262,USA,logistics,05/03/2025,
+5,portal_v2,Horizon Alloys SARL,381866192115924,Morocco,NORTHGATE TRADING SARL,,France,RAW_MATERIAL,23/03/2022,
+6,portal_v1,ALPINE COATINGS SARL,102439281045618,Maroc,Bluewater Industries A.Ş.,2249294184,Türkiye,Raw Material,2024-02-04,Pending re-confirmation
+7,portal_v2,"Meirdian Foundry Co., Ltd.",6936664761,Vietnam,OAKRIDGE PLASTICS PVT. LTD.,,IN,packaging,21/08/2023,
+8,portal_v2,CORNERSTONE FASTENERS S.A.,ES20546820H,ES,RoyalL eather S.p.A.,IT20429306986,Italy,Raw Material,28/01/2022,Contrato renovado según acuerdo marco
+9,portal_v1,Andean Assemblies S.p.A.,IT38826320735,Italia,Summit Trading ASRL,,FR,raw_material,2022-10-01,Confirmación pendiente por parte del proveedor
+10,legacy_manual_import,Global Electronics SA,ES50165258A,ES,Silverline Componetns SAS,FR42403927449,France,logistics,03-16-2022,Contact information outdated
+11,portal_v2,Alpine  Coatings  SARL ,102439281045618,Maroc,Anatolian  Polymers  Inc. ,30-6364630,United States,logistics,13/12/2023,Contact information outdated
+12,portal_v1,Atlantic Trading B.V.,NL274449316B37,NL,EastfieldL eather SAS,FR18801882497,FR,raw_material,2025-02-11,Confirmación pendiente por parte del proveedor
+13,portal_v2,PREMIER COATINGS A.Ş.,47528-92539,TR,Highland Weaving A.Ş.,,TR,subcontracted_labor,26/10/2024,"Data provided via phone, not verified"
+14,portal_v2,Rhine Packaging Lda,PT928840726,Portugal,Irongate Logistics BV,NL511393683B38,NL,raw_material,19/05/2023,Duplicate of prior quarter submission
+15,portal_v2,Cornerstone  Fasteners  S.A. ,,España,Royal Leather SpA,,IT,raw_material,17/02/2025,Société certifiée ISO 9001
+16,portal_v2,copperfield group s.l.,ES027-93116B,ES,Bluewater SteelS .p.A.,IT04283502536,Italy,dyeing,25/01/2025,segÃºn acuerdo
+17,portal_v2,Horizon Dyeworks AŞ,5797626609,Türkiye,###,1043205340,VN,RAW_MATERIAL,27/08/2023,
+18,legacy_manual_import,NorthGate Textiles SA,ES60227680G,Espagne,Highland Plastics SpA,IT2440648066,IT,raw material,06-12-2022,
+19,portal_v1,Meridian Fasteners Ltd,GB212776106,United Kingdom,Nordic Fibers SAS,FR32114540305,FR,component,2024-09-26,Backup supplier - low volume
+20,portal_v2,GOLDEN TOOLING SP. Z O.O.,PL2144229485,PL,Oakridge Logistics AŞ,7963609841,Turkey,logistics,01/05/2022,Şirket 2021'de denetlendi
+21,portal_v1,iberian machinery ltd.,GB910116526,United Kingdom,REDSTONE ELECTRONICS B.V.,NL 912755756B86,Holland,components,2022-10-16,
+22,portal_v1,Global Alloys SARL,FR02653954607,FR,Continental Textiles Pvt Ltd,,IN,finishing,2023-04-14,
+23,portal_v2,OAKRIDGE PLASTICS PVT. LTD.,94HXCVS3375A1Z5,India,United  Electronics  Lda. ,PT936220143,Portugal,finishing,07/03/2025,
+24,portal_v2,Northgate Machinery Ldt.,GB144982519,GB,Premier Dyeworks AŞ,,TR,packaging,28/08/2024,
+25,portal_v2,Horizo nAlloys SARL,,MA,Oakridge Textiles BV,NL886154196B97,Holland,logistics,27/09/2022,Fornecedor homologado em 2023
+26,portal_v1,Southbay Leather B.V.,NL638797541B81,Holland,"Irongate Ceramics Co, Ltd",,VN,raw material,2024-02-29,
+27,legacy_manual_import,Eastfield  Components  SARL ,FR58653776073,FR,Crestwood Dyeworks SAS,,France,Raw Material,03-28-2024,
+28,portal_v2,northgate machinery ltd.,GB144982519,GB,Cornerstone Alloys B.V.,NL683629854B33,Netherlands,Raw Material,04/08/2022,
+29,portal_v1,Crestwood Group Ltd,GB59512698,UK,millbrook tooling sarl,671609145861330,MA,Raw Material,2022-03-29,Fornecedor homologado em 2023
+30,portal_v2,Oakridge Fasteners Lda,PT175750309,Portugal,WESTPORT TRADING A.Ş.,9238434939,Türkiye,RAW_MATERIAL,19/04/2022,Fornecedor homologado em 2023
+31,portal_v1,sunrise leather sarl,FR17861973435,FR,Millbrook  Solutions  Lda. ,,PT,raw_material,2024-01-11,Fournisseur validé lors de l'audit 2022
+32,portal_v2,HORIZON MANUFACTURING AG,,Germany,united foundry lda.,PT323269615,PT,raw material,10/03/2024,Pending re-confirmation
+33,portal_v2,Premier Dyeworks A.Ş.,6954004320,TR,Crestwodo Chemicals S.p.A.,,Italia,dyeing,,
+34,portal_v2,vantage circuits s.p.a.,IT53333151593,Italia,LAKESIDE FOUNDRY SP. Z O.O.,PL0346729503,Poland,materia prima,29/01/2025,Contact information outdated
+35,portal_v2,Bluewater Manufacturing S..rl.,IT10862914220,Italia,"Northgate Polymers Co. ,Ltd.",0TNTW3356HT9DCDKZ7,CN,materia prima,27/03/2025,Şirket 2021'de denetlendi
+36,portal_v2,"United Assemblies Co. ,Ltd.",6926242393,Vietnam,Iberian Dyeworks Inc,38-4972853,USA,component,15/07/2023,
+37,portal_v2,Baltic  Trading  Ltd. ,GB261367723,United Kingdom,Millbrook  Machinery  Lda. ,PT95520705,Portugal,components,23/08/2022,
+38,legacy_manual_import,nordic fibers sas,32114540305,FR,"Westport  Leather  Co.,  Ltd. ",6M9BNZNYHPA3BGKNER,CN,materia prima,02-14-2025,
+39,portal_v2,Anatolian  Metals  SARL ,FR62182564559,France,Horizon Solutions Sp z oo,PL4837332964,Polska,logistics,07/08/2022,Pending re-confirmation
+40,portal_v2,westport electronics sarl,394225258329500,MA,HIGHLAND MACHINERY LTD.,,UK,subcontracted_labor,09/09/2023,Şirket 2021'de denetlendi
+41,legacy_manual_import,NORDIC MATERIALS GMBH,DE502141043,DE,nordic materials gmbh,,DE,finishing,09-06-2022,
+42,legacy_manual_import,westport electronics sarl,394225258329500,MA,SUNRISE LEATHER SARL,FR17861973435,France,Raw Material,02-15-2023,
+43,portal_v2,Pacific Coatings Ltd,GB202514640,GB,Iberian  Coatings  SAS ,FR67464629486,FR,packaging,09/07/2023,
+44,portal_v2,Oakridge Plastics Pvt. Ltd.,94HXCVS3375A1Z5,India,united electronics lda.,PT936220143,PT,component,28/05/2022,Société certifiée ISO 9001
+45,legacy_manual_import,"summit machinery co., ltd.",9402555543,VN,Highland Fibers Ltd,GB289869081,GB,component,07-02-2025,Fornecedor homologado em 2023
+46,portal_v2,Alpine  Materials  Ltd. ,GB409940422,United Kingdom,"PRIME ELECTRONICS CO., LTD.",,China,dyeing,02/02/2024,
+47,portal_v1,Anatolian Yarns Sp. z o.o.,PL0677017673,Polska,ALPINE CHEMICALS SARL,663846623328168,Maroc,dyeing,2025-06-20,
+48,portal_v2,RHINE TOOLING AG,,DE,SILVERLINE CHEMICALS SAS,FR67254489366,FR,components,20/05/2025,Duplicate of prior quarter submission
+49,portal_v2,pacific machinery lda.,PT721441525,PT,Continental Electronics S.r.l.,IT75114459232,IT,raw_material,06/08/2023,
+50,portal_v2,Iberian Tooling Srl,IT66369023642,Italia,continental group sarl,57 5538294401555,Morocco,RAW_MATERIAL,04/11/2023,
+51,portal_v2,pacific machinery lda.,PT72144525,PT,CONTINENTAL ELECTRONICS S.R.L.,IT75114459232,IT,packaging,01/11/2023,Contact information outdated
+52,portal_v1,Nordci Materials GmbH,de502141043,Deutschland,horizon metals sp. z o.o.,PL4768445880,PL,materia prima,2023-07-31,
+53,portal_v2,Meridian Fasteners Ltd.,GB212776106,GB,nordic fibers sas,FR32114540305,France,dyeing,08/06/2023,Contrato renovado según acuerdo marco
+54,legacy_manual_import,SOUTHBAY LOGISTICS S.R.L.,IT40684690723,IT,"Golden  Packaging  Co.,  Ltd. ",YMG5T5QGXJM11UYNRE,CN,materia prima,02-14-2022,Şirket 2021'de denetlendi
+55,portal_v1,Atlantic  Logistics  S.r.l. ,IT0407714528,Italy,Apex Circuits SpA,it59296256706,Italia,logistics,2023-04-17,
+56,portal_v2,Premier  Dyeworks  A.Ş. ,6954004320,Türkiye,MILLBROOK FIBERS PVT. LTD.,84WSTJK5150A1Z5,India,Raw Material,27/06/2024,
+57,portal_v1,Cretswood Group Ltd.,,United Kingdom,Redstone Chemicals AŞ,,TR,packaging,2023-12-16,Fornecedor homologado em 2023
+58,portal_v2,Atlantic Logistics Srl,IT04077145284,IT,BLUEWATER MANUFACTURING S.R.L.,IT10862914220,Italy,materia prima,27/12/2024,Duplicate of prior quarter submission
+59,legacy_manual_import,Silverline  Chemicals  SAS ,FR67254489366,FR,Riverside  Metals  Inc. ,,US,packaging,04-20-2023,
+60,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,IN,Vantage Textiles S.A.,ES30633873E,Espagne,subcontracted_labor,30/01/2022,Confirmación pendiente por parte del proveedor
+61,portal_v2,DANUBE COMPONENTS SP. Z O.O.,PL8781446242,Poland,RiversideC hemicals S.p.A.,IT17291807684,Italy,packaging,28/03/2023,
+62,legacy_manual_import,Westport  Electronics  SARL ,394225258329500,Maroc,Iberian  Machinery  Ltd. ,,UK,component,09-08-2022,Fournisseur validé lors de l'audit 2022
+63,portal_v2,"Meridian Foundry Co., Ltd.",6936664761,Vietnam,OAKRIDGE PLASTICS PVT. LTD.,94HXCVS3375A1Z5,India,logistics,,
+64,portal_v2,Summit Trading ASRL,FR44034462491,FR,Horizon Polymers Sp. z o.o.,PL0171072146,Poland,Raw Material,05/09/2025,Duplicate of prior quarter submission
+65,portal_v2,Gloabl Ceramics Sp. z o.o.,PL5131340444,Polska,horizon components lda.,PT115345152,PT,materia prima,16/05/2022,"Data provided via phone, not verified"
+66,legacy_manual_import,Atlantic Logistics S.r.l.,IT04077145284,Italy,Bluewater Manufacturing S.r.l.,IT10862914220,IT,Raw Material,07-08-2024,
+67,legacy_manual_import,Southbay Electronics SARL,346652635766034,Maroc,Westoprt Electronics SARL,394225258329500,MA,Raw Material,06-13-2022,
+68,legacy_manual_import,Highland  Components  SAS ,FR34285656538,FR,Northgate Assemblies Inc.,55-3358029,US,component,06-29-2025,
+69,portal_v2,vantage circuits s.p.a.,IT53333151593,Italy,Lakeside Foundry Sp. z o.o.,PL0346729503,PL,component,09/09/2025,Confirmación pendiente por parte del proveedor
+70,legacy_manual_import,southbay leather b.v.,,Holland,"IRONGATE CERAMICS CO., LTD.",2309407591,Vietnam,finishing,01-18-2023,"Data provided via phone, not verified"
+71,portal_v2,Redstone Chemiacls Lda.,,PT,Horizon Alloys SARL,,MA,materia prima,13/01/2025,
+72,legacy_manual_import,Anatolian Machinery A.Ş.,3715490387,TR,BLUEWATER DYEWORKS SAS,,France,dyeing,12-27-2022,
+73,portal_v2,meridian yarns sp. z o.o.,PL8435722373,Poland,millbrook alloys ag,DE251791722,DE,logistics,,
+74,portal_v2,"UNITED ASSEMBLIES CO., LTD.",,VN,anatolian polymers sarl,413403018954648,Maroc,raw material,25/01/2022,Duplicate of prior quarter submission
+75,portal_v1,Alpine Weaving S.L.,ES88454746C,Spain,Batlic Fibers Ltd.,GB655823297,GB,subcontracted_labor,2024-05-15,
+76,portal_v1,Summit Metals Lda.,PT182309739,Portugal,Iberian  Electronics  SARL ,706239917751423,MA,packaging,2023-09-02,Fornecedor homologado em 2023
+77,portal_v2,Cornerstone  Alloys  B.V. ,NL683629854B33,NL,Royal Machinery Inc.,22-7342425,US,subcontracted_labor,,Fornecedor homologado em 2023
+78,portal_v2,Southbay  Electronics  S.A. ,ES7833840D,Espagne,bluewater tooling pvt. ltd.,,India,component,21/09/2022,
+79,portal_v2,vantage alloys sarl,,Maroc,Silverline  Materials  SAS ,,FR,components,13/06/2024,
+80,portal_v1,nordic fibers sas,32114540305,FR,"Westport  Leather  Co.,  Ltd. ",6M9BNZNYHPA3BGKNER,CN,raw material,2023-11-28,
+81,portal_v1,Meridian Yarns Sp z oo,PL8435722373,PL,Millbrook Alloys AG,DE251791722,Germany,raw material,2025-08-08,Fournisseur validé lors de l'audit 2022
+82,portal_v2,nordic fibers sas,FR32114540305,France,"Westport Leather Co., Ltd.",6M9BNZNYHPA3BGKNER,China,dyeing,25/09/2022,
+83,legacy_manual_import,Continental  Fasteners  SARL ,524296237088409,Maroc,"Global  Plastics  Co.,  Ltd. ",7PQ2DJE7EWKPVSC0BR,China,dyeing,08-01-2024,
+84,portal_v2,IBERIAN MATERIALS AG,DE817466807,Germany,"Copperfield  Foundry  Co.,  Ltd. ",0269417482,Vietnam,finishing,18/12/2024,
+85,portal_v2,Rhine  Tooling  AG ,DE535425961,DE,baltic foundry b.v.,NL127387209B07,Holland,packaging,18/06/2023,Backup supplier - low volume
+86,portal_v2,vantage alloys sarl,193008687593586,MA,Irongate  Industries  S.r.l. ,IT62370499022,IT,logistics,26/02/2023,
+87,portal_v2,Danube Components Sp. z .oo.,PL8781446242,PL,STONEBRIDGE TOOLING SARL,251361799399069,Morocco,raw_material,19/07/2022,Backup supplier - low volume
+88,portal_v2,eastfield alloys gmbh,DE413376973,Deutschland,TBD,3529838408,Vietnam,dyeing,31/01/2022,
+89,portal_v2,Meridian  Fasteners  Ltd. ,GB212776106,United Kingdom,Northgate Stele A.Ş.,6256180218,TR,packaging,24/10/2023,
+90,portal_v1,"andean leather co., ltd.",DNCWF820JL0Q221BH9,CN,"Meirdian Foundry Co., Ltd.",6936664761,Vietnam,subcontracted_labor,2022-08-23,
+91,portal_v2,NorthGate  Textiles  S.A. ,,ES,Continental Fasteners SARL,524296237088409,Morocco,packaging,14/04/2022,
+92,portal_v2,crestwood metals sarl,976694569801375,MA,Horizon  Manufacturing  AG ,DE431839337,Germany,subcontracted_labor,18/01/2025,Contact information outdated
+93,portal_v2,Crestwood  Metals  SARL ,976694569801375,MA,Horizon Manufactuirng AG,DE431839337,Deutschland,logistics,14/12/2024,
+94,portal_v2,Horizon Manufacturing AG,DE431839337,DE,Royal Dyeworks Inc.,,US,packaging,05/01/2023,
+95,portal_v2,Summit  Trading  SARL ,,France,Horizon Polymers Sp.  zo.o.,PL0171072146,Poland,components,22/08/2023,
+96,portal_v2,united leather sp. z o.o.,PL084633592,PL,premier materials sp. z o.o.,PL5659235740,Polska,packaging,,
+97,portal_v2,Horizon Dyeworks AŞ,5797626609,Türkiye,###,1043205340,VN,RAW_MATERIAL,27/08/2023,
+98,legacy_manual_import,Westprot Trading A.Ş.,92384-34939,Turkey,"Crestwood Yarns Co., Ltd.",QDTRK1B2ZX2X1DSSZM,CN,Raw Material,01-04-2022,Şirket 2021'de denetlendi
+99,portal_v2,Global Alloys ASRL,,FR,Copperfield  Metals  A.Ş. ,991536797,Türkiye,RAW_MATERIAL,05/02/2022,
+100,portal_v2,"United  Assemblies  Co.,  Ltd. ",6926242393,VN,Iberian  Dyeworks  Inc. ,38-4972853,USA,dyeing,,
+101,portal_v1,global alloys sarl,FR02653954607,FR,Pacific Meatls Inc.,11-7347262,USA,Raw Material,2024-09-25,Contact information outdated
+102,portal_v2,Alpine Weaving SL,ES88454746C,Espagne,"PACIFIC MACHINERY CO., LTD.",4Z7XKKST8VZHE9JLQ5,China,dyeing,28/05/2025,
+103,portal_v1,global alloys sarl,FR0265395467,FR,Baltic Tarding Ltd.,GB261367723,UK,packaging,2023-06-06,
+104,portal_v2,MERIDIAN FASTENERS LTD.,GB212776106,UK,EASTFIELD COMPONENTS SARL,FR58653776073,France,subcontracted_labor,30/11/2023,Fournisseur validé lors de l'audit 2022
+105,portal_v1,iberian machinery ltd.,GB91011652,United Kingdom,DANUBE COMPONENTS SP. Z O.O.,PL8781446242,Polska,Raw Material,2024-08-10,
+106,legacy_manual_import,rhine tooling ag,DE535425961,Germany,Alpine Coatings SARL,102439281045618,MA,packaging,02-12-2025,Duplicate of prior quarter submission
+107,legacy_manual_import,Pacific Machniery Lda.,PT 721441525,PT,Continental Electronics Srl,,IT,packaging,03-28-2022,
+108,portal_v1,Atlantic  Logistics  S.r.l. ,IT04077145284,Italia,Southbay  Yarns  A.Ş. ,0992964398,Turkey,raw material,2022-04-23,Société certifiée ISO 9001
+109,portal_v2,Copperfield Group SL,,Espagne,"nordic steel co., ltd.",8GD5XVJXREAEQ92CHW,CN,component,10/05/2025,Fornecedor homologado em 2023
+110,portal_v2,highland machinery ltd.,GB485329247,GB,Danube Plastics Ltd,GB286174002,GB,raw_material,18/07/2023,
+111,portal_v2,Global  Electronics  S.A. ,ES50165258A,España,Silverline Componetns SAS,FR42403927449,FR,components,30/12/2024,Backup supplier - low volume
+112,legacy_manual_import,Royal  Machinery  Inc. ,22-7342425,United States,Apex Ceramics Sp z oo,PL5983766493,Polska,components,05-02-2023,Contact information outdated
+113,portal_v2,Highland Plastics S.p.A.,IT24406348066,IT,Redstone Chemiacls Lda.,,Portugal,dyeing,24/09/2023,"Data provided via phone, not verified"
+114,portal_v2,Redstone Chemiacls Lda.,,Portugal,Vantage  Industries  GmbH ,,Germany,finishing,04/07/2022,
+115,portal_v1,Anatolian Machienry A.Ş.,3715490387,Türkiye,Bluewater Dyweorks SAS,FR60253625246,France,logistics,2023-08-17,Contrato renovado según acuerdo marco
+116,legacy_manual_import,Oakridge  Fasteners  Lda. ,PT175750309,Portugal,Alpine  Trading  SARL ,274958225941535,Morocco,component,01-27-2024,
+117,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,MA,Highland Machinery Ltd,485329247,United Kingdom,finishing,31/08/2024,
+118,portal_v2,Oakridge  Logistics  A.Ş. ,7963609841,Turkey,Meridian  Weaving  Pvt.  Ltd. ,,India,component,14/03/2025,
+119,legacy_manual_import,"MERIDIAN FOUNDRY CO., LTD.",6936664761,VN,oakridge plastics pvt. ltd.,94HXCVS3375A1Z5,India,components,10-01-2024,
+120,portal_v2,NorthGate  Textiles  S.A. ,,ES,Vantage Alloys SARL,193008687593586,Morocco,Raw Material,07/09/2025,Société certifiée ISO 9001
+121,portal_v2,Nordci Materials GmbH,DE50241043,DE,HORIZON METALS SP. Z O.O.,PL4768445880,Poland,components,09/10/2024,
+122,portal_v1,andean assemblies s.p.a.,IT38826320735,Italia,PACIFIC MACHINERY LDA.,PT316553290,PT,raw material,2025-04-28,
+123,portal_v2,Vantage  Alloys  S.r.l. ,IT12170074530,IT,GLOBAL YARNS A.Ş.,9960677129,TR,raw material,29/06/2022,Contrato renovado según acuerdo marco
+124,portal_v2,northgate textiles s.a.,ES60227680G,Espagne,golden tooling sp. z o.o.,,Polska,subcontracted_labor,03/03/2025,
+125,portal_v2,Summit Tooling S.L.,ES17820269F,España,danube plastics s.a.,ES39891810F,España,packaging,25/10/2024,"Data provided via phone, not verified"
+126,portal_v2,southbay electronics s.a.,ES78333840D,Espagne,Apex Coatings Lda,PT541466438,PT,RAW_MATERIAL,18/03/2025,Şirket 2021'de denetlendi
+127,legacy_manual_import,Highland Machinery tLd.,485329247,United Kingdom,Danub ePlastics Ltd.,GB286174002,GB,raw_material,11-26-2024,
+128,legacy_manual_import,SOUTHBAY LOGISTICS S.R.L.,IT40684690723,Italy,"Golden Packaging Co, Ltd",YMG5T5QGXJM11UYNRE,CN,Raw Material,01-27-2024,
+129,legacy_manual_import,highland weaving a.ş.,8152837670,Türkiye,horizon packaging s.a.,ES71747066G,Espagne,Raw Material,06-28-2022,
+130,portal_v2,Northgate Circuits Ltd.,GB715429489,GB,"Stonebridge Machinery Co., Ltd.",5P1Y30A5PDSXVR247B,CN,packaging,04/11/2024,Contrato renovado según acuerdo marco
+131,portal_v2,IBERIAN MATERIALS AG,DE81746680,DE,"MILLBROOK CIRCUITS CO., LTD.",,CN,raw_material,07/06/2022,Şirket 2021'de denetlendi
+132,legacy_manual_import,Andean Assemblies .Sp.A.,,IT,Copperfield Group S.L.,ES02793116B,España,RAW_MATERIAL,01-07-2025,Contact information outdated
+133,portal_v2,Westoprt Electronics SARL,,MA,Cornerstone  Assemblies  S.L. ,ES19687479E,Espagne,dyeing,17/08/2025,
+134,portal_v1,Oakridge Plastics Pvt. Ltd.,94HXCVS3375A1Z5,IN,Sunrise Plastics SARL,891377623634474,MA,Raw Material,2023-06-06,
+135,portal_v1,Prime Polymers S.L.,ES49180374G,España,"Meridian Yarns Co., Ltd.",2407709660,VN,logistics,2024-05-22,
+136,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,Morocco,Cornerstone Assemblise S.L.,ES19687479E,Espagne,raw_material,24/04/2022,
+137,legacy_manual_import,Meridian Yarns Sp z oo,PL8435722373,Poland,Millbrook  Alloys  AG ,DE251791722,Germany,packaging,09-17-2025,
+138,legacy_manual_import,irongate alloys a.ş.,6888337780,Turkey,ROYAL COATINGS S.L.,,Espagne,Raw Material,11-13-2024,
+139,portal_v2,rhine tooling ag,,Germany,Highland Mcahinery SARL,172575982337100,MA,materia prima,09/01/2024,
+140,portal_v1,Highland Components SAS,FR34285656538,France,Northgat eAssemblies Inc.,553358029,United States,RAW_MATERIAL,2024-11-14,
+141,portal_v2,Horizon Alloys SARL,381866192115924,MA,LAKESIDE PACKAGING S.L.,61385815B,Espagne,raw material,20/02/2022,segÃºn acuerdo
+142,portal_v2,rhine packaging lda.,PT928840726,Portugal,Irongate Logistics B.V.,NL511393683B38,Netherlands,packaging,26/01/2022,
+143,legacy_manual_import,"Meridian Foundry Co, Ltd",6936664761,VN,"redstone plastics co., ltd.",2677094459,Vietnam,finishing,05-20-2023,
+144,portal_v2,Anatolian  Yarns  Sp.  z  o.o. ,PL0677017673,Poland,Alpine Chemicals SARL,663846623328168,MA,finishing,,
+145,portal_v2,Silverline  Chemicals  SAS ,FR67254489366,France,Oakridge  Group  Sp.  z  o.o. ,PL8531929520,Polska,finishing,01/01/2024,Pending re-confirmation
+146,portal_v1,Silverline eLather S.L.,,Spain,BLUEWATER FOUNDRY S.A.,ES36831880C,España,logistics,2025-09-30,"Data provided via phone, not verified"
+147,portal_v2,Vantage Allosy SARL,193008687593586,Maroc,Vantage  Assemblies  SAS ,FR03191475196,France,dyeing,20/07/2022,Duplicate of prior quarter submission
+148,portal_v2,"Highland Tooling Co, Ltd",G9GDNTQUXZJWLN2EV6,CN,Golden Chemicals SAS,,France,components,,"Data provided via phone, not verified"
+149,portal_v2,IBERIAN MATERIALS AG,DE817466807,Germany,"copperfield foundry co., ltd.",,VN,RAW_MATERIAL,28/08/2023,Fornecedor homologado em 2023
+150,portal_v2,Permier Dyeworks A.Ş.,6954004320,TR,Millbrook  Fibers  Pvt.  Ltd. ,84WSTJK5150A1Z5,India,raw_material,15/06/2023,
+151,legacy_manual_import,continental fasteners sarl,524296237088409,Morocco,United Machinery Ltd.,GB286459114,UK,finishing,05-20-2025,
+152,portal_v2,rhine packaging lda.,PT928840726,PT,Global  Ceramics  Sp.  z  o.o. ,PL531340444,PL,materia prima,21/09/2024,Contrato renovado según acuerdo marco
+153,portal_v2,oakridge fasteners lda.,PT175750309,PT,Premier  Coatings  A.Ş. ,4752892539,Türkiye,Raw Material,19/12/2024,
+154,portal_v1,Nordic  Materials  GmbH ,DE502141043,DE,"Atlantic Steel Co., Ldt.",6809149499,VN,components,2024-10-01,
+155,portal_v2,alpine coatings sarl,102439281045618,MA,Westport  Yarns  SAS ,,France,materia prima,24/02/2023,Pending re-confirmation
+156,portal_v2,united chemicals ltd.,,United Kingdom,ANATOLIAN MACHINERY A.Ş.,,TR,Raw Material,27/03/2022,
+157,portal_v1,Continental Group SARL,,Morocco,OAKRIDGE PACKAGING SAS,FR69577944501,France,logistics,2023-08-31,
+158,portal_v1,Global Ceramics Sp z oo,,Polska,Nordic Ceramics S.L.,ES28842673D,ES,component,2024-08-30,
+159,portal_v1,"United  Assemblies  Co.,  Ltd. ",6926242393,Vietnam,ANATOLIAN POLYMERS SARL,413403018954648,Morocco,materia prima,2023-12-24,Contrato renovado según acuerdo marco
+160,portal_v2,NorthGate  Textiles  S.A. ,60227680G,España,Global Electronics S.A.,ES50165258A,Spain,components,02/11/2024,
+161,portal_v2,SILVERLINE LEATHER S.L.,ES95639376A,Spain,BLUEWATER FOUNDRY S.A.,ES36831880C,España,materia prima,08/02/2025,segÃºn acuerdo
+162,portal_v1,Danube Components Sp z oo,PL8781446242,Polska,Riverside  Chemicals  S.p.A. ,IT17291807684,Italy,raw material,2024-05-20,Contrato renovado según acuerdo marco
+163,portal_v2,Silverline Leather SL,ES95639376A,Spain,Bluewater Foundry SA,,ES,logistics,21/04/2024,
+164,portal_v2,"HIGHLAND TOOLING CO., LTD.",G9GDNTQUXZJWLN2EV6,China,Silverline  Leather  S.L. ,ES95639376A,Spain,raw_material,23/05/2025,
+165,portal_v2,WESTPORT TRADING A.Ş.,9238434939,Türkiye,Horizon Machinery SpA,IT93706601345,Italy,logistics,30/07/2025,
+166,portal_v1,Silvreline Chemicals SAS,fr67254489366,France,"Lakeside  Packaging  Co.,  Ltd. ",6606551693,VN,components,2022-05-08,
+167,portal_v2,Alpine  Coatings  SARL ,102439281045618,Morocco,Bluewater Industries A.Ş.,224924184,Turkey,components,28/07/2025,
+168,portal_v2,Baltic Foundry BV..,NL 127387209B07,Holland,ATLANTIC TRADING B.V.,NL274449316B37,NL,Raw Material,06/06/2024,
+169,legacy_manual_import,Sunrise Leahter SARL,FR17861973435,FR,irongate steel ag,DE851882729,Germany,component,08-01-2022,
+170,portal_v2,(sin nombre),,Holland,vantage circuits s.p.a.,IT53333151593,IT,raw material,15/01/2024,
+171,portal_v2,Rhine Tooling AG,DE535425961,DE,PACIFIC COATINGS LTD.,GB 202514640,UK,Raw Material,13/07/2025,
+172,portal_v2,oakridge plastics pvt. ltd.,94HXCVS3375A1Z5,India,United Eletcronics Lda.,,PT,Raw Material,,
+173,legacy_manual_import,NordicF ibers SAS,FR32114540305,FR,SOUTHBAY ELECTRONICS SARL,346652635766034,MA,raw_material,03-06-2022,
+174,legacy_manual_import,Copperfield Dyeworks Pvt. Ltd.,56IJOUL3230A1Z5,India,alpine materials ltd.,GB409-940422,UK,finishing,12-01-2024,segÃºn acuerdo
+175,portal_v2,nordic materials gmbh,,DE,NORTHGATE TRADING S.A.,,Spain,raw material,,
+176,portal_v1,Meridian Fasteners Ltd,,United Kingdom,Anatloian Yarns Sp. z o.o.,PL0677017673,Poland,components,2024-05-08,
+177,portal_v2,Oakridge  Fasteners  Lda. ,PT175750309,Portugal,Horizon Solutions Lda.,PT196215509,Portugal,component,03/11/2023,
+178,portal_v2,"united assemblies co., ltd.",6926242393,Vietnam,Iberian Dyeworsk Inc.,-4972853,United States,logistics,26/04/2022,Pending re-confirmation
+179,portal_v2,Pacific Meatls Inc.,11-7347262,US,"Premier Metals Co, Ltd",NWJ0XPEEVPEXGSBTWU,China,materia prima,03/07/2022,Fournisseur validé lors de l'audit 2022
+180,portal_v1,Danube Components Sp. z o.o.,pl8781446242,Polska,Stonebridge Tooling SARL,251361799399069,MA,component,2022-06-23,
+181,portal_v2,northgate machinery ltd.,GB144982519,United Kingdom,Oakridge Assemblie sInc.,65-4137672,United States,component,24/11/2023,Şirket 2021'de denetlendi
+182,portal_v2,global electronics s.a.,ES50165258A,Espagne,"redstone plastics co., ltd.",2955705581,VN,raw material,20/04/2023,
+183,portal_v1,"prime electronics co., ltd.",VE 8QMU72MHTLP9NJ96,China,alpine fibers gmbh,,Germany,packaging,2023-08-12,
+184,portal_v2,Anatolian  Metals  SARL ,FR62182564559,France,Horizon Solutions Sp z oo,PL4837332964,Polska,logistics,07/08/2022,Pending re-confirmation
+185,portal_v2,"Andean Leather Co, Ltd",DNCWF820JL0Q221BH9,China,MERIDIAN FASTENERS LTD.,,GB,component,25/11/2023,
+186,portal_v2,Cornerstnoe Fasteners S.A.,ES20546820H,Spain,Oakridge  Metals  SARL ,FR96492088836,France,materia prima,27/09/2025,
+187,portal_v2,Highland Weaving A.Ş.,8152837670,Turkey,Horizon Packaging SA,ES 71747066G,Spain,materia prima,01/10/2022,
+188,portal_v2,nordic materials gmbh,DE502141043,Germany,"Atlantic Steel Co., Ltd.",6809149499,VN,raw_material,08/05/2025,
+189,portal_v2,VANTAGE ALLOYS SARL,193008687593586,Morocco,Prmeier Solutions Lda.,PT712236852,PT,raw_material,08/08/2025,
+190,portal_v2,Gloabl Ceramics Sp. z o.o.,PL5131340444,Poland,Nordic  Ceramics  S.L. ,ES28842673D,España,raw_material,15/03/2022,Contact information outdated
+191,portal_v2,Irongate Alloys A.Ş.,6888337780,TR,Silverline Polymers Sp z oo,,Polska,subcontracted_labor,04/02/2025,Confirmación pendiente por parte del proveedor
+192,portal_v2,NORTHGATE MACHINERY LTD.,GB144982519,GB,Crestwood  Metals  SARL ,976694569801375,Maroc,RAW_MATERIAL,23/09/2024,"Data provided via phone, not verified"
+193,portal_v2,Meridian  Fasteners  Ltd. ,,United Kingdom,Northgate Stele A.Ş.,56180218,TR,materia prima,04/08/2024,Fornecedor homologado em 2023
+194,portal_v2,highland plastics s.p.a.,IT24406348066,Italy,Atlantic  Industries  B.V. ,,Netherlands,logistics,15/09/2022,Backup supplier - low volume
+195,portal_v2,Vantage Allosy SARL,193008687593586,Maroc,Premier Solutions Lda.,PT712236852,Portugal,packaging,,
+196,legacy_manual_import,OAKRIDGE PACKAGING SAS,FR69577944501,FR,Meridian  Yarns  Sp.  z  o.o. ,PL8435722373,PL,finishing,11-23-2022,
+197,portal_v1,Vantage Allosy SARL,193008687593586,MA,premier solutions lda.,PT712-236852,PT,materia prima,2025-02-28,Société certifiée ISO 9001
+198,portal_v2,northgate textiles s.a.,,España,"Andean  Leather  Co.,  Ltd. ",DNCWF820JL0Q221BH9,China,materia prima,11/09/2022,Contact information outdated
+199,portal_v2,Alpine Weaving S.L.,ES88454746C,Espagne,Apex  Industries  A.Ş. ,6656315572,TR,materia prima,18/11/2023,
+200,legacy_manual_import,rhine tooling ag,DE535425961,Germany,Alpine Coatings SARL,102439281045618,MA,packaging,02-12-2025,Duplicate of prior quarter submission
+201,portal_v2,CORNERSTONE FASTENERS S.A.,ES20546820H,Espagne,Stonebridge  Fasteners  Lda. ,PT485-627467,PT,component,31/05/2025,
+202,portal_v2,OAKRIDGE PLASTICS PVT. LTD.,94HXCVS3375A1Z5,IN,Irongate  Electronics  Inc. ,17-8899452,US,finishing,07/03/2022,
+203,legacy_manual_import,"Meridian  Foundry  Co.,  Ltd. ",6936664761,VN,Highland  Steel  Sp.  z  o.o. ,PL7859126165,Poland,Raw Material,01-30-2024,
+204,portal_v2,Baltic Foundry B.V.,NL127387209B07,Netherlands,Continental Weaving B.V.,NL346920737B67,NL,RAW_MATERIAL,21/10/2023,Pending re-confirmation
+205,legacy_manual_import,southbay electronics s.a.,ES78333840D,Espagne,Apex Coatings Lda.,PT541466438,PT,packaging,01-01-2025,Backup supplier - low volume
+206,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,Iberian Dyeworsk Inc.,,United States,packaging,07/11/2022,
+207,portal_v1,highland plastics s.p.a.,,Italia,REDSTONE CHEMICALS LDA.,PT253396557,PT,packaging,2024-08-22,
+208,legacy_manual_import,Rhine Packaging Lda,PT928840726,Portugal,Summit Materials Inc,91-91-70792,USA,packaging,01-01-2025,
+209,legacy_manual_import,Silverline  Leather  S.L. ,,Espagne,Bluewater  Foundry  S.A. ,ES 36831880C,España,raw_material,11-20-2023,Şirket 2021'de denetlendi
+210,legacy_manual_import,Baltic Foundry BV,NL127387209B07,Netherlands,atlantic trading b.v.,NL274449316B37,Netherlands,components,09-22-2023,Backup supplier - low volume
+211,legacy_manual_import,Highland Plastics S.p.A.,IT24406348066,Italy,atlantic industries b.v.,,NL,dyeing,06-20-2022,
+212,portal_v1,APEX CIRCUITS S.P.A.,IT59296256706,Italy,Summit  Industries  SAS ,FR50014475805,France,finishing,2022-08-13,
+213,legacy_manual_import,Horizon Alloys SARL,38866192115924,Morocco,OAKRIDGE TEXTILES B.V.,NL 886154196B97,Holland,subcontracted_labor,01-04-2025,
+214,portal_v2,Westport  Electronics  SARL ,394225258329500,Maroc,Cornerstone Assemblise S.L.,ES19687479E,Espagne,materia prima,15/10/2022,Backup supplier - low volume
+215,legacy_manual_import,PACIFIC MACHINERY LDA.,,PT,SUMMIT METALS GMBH,,Deutschland,subcontracted_labor,11-19-2022,Contact information outdated
+216,portal_v1,"SUMMIT MACHINERY CO., LTD.",94 02555543,Vietnam,riverside fasteners s.l.,,España,finishing,,Société certifiée ISO 9001
+217,portal_v2,Anatloian Yarns Sp. z o.o.,PL0677017673,Polska,Alpine  Chemicals  SARL ,663846623328168,Morocco,dyeing,06/10/2023,Contact information outdated
+218,portal_v1,Oakirdge Packaging SAS,fr69577944501,FR,meridian yarns sp. z o.o.,PL8435722373,Poland,packaging,2023-04-13,
+219,portal_v2,Southbay Logistics Srl,IT40684690723,Italia,"GOLDEN PACKAGING CO., LTD.",YMG5T5QGXJM11UYNRE,China,RAW_MATERIAL,05/09/2023,Pending re-confirmation
+220,legacy_manual_import,Cornerstnoe Fasteners S.A.,ES20546820H,Spain,Stonebridge  Fasteners  Lda. ,PT485627467,PT,subcontracted_labor,08-31-2025,Fornecedor homologado em 2023
+221,portal_v2,Premier Dyeworks A.Ş.,6954004320,Turkey,Crestwodo Chemicals S.p.A.,IT41098499897,Italia,raw material,24/08/2025,
+222,portal_v2,Royal  Machinery  Inc. ,,US,Rhine Assemblies Inc,-7759986,US,raw material,31/12/2022,
+223,legacy_manual_import,Apex Circuits S..pA.,,Italy,Summit  Industries  SAS ,FR50014475805,France,raw_material,05-06-2025,Confirmación pendiente por parte del proveedor
+224,portal_v2,Horizon yDeworks A.Ş.,5797626609,Turkey,Andean Components Lda.,PT761747749,PT,subcontracted_labor,29/08/2024,
+225,portal_v2,Southbay  Electronics  SARL ,346652635766034,Maroc,westport electronics sarl,394225258329500,Morocco,component,30/06/2024,
+226,legacy_manual_import,Northgate Machinery Ltd,GB144982519,GB,CORNERSTONE ALLOYS B.V.,NL683629854B33,Netherlands,materia prima,04-14-2022,Contrato renovado según acuerdo marco
+227,portal_v1,southbay electronics s.a.,ES78333840D,ES,###,,PT,subcontracted_labor,2022-03-24,
+228,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,IN,VANTAGE TEXTILES S.A.,30633873E,España,logistics,19/11/2023,Contact information outdated
+229,portal_v2,Highland Plastics SpA,IT24406348066,Italia,Redstone Chemiacls Lda.,PT253396557,Portugal,components,23/01/2022,
+230,portal_v1,SILVERLINE CHEMICALS SAS,FR67254489366,France,Oakridge  Group  Sp.  z  o.o. ,,Polska,subcontracted_labor,2022-07-26,
+231,legacy_manual_import,Rhine  Tooling  AG ,de535425961,Deutschland,alpine coatings sarl,102439281045618,Morocco,raw material,07-13-2022,
+232,portal_v2,"Summit Machinery Co., tLd.",9402555543,VN,RIVERSIDE FASTENERS S.L.,ES59379346C,ES,packaging,,Contact information outdated
+233,portal_v2,AlpineP lastics A.Ş.,83495249,Türkiye,Copperfield Dyeworks Pvt Ltd,56IJOUL3230A1Z5,India,raw material,03/09/2023,Backup supplier - low volume
+234,portal_v2,Northgate  Circuits  Ltd. ,gb715429489,United Kingdom,Iberian  Plastics  S.L. ,ES85181933E,Espagne,dyeing,27/12/2023,Contact information outdated
+235,legacy_manual_import,NotrhGate Textiles S.A.,ES60227680G,ES,"andean leather co., ltd.",DNCWF820JL0Q221BH9,China,packaging,11-18-2023,Duplicate of prior quarter submission
+236,portal_v2,Silverline Materials SAS,FR1876960869,FR,COPPERFIELD FIBERS LDA.,PT151483512,Portugal,finishing,11/05/2022,Pending re-confirmation
+237,portal_v1,Vantage Circuits SpA,IT53333151593,IT,Millbrook Polymers B.V.,NL353205082B84,NL,RAW_MATERIAL,2023-01-27,Contact information outdated
+238,portal_v2,Rhine  Tooling  AG ,DE535425961,DE,"Silverline Leather Co., Ltd.",MGS37PAKGJERBP9846,China,materia prima,21/02/2023,
+239,portal_v2,HIGHLAND COMPONENTS SAS,FR34285656538,France,Northgate Assemblies Inc,55-3358029,US,Raw Material,19/10/2023,
+240,portal_v1,Northgate Circuist Ltd.,GB715429489,GB,"Oakrideg Polymers Co., Ltd.",,CN,packaging,2022-08-31,Fournisseur validé lors de l'audit 2022
+241,legacy_manual_import,oakridge fasteners lda.,PT175750309,Portugal,westport trading a.ş.,9238434939,Turkey,subcontracted_labor,04-14-2024,
+242,portal_v2,RHINE PACKAGING LDA.,PT928840726,Portugal,EASTFIELD ALLOYS GMBH,DE413376973,Germany,materia prima,20/07/2023,Confirmación pendiente por parte del proveedor
+243,portal_v2,oakridge plastics pvt. ltd.,94HXCVS3375A1Z5,India,Sunrise Plastics SARL,891377623634474,Maroc,subcontracted_labor,21/09/2023,
+244,portal_v2,Pacific Machniery Lda.,PT721441525,PT,cornerstone foundry s.r.l.,IT91202848475,IT,RAW_MATERIAL,10/11/2023,
+245,portal_v1,irongate alloys a.ş.,6888337780,TR,"ANDEAN STEEL CO., LTD.",CL12TKN77WAW76RRRX,China,packaging,2025-05-29,
+246,portal_v2,Rhine Tooling AG,DE535425961,Germany,baltic foundry b.v.,NL127387209B07,Holland,logistics,12/02/2022,Pending re-confirmation
+247,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,Morocco,Copperfield Fasteners GmbH,DE713595939,Germany,Raw Material,15/03/2023,
+248,portal_v2,Redstone Chemicals Lda.,PT253396557,PT,Horizon  Alloys  SARL ,381866192115924,Morocco,logistics,23/11/2023,
+249,portal_v2,prime packaging sarl,FR39133626704,FR,Sunrise Components Pvt .Ltd.,60OBGEY5507A1Z5,IN,packaging,11/06/2022,
+250,portal_v2,Alpine Weaving SL,ES88454746C,España,CORNERSTONE FASTENERS S.A.,es20546820h,España,logistics,11/05/2022,Confirmación pendiente por parte del proveedor
+251,portal_v2,Horizon Alloys SARL,381866192115924,MA,LAKESIDE PACKAGING S.L.,61385815B,Espagne,raw material,20/02/2022,segÃºn acuerdo
+252,portal_v2,Sunrise Leahter SARL,FR17861973435,FR,Millbrook Solutions Lda,PT399423598,Portugal,component,29/09/2025,
+253,portal_v2,nordic materials gmbh,DE502141043,Deutschland,"Royal  Trading  Co.,  Ltd. ",7398432518,Vietnam,raw_material,05/12/2023,Société certifiée ISO 9001
+254,legacy_manual_import,Highland Machinery tLd.,,GB,Danube  Plastics  Ltd. ,,UK,subcontracted_labor,01-05-2023,Fournisseur validé lors de l'audit 2022
+255,portal_v2,Anatolian  Metals  SARL ,FR62182564559,France,Global Metals Inc.,07-8555313,United States,dyeing,24/05/2024,
+256,portal_v2,NorthGate Textiles SA,,España,Andean Leather Pvt Ltd,,IN,RAW_MATERIAL,27/05/2023,
+257,portal_v2,apex industries a.ş.,6656315572,TR,andean components b.v.,NL029205177B36,Holland,materia prima,06/10/2024,
+258,portal_v2,Highland  Components  SAS ,FR34285656538,France,Continental Packaging SpA,,IT,raw_material,13/04/2024,segÃºn acuerdo
+259,portal_v2,Andean Assemblies .Sp.A.,IT38826320735,Italia,Pacific  Machinery  Lda. ,PT316553290,Portugal,dyeing,29/01/2022,ConfirmaciÃ³n pendiente por parte del proveedor
+260,portal_v2,OAKRIDGE FASTENERS LDA.,PT175750309,Portugal,westport trading a.ş.,9238434939,TR,raw_material,17/12/2024,
+261,portal_v1,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,EASTFIELD LEATHER SAS,FR18801882497,France,subcontracted_labor,2022-02-16,Fornecedor homologado em 2023
+262,portal_v1,rhine tooling ag,,Germany,PACIFIC COATINGS LTD.,GB202514640,United Kingdom,Raw Material,2024-05-25,
+263,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,Iberian Dyeworsk Inc.,,United States,packaging,07/11/2022,
+264,portal_v2,NorthGate Textiles S.A.,ES60227680G,Spain,WESTPORT ELECTRONICS SARL,3942252-58329500,Morocco,logistics,24/01/2025,
+265,portal_v2,northgate machinery ltd.,,United Kingdom,Premier Dyeworks AŞ,,Turkey,materia prima,21/01/2023,
+266,portal_v1,Bluewater  Manufacturing  S.r.l. ,IT 10862914220,IT,"Northgate Polymers Co, Ltd",,CN,component,,Confirmación pendiente por parte del proveedor
+267,portal_v2,Alpine Weaving S.L.,ES88454746C,ES,"Pacific Machinery Co., Ltd.",4Z7XKKST8VZHE9JLQ5,CN,finishing,22/03/2023,"Data provided via phone, not verified"
+268,portal_v2,HORIZON ALLOYS SARL,381866192115924,Maroc,Lakeside Packaging S.L.,ES61385815B,Espagne,materia prima,09/01/2022,Backup supplier - low volume
+269,portal_v2,Danube  Components  Sp.  z  o.o. ,PL8781446242,Poland,Riverside Chemicals SpA,IT17291807684,IT,Raw Material,10/08/2024,Backup supplier - low volume
+270,portal_v2,Alpine Weaving S.L.,ES88454746C,España,Batlic Fibers Ltd.,GB655823297,UK,finishing,02/09/2023,"Data provided via phone, not verified"
+271,portal_v1,VANTAGE ALLOYS SARL,193008687593586,Maroc,Silverline Materials SAS,FR18769608269,France,raw material,2024-11-09,Contrato renovado según acuerdo marco
+272,portal_v2,Nordic Materials GmbH,DE502141043,Deutschland,NORTHGATE TRADING S.A.,ES71132831E,España,component,28/07/2023,
+273,portal_v2,westport electronics sarl,394225258329500,MA,Iberian Machniery Ltd.,GB910116526,UK,raw material,30/10/2024,
+274,portal_v2,premier dyeworks a.ş.,695400430,Turkey,crestwood chemicals s.p.a.,IT41098499897,Italia,finishing,23/02/2022,Şirket 2021'de denetlendi
+275,portal_v1,UNKNOWN,,Morocco,"IBERIAN ASSEMBLIES CO., LTD.",K54AWTVW783SWDM5XV,CN,raw material,2022-02-08,
+276,portal_v2,Redstone Chemiacls Lda.,PT253396557,PT,EASTFIELD GROUP GMBH,DE632131355,DE,dyeing,02/12/2023,
+277,portal_v2,Pacific Meatls Inc.,11-7347262,US,Meridian Industrie sSAS,,France,raw material,31/12/2022,
+278,portal_v1,United Leather Sp z oo,PL0846433592,Polska,Premier Materials Sp .z o.o.,PL5659235740,Polska,component,2025-08-27,Contact information outdated
+279,legacy_manual_import,Silverline  Chemicals  SAS ,67254489366,FR,Oakridge Group Sp z oo,PL8531929520,Poland,logistics,11-28-2022,Fornecedor homologado em 2023
+280,legacy_manual_import,Eastfield Components SARL,FR58653776073,France,ATLANTIC TEXTILES PVT. LTD.,,IN,RAW_MATERIAL,04-29-2023,Pending re-confirmation
+281,portal_v2,Oakridge  Logistics  A.Ş. ,7963609841,Turkey,Meridian Weaving Pvt. Ltd.,06VZKDB3713A1Z5,IN,dyeing,13/08/2022,
+282,portal_v2,Alpnie Weaving S.L.,ES88454746C,Espagne,Apex Industries A.Ş.,6656315572,TR,components,02/04/2024,
+283,portal_v1,alpine materials ltd.,GB409940422,UK,"Prime  Electronics  Co.,  Ltd. ",VE8QMU72MHTLP9NJ96,China,Raw Material,2024-09-09,
+284,legacy_manual_import,Southbay Logistics S.r.l.,IT4068-4690723,IT,Westport  Manufacturing  B.V. ,NL521295413B38,NL,materia prima,07-06-2023,
+285,portal_v2,Summit Tooilng S.L.,ES 17820269F,España,IRONGATE CIRCUITS B.V.,NL410656411B65,Holland,Raw Material,,
+286,portal_v2,Contienntal Textiles Pvt. Ltd.,29YKHST4465A1Z5,IN,Global Fasteners B.V.,,NL,finishing,14/08/2022,
+287,legacy_manual_import,Copperfield Group S.L.,ES02793116B,Espagne,sunrise foundry b.v.,NL757190566B03,Holland,materia prima,11-09-2023,
+288,portal_v1,"andean leather co., ltd.",DNCWF820JL0Q221BH9,CN,"Meirdian Foundry Co., Ltd.",6936664761,Vietnam,subcontracted_labor,2022-08-23,
+289,portal_v1,Alpine  Coatings  SARL ,102439281045618,Maroc,Anatolian Poylmers Inc.,30-6364630,United States,packaging,2023-06-25,
+290,portal_v2,irongate logistics b.v.,,Holland,"Continental  Tooling  Co.,  Ltd. ",EJ377BC7RJZUZ0NFWL,CN,packaging,08/01/2022,
+291,portal_v2,OAKRIDGE PLASTICS PVT. LTD.,94HXCVS3375A1Z5,India,IRONGATE ELECTRONICS INC.,17-8899452,US,packaging,09/01/2023,
+292,portal_v2,SILVERLINE LEATHER S.L.,ES95639376A,Espagne,Bluewater Foundry S.A.,ES36831880C,España,RAW_MATERIAL,13/02/2023,Duplicate of prior quarter submission
+293,portal_v2,Westport Trading AŞ,9238434939,Turkey,Horizon  Machinery  S.p.A. ,IT93706601345,Italy,subcontracted_labor,20/04/2022,
+294,legacy_manual_import,Highland Components SAS,FR34285656538,France,Continental Packaging SpA,,Italy,component,05-09-2024,Fornecedor homologado em 2023
+295,portal_v2,ANDEAN LEATHER PVT. LTD.,HCGCH6332A1Z5,IN,Baltic Chemicals BV,NL192147365B35,NL,raw_material,02/08/2022,Pending re-confirmation
+296,portal_v2,Baltic Foundry BV..,NL127387209B07,NL,Southbay  Electronics  S.A. ,ES78333840D,ES,RAW_MATERIAL,01/08/2024,
+297,portal_v2,Oakridge Logistics A.Ş.,7963609841,TR,Apex MachineryG mbH,DE660561327,Deutschland,dyeing,16/08/2025,Société certifiée ISO 9001
+298,portal_v2,ATLANTIC LOGISTICS S.R.L.,IT04077145284,Italy,Bluewater Manufacturing S..rl.,IT10862914220,IT,subcontracted_labor,22/05/2023,
+299,portal_v2,Atlantic Logistics Srl,IT0407-7145284,Italia,bluewater manufacturing s.r.l.,IT10862914220,Italy,component,19/04/2025,
+300,portal_v2,ALPINE MATERIALS LTD.,GB409940422,United Kingdom,"Prime Electronics Co, Ltd",VE8QMU72MHTLP9NJ96,China,component,,
+301,legacy_manual_import,"Summit Machinery Co, Ltd",94 02555543,Vietnam,Hihgland Fibers Ltd.,GB289869081,United Kingdom,materia prima,01-08-2024,Fornecedor homologado em 2023
+302,portal_v2,BLUEWATER DYEWORKS SAS,FR60253625246,France,Redstone Manufacturing GmbH,DE473445968,Germany,logistics,08/08/2022,Pending re-confirmation
+303,portal_v2,Vantage  Alloys  SARL ,193008687593586,MA,Irongate Industries S.r.l.,IT62370499022,Italy,logistics,03/06/2024,
+304,legacy_manual_import,Southbay  Electronics  SARL ,346652635766034,Maroc,Westport Electronics SARL,394225258329500,MA,Raw Material,01-11-2025,"Data provided via phone, not verified"
+305,portal_v1,NORTHGATE CIRCUITS LTD.,GB715429489,UK,Bluewater  Industries  A.Ş. ,9455686824,TR,subcontracted_labor,2022-07-17,Şirket 2021'de denetlendi
+306,portal_v2,"united assemblies co., ltd.",,Vietnam,IBERIAN DYEWORKS INC.,,USA,Raw Material,04/09/2024,
+307,portal_v2,"Andean Leather Co., Ltd.",DNCWF820JL0Q221BH9,China,Meridian Fasteners Ltd,GB212776106,United Kingdom,subcontracted_labor,23/12/2022,Pending re-confirmation
+308,legacy_manual_import,Horizon Manufactuirng AG,DE431839337,Germany,United Fuondry Lda.,,PT,raw material,07-06-2025,Contrato renovado según acuerdo marco
+309,portal_v2,Summit Trading ASRL,,France,SUNRISE CIRCUITS SAS,FR90916808819,France,raw material,17/07/2025,
+310,legacy_manual_import,Northgate Machinery Ltd.,GB144982519,GB,OAKRIDGE ASSEMBLIES INC.,65-4137672,US,dyeing,02-09-2023,
+311,portal_v1,Horizon  Dyeworks  A.Ş. ,5797626609,Türkiye,Andean Components Lda.,761747749,Portugal,subcontracted_labor,2022-04-04,
+312,portal_v2,Summit Leather BV,NL516371548B32,Netherlands,Vantaeg Circuits S.p.A.,IT53333151593,Italy,raw material,31/07/2022,Fornecedor homologado em 2023
+313,portal_v2,Continental Textiles Pvt. Ltd.,,IN,Global Fasteners .BV.,NL794629071B40,Holland,logistics,21/08/2024,Backup supplier - low volume
+314,portal_v2,golden tooling sp. z o.o.,PL2144229485,PL,Global Alloys SARL,FR02653954607,France,materia prima,29/10/2023,
+315,portal_v2,Andean Leather Pvt Ltd,02HCGCH6332A1Z5,India,horizon dyeworks a.ş.,57 97626609,Türkiye,components,16/02/2022,Duplicate of prior quarter submission
+316,portal_v2,PRIME PACKAGING SARL,FR39133626704,FR,Sunrise  Components  Pvt.  Ltd. ,,IN,packaging,28/03/2024,
+317,legacy_manual_import,golden tooling sp. z o.o.,PL2144229485,Polska,LAKESIDE ELECTRONICS SARL,FR82775299571,FR,dyeing,05-21-2023,
+318,portal_v2,Atlantic Logistics S.r.l.,,IT,Alpine Weaving SL,ES88454746C,Espagne,finishing,18/07/2025,Fornecedor homologado em 2023
+319,portal_v2,crestwood metals sarl,976694569801375,Morocco,horizon manufacturing ag,DE431-839337,Germany,logistics,25/04/2024,Pending re-confirmation
+320,portal_v1,Northgate Circuits Ltd.,GB715429489,United Kingdom,Stonebridge Yarns Lda.,,Portugal,RAW_MATERIAL,2022-02-22,
+321,portal_v2,Global Alloys SARL,FR02653954607,FR,Copperfield Metals A.Ş.,9918536797,Turkey,logistics,20/06/2025,Şirket 2021'de denetlendi
+322,legacy_manual_import,"andean leather co., ltd.",CWF820JL0Q221BH9,CN,Horizon Steel Lda,PT702711595,PT,subcontracted_labor,04-05-2025,Backup supplier - low volume
+323,portal_v2,rhine packaging lda.,PT928840726,Portugal,Gloabl Ceramics Sp. z o.o.,PL5131340444,Poland,materia prima,24/07/2024,
+324,portal_v2,IBERIAN MACHINERY LTD.,GB910116526,United Kingdom,Danube  Components  Sp.  z  o.o. ,PL8781446242,Polska,Raw Material,17/01/2022,
+325,portal_v2,Danube Components Sp. z o.o.,PL8781446242,Polska,Stonebridge Tooling SARL,251361799399069,MA,components,03/06/2024,
+326,portal_v2,continental group sarl,575538294401555,Morocco,OAKRIDGE PACKAGING SAS,FR69577944501,France,subcontracted_labor,09/01/2024,
+327,portal_v2,Atlanti cLogistics S.r.l.,IT04077145284,Italy,irongate alloys a.ş.,6888337780,TR,logistics,30/07/2024,segÃºn acuerdo
+328,portal_v2,summit tooling s.l.,ES17820269F,Espagne,irongate circuits b.v.,NL410656411B65,NL,Raw Material,,
+329,portal_v2,OAKRIDGE LOGISTICS A.Ş.,7963609841,Türkiye,prime packaging sarl,F39133626704,France,components,20/09/2022,Duplicate of prior quarter submission
+330,portal_v2,NORDIC MATERIALS GMBH,,DE,Northgate Trading S.A.,ES71132831E,ES,logistics,13/03/2025,
+331,legacy_manual_import,Silvreline Chemicals SAS,FR67254489366,FR,Prime PolymersS .L.,ES49180374G,Espagne,packaging,,
+332,legacy_manual_import,Alpine  Coatings  SARL ,102439281045618,MA,Prime Industries B.V.,NL669375536B21,Netherlands,raw material,03-25-2022,Backup supplier - low volume
+333,portal_v1,Premier  Coatings  SARL ,,Maroc,prime textiles sarl,75 0072831530094,Maroc,components,2025-04-08,
+334,legacy_manual_import,Irongate  Logistics  B.V. ,NL511393683B38,NL,"Continental Tooling oC., Ltd.",EJ377BC7RJZUZ0NFWL,China,logistics,10-07-2023,Backup supplier - low volume
+335,portal_v1,alpine weaving s.l.,ES88454746C,España,Cornerstone Fasteners S.A.,ES20546820H,ES,materia prima,2022-04-11,Fournisseur validé lors de l'audit 2022
+336,portal_v1,Alpine Materials Ltd.,GB409940422,GB,"prime electronics co., ltd.",VE8QMU72MHTLP9NJ96,China,finishing,2024-03-04,Pending re-confirmation
+337,legacy_manual_import,NotrhGate Textiles S.A.,ES60227680G,ES,highland plastics s.p.a.,it24406348066,Italia,finishing,03-17-2022,
+338,portal_v2,oakridge packaging sas,,France,Meridian Yarns Sp.z  o.o.,PL8435722373,Poland,logistics,23/02/2023,
+339,portal_v2,Anatolian Metals SARL,FR62182564559,FR,horizon solutions sp. z o.o.,PL4837332964,PL,logistics,25/03/2025,"Data provided via phone, not verified"
+340,portal_v2,PACIFIC MACHINERY LDA.,PT721441525,PT,CORNERSTONE FOUNDRY S.R.L.,IT91202848475,Italia,logistics,25/03/2023,
+341,portal_v2,RHINE TOOLING AG,,Germany,ALPINE COATINGS SARL,102439281045618,Morocco,materia prima,14/08/2024,Fournisseur validé lors de l'audit 2022
+342,legacy_manual_import,Meridian Assebmlies Sp. z o.o.,PL3793702943,Poland,Alpine Assemblies A.Ş.,1619347714,Türkiye,dyeing,02-22-2022,Fornecedor homologado em 2023
+343,legacy_manual_import,UNITED LEATHER SP. Z O.O.,PL046433592,Poland,premier materials sp. z o.o.,PL5659235740,Poland,finishing,01-03-2023,Fornecedor homologado em 2023
+344,legacy_manual_import,United  Leather  Sp.  z  o.o. ,PL0846433592,Poland,Premier Materials Sp .z o.o.,PL5659235740,Polska,RAW_MATERIAL,08-18-2022,"Data provided via phone, not verified"
+345,legacy_manual_import,meridian fasteners ltd.,GB212776106,GB,MERIDIAN ASSEMBLIES SP. Z O.O.,PL 3793702943,Poland,components,12-06-2022,"Data provided via phone, not verified"
+346,portal_v2,Westport Electronics SARL,394225258329500,MA,Pacific Dyeworks BV,NL382948470B92,Netherlands,components,03/10/2024,
+347,portal_v2,redstone chemicals lda.,PT253396557,Portugal,Eastfield  Group  GmbH ,,Germany,dyeing,19/10/2023,
+348,portal_v2,Highland Plastics S.p.A.,IT24406348066,IT,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,subcontracted_labor,13/10/2023,Şirket 2021'de denetlendi
+349,legacy_manual_import,iberian machinery ltd.,GB910116526,United Kingdom,Redstone Electronics B.V.,NL912755756B86,NL,raw material,04-15-2025,
+350,legacy_manual_import,Irongate  Alloys  A.Ş. ,6888337780,Türkiye,Silverline  Polymers  Sp.  z  o.o. ,PL7353254094,Poland,raw material,03-06-2025,
+351,portal_v2,Atlantic Logistics S.r.l.,IT04077145284,Italia,Apex Circuits SpA,IT59296256706,IT,RAW_MATERIAL,10/11/2023,Backup supplier - low volume
+352,portal_v1,PREMIER COATINGS A.Ş.,4752892539,TR,Summit  Tooling  S.L. ,ES17820269F,España,Raw Material,2025-01-13,
+353,portal_v2,Golden Tooling Sp z oo,PL2144229485,PL,Oakridge Logistics AŞ,,TR,finishing,,Contact information outdated
+354,portal_v2,Andean Assemblies SpA,IT38826320735,Italia,Pacific Machniery Lda.,PT721441525,PT,packaging,08/12/2024,
+355,portal_v2,Alpine Weaving S.L.,ES88454746C,Espagne,"Pacific Machinery Co, Ltd",4Z7XKKST8VZHE9JLQ5,China,components,23/09/2024,
+356,portal_v1,VANTAGE ALLOYS SARL,193008687593586,Maroc,Vantage  Assemblies  SAS ,,FR,dyeing,2025-06-04,
+357,portal_v2,Northgate Machinery Ltd,GB144982519,United Kingdom,crestwood metals sarl,9766945-69801375,MA,components,06/08/2022,segÃºn acuerdo
+358,portal_v1,anatolian metals sarl,FR62182564559,FR,HORIZON SOLUTIONS SP. Z O.O.,pl4837332964,PL,component,2022-08-17,Confirmación pendiente por parte del proveedor
+359,portal_v2,Alpine Weaving S.L.,ES88454746C,ES,"Pacific Machinery Co., Ltd.",4Z7XKKST8VZHE9JLQ5,CN,finishing,22/03/2023,"Data provided via phone, not verified"
+360,portal_v2,NORDIC MATERIALS GMBH,DE502141043,DE,"Royal Trading Co., Ltd.",7398432518,Vietnam,materia prima,02/01/2022,Fornecedor homologado em 2023
+361,portal_v2,"united assemblies co., ltd.",6926242393,Vietnam,stonebridge plastics gmbh,DE885-551925,Germany,components,29/06/2025,Pending re-confirmation
+362,portal_v2,REDSTONE CHEMICALS LDA.,PT253396557,Portugal,EASTFIELD GROUP GMBH,DE632131355,Germany,component,20/01/2022,Confirmación pendiente por parte del proveedor
+363,portal_v1,Danube Components Sp z oo,PL8781446242,Poland,stonebridge tooling sarl,251361799399069,Maroc,Raw Material,2024-12-23,Backup supplier - low volume
+364,portal_v2,Atlantic  Logistics  S.r.l. ,IT04077145284,Italy,Alpnie Weaving S.L.,ES88454746C,Espagne,Raw Material,,Contrato renovado según acuerdo marco
+365,portal_v1,meridian fasteners ltd.,gb212776106,United Kingdom,Nordic Fibers SAS,FR32114540305,FR,logistics,2025-09-23,Contact information outdated
+366,legacy_manual_import,=SUM(A1:A2),,Poland,GOLDEN STEEL SARL,012089444331070,Maroc,components,05-01-2022,Backup supplier - low volume
+367,portal_v1,Premier  Coatings  A.Ş. ,4752892539,TR,Highland  Weaving  A.Ş. ,8152837670,Turkey,RAW_MATERIAL,2023-03-15,Société certifiée ISO 9001
+368,portal_v2,Horizon  Manufacturing  AG ,DE431839337,Deutschland,United Foundry Lda,PT323269615,PT,dyeing,12/03/2025,
+369,portal_v1,Northgate  Circuits  Ltd. ,GB715429489,UK,Iberian Plastics SL,ES85181933E,ES,materia prima,2025-04-22,Fornecedor homologado em 2023
+370,portal_v2,Continental  Fasteners  SARL ,524296237088409,MA,United Machinery tLd.,GB286459114,GB,raw material,24/03/2022,Pending re-confirmation
+371,legacy_manual_import,Copperfield Metals A.Ş.,9918536797,TR,Anatolian  Materials  A.Ş. ,2337786746,Turkey,raw material,01-02-2022,
+372,legacy_manual_import,Atlantic Logistics S.r.l.,IT04077145284,Italia,Southbay  Logistics  S.r.l. ,IT40684690723,IT,dyeing,05-16-2025,
+373,portal_v2,WESTPORT TRADING A.Ş.,92 38434939,TR,"Hoirzon Weaving Co., Ltd.",2K2JHK5BH36K3HTFHF,China,components,11/02/2025,segÃºn acuerdo
+374,portal_v1,Andean Letaher Pvt. Ltd.,02HCGCH-6332A1Z5,India,vantage textiles s.a.,ES30633873E,Espagne,raw_material,2022-03-24,Confirmación pendiente por parte del proveedor
+375,legacy_manual_import,northgate textiles s.a.,ES60227680G,España,VANTAGE ALLOYS SARL,193008687593586,MA,component,12-08-2022,Pending re-confirmation
+376,portal_v2,"Meridian Foundry Co., Ltd.",6936664761,Vietnam,"SUMMIT MACHINERY CO., LTD.",,VN,packaging,21/06/2022,
+377,portal_v2,Irongate Alloys A.Ş.,6888337780,Türkiye,Royal Coatings S.L.,ES73413748E,España,component,05/03/2022,Contrato renovado según acuerdo marco
+378,portal_v2,Silverline Leather SL,,España,BALTIC LEATHER PVT. LTD.,95OEZWM3402A1Z5,India,dyeing,29/01/2022,Şirket 2021'de denetlendi
+379,portal_v2,Silverline  Chemicals  SAS ,FR67254489366,France,prime polymers s.l.,ES49180374G,España,components,24/07/2022,Fournisseur validé lors de l'audit 2022
+380,portal_v2,"United Assemblies Co, Ltd",6926242393,VN,Global  Circuits  GmbH ,720227574,Deutschland,logistics,03/10/2023,Fournisseur validé lors de l'audit 2022
+381,portal_v1,Westport Trading A.Ş.,9238434939,Türkiye,"Crestwood Yarns Co., Ltd.",QDTRK1B2ZX2X1DSSZM,CN,raw material,2023-05-13,
+382,legacy_manual_import,Golden  Tooling  Sp.  z  o.o. ,PL2144229485,PL,Global Alloys SARL,FR02653954607,FR,RAW_MATERIAL,02-04-2023,Fornecedor homologado em 2023
+383,portal_v2,HIGHLAND PLASTICS S.P.A.,IT24406348066,IT,atlantic industries b.v.,NL118466507B21,Holland,RAW_MATERIAL,,
+384,portal_v1,silverline chemicals sas,FR67254489366,FR,Prime Polymers S.L.,,Espagne,component,2025-03-01,Backup supplier - low volume
+385,portal_v1,Oakridge Fsateners Lda.,,PT,Alpine Tradin gSARL,274958225941535,MA,raw material,2025-03-19,Contrato renovado según acuerdo marco
+386,portal_v2,Golden  Tooling  Sp.  z  o.o. ,PL2144229485,Polska,LAKESIDE ELECTRONICS SARL,FR82775299571,FR,dyeing,04/02/2024,
+387,legacy_manual_import,=SUM(A1:A2),,Poland,GOLDEN STEEL SARL,012089444331070,Maroc,components,05-01-2022,Backup supplier - low volume
+388,legacy_manual_import,PREMIER COATINGS SARL,329449379788765,Maroc,Prime Textiels SARL,750072831530094,MA,raw_material,01-30-2025,Contact information outdated
+389,portal_v2,Andean Assemblies .Sp.A.,IT38826320735,IT,Summit Trading SARL,FR44034462491,FR,components,18/09/2022,Şirket 2021'de denetlendi
+390,portal_v2,Anatloian Yarns Sp. z o.o.,PL0677017673,PL,Sunrise  Weaving  A.Ş. ,9075459796,TR,component,16/06/2025,
+391,legacy_manual_import,premier dyeworks a.ş.,6954004320,Türkiye,Rhine Foundry Ltd.,GB430959230,UK,packaging,02-20-2024,
+392,portal_v1,"meridian foundry co., ltd.",6936664761,Vietnam,OAKRIDGE PLASTICS PVT. LTD.,94HXCVS3375A1Z5,IN,raw_material,2022-10-21,Duplicate of prior quarter submission
+393,portal_v2,NorthGate Textiles SA,ES60227680G,Espagne,oakridge fasteners lda.,PT175750309,PT,materia prima,23/08/2025,
+394,portal_v2,NorthGate Textiles S.A.,ES60227680G,ES,Oakridge Fasteners Lda.,,PT,dyeing,22/04/2024,Confirmación pendiente por parte del proveedor
+395,portal_v2,SOUTHBAY ELECTRONICS S.A.,ES78333840D,ES,Apex  Coatings  Lda. ,,Portugal,components,06/02/2024,
+396,portal_v2,global metals inc.,07-8555313,USA,Northgate Ceramics SARL,708207504345321,MA,logistics,06/08/2024,
+397,portal_v2,eastfield alloys gmbh,DE413376973,Deutschland,"westport industries co., ltd.",3529838408,Vietnam,materia prima,02/05/2025,
+398,portal_v2,Horizon yDeworks A.Ş.,5797626609,Turkey,"stonebridge alloys co., ltd.",1043205340,Vietnam,materia prima,22/02/2024,
+399,legacy_manual_import,Horizon  Dyeworks  A.Ş. ,5797626609,Turkey,ANDEAN COMPONENTS LDA.,PT761747749,PT,component,08-06-2022,Confirmación pendiente por parte del proveedor
+400,legacy_manual_import,Eastfield Components SARL,FR58653776073,France,ATLANTIC TEXTILES PVT. LTD.,,IN,RAW_MATERIAL,04-29-2023,Pending re-confirmation
+401,portal_v2,Highland Components ASS,FR34285656538,France,Northgat eAssemblies Inc.,55-3358029,USA,logistics,20/09/2023,
+402,portal_v1,Eastfield Alloys GmbH,DE413376973,DE,"Westport Industries Co, Ltd",3529838408,VN,subcontracted_labor,2022-07-04,
+403,portal_v2,"SUMMIT MACHINERY CO., LTD.",9402555543,Vietnam,Hihgland Fibers Ltd.,GB289869081,GB,dyeing,21/03/2022,Contrato renovado según acuerdo marco
+404,legacy_manual_import,Horzion Solutions Sp. z o.o.,PL4837332964,Polska,VANTAGE CHEMICALS SAS,FR60661010435,FR,subcontracted_labor,12-08-2024,
+405,legacy_manual_import,Northgate Machinery Ltd,GB144982519,UK,Oakridge  Assemblies  Inc. ,,USA,Raw Material,06-04-2025,Contact information outdated
+406,portal_v1,alpine coatings sarl,,Morocco,VANTAGE PACKAGING PVT. LTD.,,India,RAW_MATERIAL,2023-08-19,Fornecedor homologado em 2023
+407,legacy_manual_import,global ceramics sp. z o.o.,PL5131340444,PL,danube steel a.ş.,95 76837507,Turkey,Raw Material,08-21-2025,Contrato renovado según acuerdo marco
+408,legacy_manual_import,REDSTONE CHEMICALS LDA.,253396557,PT,VANTAGE INDUSTRIES GMBH,DE784402277,Germany,raw material,10-10-2023,Şirket 2021'de denetlendi
+409,portal_v2,Baltic  Trading  Ltd. ,GB261367723,GB,Millbrook Machinery Lda.,,Portugal,RAW_MATERIAL,22/08/2023,
+410,portal_v2,NORTHGATE TEXTILES S.A.,ES60227680G,ES,Northgate Machinery Ldt.,GB144982519,United Kingdom,components,02/03/2025,
+411,portal_v1,CORNERSTONE FASTENERS S.A.,ES20546820H,ES,oakridge metals sarl,,FR,logistics,2024-05-18,Pending re-confirmation
+412,portal_v2,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,Westport  Packaging  Ltd. ,GB604944530,GB,dyeing,14/05/2025,
+413,portal_v2,atlantic trading b.v.,NL274449316B37,Netherlands,eastfield leather sas,FR18801882497,FR,raw material,25/06/2024,
+414,portal_v2,Copperfield Group S.L.,ES02793116B,Spain,Sunrise Foundry BV,NL757190566B03,Netherlands,components,07/10/2024,Duplicate of prior quarter submission
+415,portal_v2,continental fasteners sarl,524296237088409,MA,United Machinery Ltd,GB286459114,UK,subcontracted_labor,01/07/2024,
+416,portal_v1,ANDEAN LEATHER PVT. LTD.,,India,Andean  Assemblies  S.p.A. ,IT38826320735,Italy,raw_material,2025-04-29,
+417,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,ANATOLIAN POLYMERS SARL,413403018954648,Morocco,packaging,19/03/2024,Backup supplier - low volume
+418,portal_v2,Baltic Foundry BV..,NL127387209B07,Holland,Southbay Electronics S.A.,ES78333840D,ES,components,18/08/2025,
+419,portal_v2,NorthGate Textiles S.A.,ES60227680G,Spain,Highland Plastics S.p.A.,IT24406348066,IT,Raw Material,27/04/2024,Contact information outdated
+420,portal_v2,Meridian  Fasteners  Ltd. ,GB212776106,GB,Meridian Assebmlies Sp. z o.o.,PL3793702943,PL,raw_material,31/03/2024,Fornecedor homologado em 2023
+421,portal_v2,Irongate  Alloys  A.Ş. ,6888337780,Turkey,crestwood group ltd.,GB59512269,UK,packaging,13/05/2023,
+422,portal_v2,Summit Trading ASRL,,FR,Horizon Polymers Sp z oo,,PL,finishing,06/09/2022,Şirket 2021'de denetlendi
+423,portal_v2,Bluewater Manufacturing S.r.l.,IT10862914220,Italy,"Northgate Polymers Co. ,Ltd.",0TNTW3356HT9DCDKZ7,China,finishing,08/10/2023,Duplicate of prior quarter submission
+424,legacy_manual_import,Westport Electronics SARL,394225258329500,Maroc,Sunrise Leather SARL,FR17861973435,FR,component,03-06-2025,Fournisseur validé lors de l'audit 2022
+425,portal_v2,Rhine Tooilng AG,DE535425961,Germany,Alpine Coatings SARL,102439281045618,MA,materia prima,12/09/2025,Société certifiée ISO 9001
+426,portal_v1,SUNRISE LEATHER SARL,FR17861973435,France,Irongate  Steel  AG ,DE851882729,Germany,components,2023-08-17,
+427,portal_v2,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,westport packaging ltd.,GB604944530,UK,Raw Material,11/07/2023,
+428,portal_v2,NorthGate Textiles S.A.,ES60227680G,España,Golden  Tooling  Sp.  z  o.o. ,,PL,finishing,22/03/2024,"Data provided via phone, not verified"
+429,portal_v2,Southbay Electronics SA,ES78333840D,Spain,APEX COATINGS LDA.,,PT,RAW_MATERIAL,21/06/2025,
+430,portal_v2,NORTHGATE TEXTILES S.A.,ES60227680G,Espagne,Rhine  Tooling  AG ,DE535425961,Germany,raw_material,22/05/2023,
+431,portal_v2,RoyalC oatings S.L.,,Espagne,ALPINE YARNS S.A.,ES38927331G,España,finishing,07/08/2023,
+432,portal_v2,Pacific  Machinery  Lda. ,PT721441525,PT,cornerstone foundry s.r.l.,IT91202848475,IT,dyeing,27/04/2023,"Data provided via phone, not verified"
+433,portal_v2,Global Electronics SA,ES50165258A,España,Silverline Componetns SAS,FR42403927449,France,raw material,02/05/2023,
+434,portal_v1,Baltic Foundry B.V.,,NL,Continental Weaving BV,NL346920737B67,NL,logistics,2022-05-29,
+435,portal_v2,Bluewater Manufacturing Srl,IT10862914220,Italy,"northgate polymers co., ltd.",0TNTW3356HT9DCDKZ7,China,raw_material,07/04/2023,
+436,portal_v1,Oakridge Logistcis A.Ş.,796360941,TR,Apex Machinery GmbH,,DE,Raw Material,2025-07-21,
+437,portal_v2,Royal Coatings S.L.,ES73413748E,España,Alpine  Yarns  S.A. ,ES38927331G,ES,raw_material,16/10/2022,
+438,portal_v2,Continental Fasteners SARL,524296237088409,Maroc,"Copperfield Alloys Co., Ltd.",LQHUJWRG88MSHM9299,China,RAW_MATERIAL,30/04/2022,Contrato renovado según acuerdo marco
+439,portal_v2,###,,Germany,"Royal Tradign Co., Ltd.",7398432518,VN,component,23/10/2024,Fornecedor homologado em 2023
+440,portal_v1,Northgate  Machinery  Ltd. ,GB144982519,UK,Northgate  Circuits  Ltd. ,GB715429489,GB,raw material,2022-09-22,
+441,portal_v2,IRONGATE ALLOYS A.Ş.,6888337780,Türkiye,Crestwood Group Ltd.,GB595122698,GB,Raw Material,12/07/2025,
+442,portal_v2,Continental  Group  SARL ,575538294401555,Morocco,OAKRIDGE PACKAGING SAS,fr69577944501,France,packaging,30/12/2023,Şirket 2021'de denetlendi
+443,portal_v1,"MERIDIAN FOUNDRY CO., LTD.",6936664761,VN,"SUMMIT MACHINERY CO., LTD.",9402555543,VN,dyeing,2022-01-21,
+444,portal_v2,Pacific Coatings Ltd.,GB202514640,United Kingdom,iberian coatings sas,FR67464629486,France,logistics,30/12/2024,
+445,portal_v1,alpine coatings sarl,2439281045618,MA,VANTAGE PACKAGING PVT. LTD.,06JURYD6700A1Z5,IN,subcontracted_labor,,Fornecedor homologado em 2023
+446,legacy_manual_import,Pacific Coatings Ltd.,,UK,Iberian Cotaings SAS,FR67464629486,FR,Raw Material,10-10-2022,
+447,portal_v2,Irognate Alloys A.Ş.,6888337780,Türkiye,ROYAL COATINGS S.L.,ES73413748E,ES,components,21/07/2022,Société certifiée ISO 9001
+448,legacy_manual_import,Irongate Alloys AŞ,6888337780,Turkey,Crestwood Group Ltd,GB595122698,United Kingdom,finishing,02-28-2025,
+449,portal_v2,southbay electronics s.a.,,Espagne,Bluewater Tooling Pvt. Ltd.,11 OPZCC7788A1Z5,India,RAW_MATERIAL,17/05/2025,
+450,portal_v2,eastfield components sarl,FR58653776073,FR,"Lakeside  Electronics  Co.,  Ltd. ",YC17FKMGNQ3R7BUY9H,CN,packaging,13/05/2025,Pending re-confirmation
+451,portal_v1,Royal Macihnery Inc.,22-7342425,USA,RHINE ASSEMBLIES INC.,24-7759986,United States,raw_material,2022-09-13,Pending re-confirmation
+452,portal_v2,Pacific Machinery Lda.,PT721441525,Portugal,Summi tMetals GmbH,DE492238773,Germany,packaging,11/03/2024,Fournisseur validé lors de l'audit 2022
+453,portal_v2,Atlantic Logistics Srl,IT04077145284,Italia,apex circuits s.p.a.,IT59296256706,Italia,packaging,29/10/2022,"Data provided via phone, not verified"
+454,legacy_manual_import,REDSTONE CHEMICALS LDA.,PT 253396557,Portugal,Horizon  Alloys  SARL ,381866192115924,MA,Raw Material,04-16-2024,
+455,portal_v1,Lakeside Indsutries Lda.,PT868765643,PT,BLUEWATER TRADING INC.,,United States,RAW_MATERIAL,2022-09-01,
+456,portal_v2,Summit Metals Lda,PT182309739,PT,IBERIAN ELECTRONICS SARL,706239917751423,Morocco,logistics,13/09/2022,
+457,portal_v2,HORIZON SOLUTIONS SP. Z O.O.,PL4837-332964,PL,Vantage Chemicals SAS,FR60661010435,FR,logistics,20/07/2024,
+458,portal_v1,Premier Coatings .AŞ.,4752892539,Türkiye,SOUTHBAY CIRCUITS LTD.,GB188850611,United Kingdom,RAW_MATERIAL,2022-03-04,Fournisseur validé lors de l'audit 2022
+459,portal_v2,Danube Plastics Ltd,,UK,Baltic Manufacturing SARL,0394595620354,MA,components,11/04/2022,
+460,portal_v2,andean assemblies s.p.a.,IT38826320735,Italia,Pacific Machinery Lda,,PT,materia prima,26/05/2023,
+461,legacy_manual_import,Global Electronics S.A.,ES50165258A,Espagne,"REDSTONE PLASTICS CO., LTD.",2955705581,VN,logistics,,Şirket 2021'de denetlendi
+462,portal_v2,Continental Fastenesr SARL,524296237088409,Maroc,"Highland oToling Co., Ltd.",G9GDNTQUXZJWLN2EV6,China,raw material,08/08/2022,
+463,legacy_manual_import,Westport  Electronics  SARL ,394225258329500,Morocco,Copperfield Fasteners GmbH,,Deutschland,logistics,11-20-2023,Şirket 2021'de denetlendi
+464,portal_v2,Continental Fasteners SARL,524296237088409,Morocco,Adnean Plastics S.r.l.,IT09674857331,Italia,Raw Material,08/08/2023,
+465,portal_v2,Atlantic Trading B.V.,NL 274449316B37,Netherlands,EastfieldL eather SAS,FR18801882497,FR,finishing,17/12/2022,
+466,portal_v1,Gloabl Ceramics Sp. z o.o.,PL5131340444,Poland,NORDIC CERAMICS S.L.,,ES,packaging,2024-07-05,Pending re-confirmation
+467,legacy_manual_import,HORIZON MANUFACTURING AG,DE431839337,Germany,Royal  Dyeworks  Inc. ,23-5650998,United States,dyeing,10-13-2024,
+468,portal_v1,Apex  Industries  A.Ş. ,6656315572,Türkiye,Atlantic Fasteners Pvt. Ltd.,66ARKJO4166A1Z5,India,materia prima,2024-02-02,
+469,portal_v1,Continental Fasteners SARL,52429623708409,MA,"CopperfieldA lloys Co., Ltd.",LQHUJWRG88MSHM9299,China,packaging,2023-03-02,Fornecedor homologado em 2023
+470,portal_v2,Danube Plastics Ltd,,UK,Baltic Manufacturing SARL,0394595620354,MA,components,11/04/2022,
+471,portal_v2,Vantage Allosy SARL,,Morocco,PREMIER SOLUTIONS LDA.,PT712-236852,Portugal,components,03/07/2024,
+472,legacy_manual_import,"Andean  Leather  Co.,  Ltd. ",,CN,Horizon Steel Lda.,,Portugal,finishing,03-20-2022,
+473,portal_v2,nordic materials gmbh,DE502141043,Germany,"Atlantic Steel Co., Ltd.",6809149499,VN,raw_material,08/05/2025,
+474,legacy_manual_import,"Andean Leather Co, Ltd",DNCWF820JL0Q221BH9,CN,lakeside materials inc.,70 -5466589,USA,component,03-28-2024,
+475,portal_v1,REDSTONE CHEMICALS LDA.,PT253396557,Portugal,Horizon Alloys SARL,381866192115924,Maroc,packaging,2023-07-14,Duplicate of prior quarter submission
+476,legacy_manual_import,Andean Letaher Pvt. Ltd.,02 HCGCH6332A1Z5,IN,baltic chemicals b.v.,NL 192147365B35,Holland,raw material,10-15-2024,Duplicate of prior quarter submission
+477,portal_v2,Danube Components Sp z oo,pl8781446242,Polska,Stonebridge Tooling SARL,25 1361799399069,Morocco,packaging,28/08/2023,Duplicate of prior quarter submission
+478,portal_v1,"PRIME ELECTRONICS CO., LTD.",VE8QMU72MHTLP9NJ96,CN,Alpine Fibers GmbH,DE662610051,DE,Raw Material,2023-08-14,
+479,legacy_manual_import,Golden Tooling Sp. z o.o.,PL2144229485,Polska,oakridge logistics a.ş.,,TR,raw_material,09-24-2025,
+480,portal_v2,PACIFIC METALS INC.,11-7347262,United States,Meridian Industries SAS,FR10596861958,France,components,02/01/2024,Contrato renovado según acuerdo marco
+481,portal_v2,Andean  Assemblies  S.p.A. ,,Italy,Baltic  Metals  SARL ,,MA,logistics,15/02/2024,
+482,portal_v2,summit tooling s.l.,ES17820269F,Espagne,irongate circuits b.v.,NL410656411B65,NL,Raw Material,,
+483,portal_v2,"Prime Electronics Co., Ltd.",VE8QMU72MHTLP9NJ96,China,ALPINE FIBERS GMBH,DE662610051,Germany,components,11/12/2023,
+484,portal_v1,REDSTONE CHEMICALS LDA.,PT253396557,PT,Vantage Industries mGbH,DE784402277,Germany,raw material,2022-02-10,Duplicate of prior quarter submission
+485,portal_v2,OAKRIDGE LOGISTICS A.Ş.,7963609841,TR,apex machinery gmbh,DE660561327,DE,raw_material,30/01/2023,
+486,legacy_manual_import,Copperfield Dyeworks Pvt Ltd,56IJOUL3230A1Z5,IN,Alpine Materials Ltd,,United Kingdom,packaging,03-27-2024,Contrato renovado según acuerdo marco
+487,portal_v2,Redstone  Chemicals  Lda. ,PT253396557,PT,Highland  Components  SAS ,FR34285656538,FR,packaging,18/01/2024,
+488,legacy_manual_import,Rhine Packaging Lda.,PT928840726,Portugal,summit materials inc.,91-9170792,United States,raw_material,,
+489,portal_v2,Sunrise  Leather  SARL ,fr17861973435,France,Millbrook Solutions dLa.,PT399423598,PT,packaging,11/02/2023,
+490,portal_v2,"Meirdian Foundry Co., Ltd.",6936664761,Vietnam,Highland  Steel  Sp.  z  o.o. ,PL 7859126165,Polska,components,,
+491,portal_v2,apex industries a.ş.,6656315572,Türkiye,atlantic fasteners pvt. ltd.,66ARKJO4166A1Z5,India,raw_material,02/04/2022,Pending re-confirmation
+492,portal_v2,"United  Assemblies  Co.,  Ltd. ",6926242393,Vietnam,Riverside hCemicals SAS,fr78380759187,FR,finishing,25/06/2025,
+493,portal_v1,Summit Tooilng S.L.,,España,Irongate Circutis B.V.,NL410656411B65,Holland,component,2023-08-04,
+494,portal_v2,meridian fasteners ltd.,GB212776106,GB,nordic fibers sas,FR32114540305,FR,dyeing,27/09/2025,
+495,portal_v2,Redstone Chemiacls Lda.,PT253396557,Portugal,Vantage  Industries  GmbH ,DE784402277,Germany,raw material,18/07/2022,
+496,portal_v2,Danube Components Sp. z .oo.,PL8781446242,Polska,silverline leather s.r.l.,IT37704414833,Italia,materia prima,,
+497,legacy_manual_import,HIGHLAND PLASTICS S.P.A.,IT24406348066,Italia,"United Assemblies Co. ,Ltd.",6926242393,Vietnam,finishing,12-26-2022,Contact information outdated
+498,portal_v2,continental fasteners sarl,524296237088409,Morocco,"Copperfield Alloys Co, Ltd",LQHUJWRG88MSHM9299,CN,RAW_MATERIAL,12/06/2024,Société certifiée ISO 9001
+499,portal_v2,PREMIER DYEWORKS A.Ş.,6954004320,Türkiye,Rhine Foundry Ltd,GB430959230,UK,raw_material,14/06/2025,
+500,portal_v1,Vantage Alloys SARL,193008687593586,Morocco,Vantage  Assemblies  SAS ,FR03191475196,FR,subcontracted_labor,2024-08-14,
+501,portal_v2,Rhine  Tooling  AG ,DE535425961,Deutschland,Highland  Machinery  SARL ,,Maroc,RAW_MATERIAL,20/02/2024,
+502,portal_v2,redstone chemicals lda.,PT253-396557,PT,Highland Components SAS,FR34285656538,France,components,08/02/2023,
+503,legacy_manual_import,andean plastics s.r.l.,IT09674857331,Italy,Copperfield  Weaving  Pvt.  Ltd. ,,IN,raw_material,08-14-2022,Şirket 2021'de denetlendi
+504,portal_v2,PACIFIC METALS INC.,,USA,"Premier Metals Co.,L td.",,CN,raw_material,19/08/2024,
+505,portal_v2,MERIDIAN FASTENERS LTD.,GB212776106,GB,EASTFIELD COMPONENTS SARL,,FR,dyeing,,Pending re-confirmation
+506,portal_v1,Global Ceramics Sp. z o.o.,PL5131340444,PL,Horizon Components Lda,PT115345152,PT,finishing,2022-12-19,
+507,portal_v2,OAKRIDGE FASTENERS LDA.,PT175750309,Portugal,horizon solutions lda.,PT196215509,Portugal,materia prima,06/04/2025,Société certifiée ISO 9001
+508,portal_v2,Silverline Leather SL,ES95639376A,España,Northgate Polymers S.r.l.,IT79593991237,Italia,packaging,28/02/2023,
+509,legacy_manual_import,Iberian Machinery Ltd,,UK,danube components sp. z o.o.,PL8781446242,PL,finishing,06-20-2022,Fornecedor homologado em 2023
+510,portal_v2,premier dyeworks a.ş.,6954004320,Türkiye,Rhine Fonudry Ltd.,GB430959230,GB,component,21/07/2023,Pending re-confirmation
+511,portal_v2,crestwood coatings lda.,PT869464903,PT,Southbay  Leather  B.V. ,NL63879-7541B81,Holland,raw_material,03/05/2022,Pending re-confirmation
+512,portal_v2,Southbay Leather BV,NL638797541B81,Holland,"irongate ceramics co., ltd.",2309407591,VN,RAW_MATERIAL,28/12/2024,Pending re-confirmation
+513,portal_v2,Pacific Machinery Lda,PT721441525,Portugal,cornerstone foundry s.r.l.,IT91202848475,IT,packaging,28/04/2024,
+514,legacy_manual_import,Premier Coatings AŞ,,Türkiye,Summit  Tooling  S.L. ,ES17820269F,España,components,01-29-2022,
+515,legacy_manual_import,"Highland  Tooling  Co.,  Ltd. ",G9GDNTQUXZJWLN2EV6,China,Golden  Chemicals  SAS ,fr27698351396,France,raw_material,01-13-2024,
+516,portal_v1,global alloys sarl,FR02653954607,FR,Pacific Metals Inc.,11-7347262,US,packaging,2023-08-28,Duplicate of prior quarter submission
+517,portal_v1,NORTHGATE CIRCUITS LTD.,GB715429489,United Kingdom,"Oakridge Polymers Co., Ltd.",QATCNZKTQP0GYSSKQK,CN,component,2023-04-21,
+518,portal_v1,Danube  Components  Sp.  z  o.o. ,PL8781446242,Poland,silverline leather s.r.l.,IT37704414833,IT,packaging,2023-07-20,
+519,portal_v2,Godlen Tooling Sp. z o.o.,PL2144229485,PL,Oakridge  Logistics  A.Ş. ,7963609841,TR,RAW_MATERIAL,29/05/2024,Duplicate of prior quarter submission
+520,portal_v2,Alpine Weaving S.L.,ES88454746C,Espagne,"Pacific Machinery Co, Ltd",4Z7XKKST8VZHE9JLQ5,China,components,23/09/2024,
+521,legacy_manual_import,"PRIME ELECTRONICS CO., LTD.",,China,Alpine Fibers GmbH,,Germany,component,05-20-2022,Şirket 2021'de denetlendi
+522,portal_v2,Golden Tooling Sp. z o.o.,PL2144229485,Polska,Global Alloys SARL,,France,packaging,31/10/2023,Şirket 2021'de denetlendi
+523,portal_v2,Westport Trading A.Ş.,38434939,Türkiye,"Horizon Weaving Co., Ltd.",2K2JHK5BH36K3HTFHF,China,RAW_MATERIAL,13/10/2022,
+524,portal_v1,"Meridian  Foundry  Co.,  Ltd. ",6936664761,VN,"Redstone Plastics Co, Ltd",2677094459,Vietnam,Raw Material,2022-07-06,
+525,portal_v2,Westport Electronics SARL,394225258329500,Morocco,Iberian Machinery Ltd.,GB910116526,United Kingdom,dyeing,23/05/2025,
+526,legacy_manual_import,Golden Tooling Sp. z o.o.,PL2144229485,Poland,Nordci Materials GmbH,DE502141043,DE,Raw Material,12-27-2024,
+527,portal_v2,CRESTWOOD METALS SARL,976694569801375,Maroc,Horizon Manufactuirng AG,DE431839337,Germany,logistics,08/10/2022,Fornecedor homologado em 2023
+528,legacy_manual_import,Highland Weaving AŞ,8152837670,TR,HORIZON PACKAGING S.A.,ES71747066G,Espagne,dyeing,04-16-2025,Contact information outdated
+529,portal_v2,Horizon Alloys SARL,381866192115924,Morocco,Northgate  Trading  SARL ,FR81767886857,FR,raw material,16/11/2023,Backup supplier - low volume
+530,portal_v2,Andean Plastics Srl,,IT,copperfield weaving pvt. ltd.,45UXLVQ3410A1Z5,IN,packaging,03/01/2022,
+531,portal_v1,ANDEAN LEATHER PVT. LTD.,02HCGCH6332A1Z5,India,SUMMIT LEATHER B.V.,,NL,materia prima,2022-04-23,Duplicate of prior quarter submission
+532,portal_v1,Redstone  Chemicals  Lda. ,PT253396557,PT,Eastfield Grou pGmbH,DE632131355,DE,Raw Material,,
+533,portal_v1,highland weaving a.ş.,8152837670,Türkiye,HORIZON PACKAGING S.A.,ES71747066G,España,raw material,2022-10-05,Backup supplier - low volume
+534,portal_v2,NorthGate Textiles SA,ES60227680G,Espagne,CONTINENTAL FASTENERS SARL,524296237088409,MA,Raw Material,10/02/2023,Société certifiée ISO 9001
+535,portal_v2,Meridian Assebmlies Sp. z o.o.,PL3793702943,Polska,Alpine Assemblies AŞ..,1619347714,Turkey,dyeing,15/02/2022,
+536,portal_v2,NORTHGATE MACHINERY LTD.,GB144982519,UK,CORNERSTONE ALLOYS B.V.,NL683629854B33,Netherlands,packaging,18/08/2025,
+537,portal_v2,"Summit  Machinery  Co.,  Ltd. ",9402555543,VN,Riverside  Fasteners  S.L. ,ES59379346C,ES,dyeing,15/07/2025,
+538,portal_v1,Atlantic Logistics Srl,IT04077145284,IT,alpine weaving s.l.,ES88454746C,España,raw material,2025-02-06,Fournisseur validé lors de l'audit 2022
+539,portal_v2,Vantage Allosy SARL,193008687593586,Maroc,Vantage  Assemblies  SAS ,,France,RAW_MATERIAL,30/07/2025,
+540,portal_v1,Rhine Packaging Lda,PT928840726,Portugal,eastfield alloys gmbh,DE413-376973,Deutschland,dyeing,2025-07-08,
+541,portal_v1,oakridge plastics pvt. ltd.,94HXCVS3375A1Z5,India,SUNRISE PLASTICS SARL,891377623634474,Morocco,packaging,2025-07-20,
+542,portal_v2,Highland Plastics SpA,IT24406348066,IT,Atlantic IndustriesB .V.,NL118466507B21,Netherlands,materia prima,09/02/2023,
+543,portal_v2,LAKESIDE INDUSTRIES LDA.,PT868765643,PT,Bluewater Trading Inc.,,US,logistics,24/03/2023,
+544,portal_v2,Highland Components ASS,FR34285656538,France,CONTINENTAL PACKAGING S.P.A.,IT26573980619,IT,dyeing,12/04/2025,Pending re-confirmation
+545,portal_v2,Premier Coatings A.Ş.,4752892539,Türkiye,Andean  Machinery  A.Ş. ,3690557991,Türkiye,Raw Material,06/05/2024,
+546,portal_v2,Eastifeld Components SARL,fr58653776073,FR,Crestwood Dyeworks SAS,FR04397040587,France,component,,
+547,portal_v2,Redstone Chemicals Lda,PT253396557,PT,horizon alloys sarl,381866192115924,MA,dyeing,07/08/2024,
+548,portal_v2,VANTAGE ALLOYS SARL,193008687593586,Maroc,Vantage Assemblies SAS,FR03191475196,FR,raw material,22/06/2023,segÃºn acuerdo
+549,portal_v1,"andean leather co., ltd.",DNCWF820JL0Q221BH9,China,Lakeside Materials Inc,,US,raw material,2023-12-12,Contact information outdated
+550,portal_v2,iberian materials ag,DE817466807,DE,"Millbrook  Circuits  Co.,  Ltd. ",G2WQHWTPM4R5ZZT4EZ,China,Raw Material,09/04/2022,
+551,portal_v2,Summit Metals Lda,PT182309739,PT,Ibreian Electronics SARL,706239917751423,MA,materia prima,15/03/2025,
+552,portal_v2,Sunrise Leahter SARL,FR17861973435,France,Millbrook Solutions Lda,,PT,dyeing,17/06/2022,Contact information outdated
+553,portal_v2,IRONGATE ALLOYS A.Ş.,68 88337780,TR,"Andean  Steel  Co.,  Ltd. ",CL12TKN77WAW76RRRX,China,components,08/02/2023,Contrato renovado según acuerdo marco
+554,portal_v2,IBERIAN MACHINERY LTD.,gb910116526,United Kingdom,Redstone ElectronicsB .V.,,Holland,RAW_MATERIAL,02/04/2022,Fournisseur validé lors de l'audit 2022
+555,portal_v2,Rhine Packaging Lda.,PT928840726,PT,Irongate Logistics BV,,NL,Raw Material,26/12/2023,
+556,portal_v2,Iberian Machniery Ltd.,GB910116526,GB,Danube Components Sp. z o.o.,PL8781446242,Polska,components,15/10/2024,
+557,portal_v2,Northgate Circuits Ltd.,GB715429489,United Kingdom,"oakridge polymers co., ltd.",QATCNZKTQP0GYSSKQK,China,component,28/02/2023,Fornecedor homologado em 2023
+558,portal_v1,UNITED LEATHER SP. Z O.O.,PL0846433592,PL,Premier Materials Sp. z o.o.,PL5659235740,Polska,component,2025-05-05,
+559,portal_v2,Alpine Coatings SARL,102439281045618,Morocco,bluewater industries a.ş.,2249294184,TR,RAW_MATERIAL,13/10/2022,
+560,portal_v1,Iberian  Machinery  Ltd. ,GB910116526,UK,Danube Components Sp. z .oo.,PL8781446242,Poland,component,2025-03-10,
+561,portal_v2,Eastfield  Components  SARL ,,France,AtlanticT extiles Pvt. Ltd.,54METII2553A1Z5,India,finishing,,"Data provided via phone, not verified"
+562,portal_v2,Danube  Components  Sp.  z  o.o. ,PL8781446242,Polska,Silverline Leather S.r.l.,,Italy,materia prima,28/07/2025,
+563,portal_v1,Prime Polymers SL,ES 49180374G,Spain,horizon components pvt. ltd.,53EXTRH3159A1Z5,India,dyeing,2022-08-19,
+564,portal_v2,ANDEAN LEATHER PVT. LTD.,02 HCGCH6332A1Z5,IN,Baltic  Chemicals  B.V. ,NL192147365B35,Netherlands,component,22/08/2024,
+565,portal_v2,Iberian  Materials  AG ,DE817466807,Deutschland,"Copperfield  Foundry  Co.,  Ltd. ",0269417482,VN,raw material,25/05/2023,
+566,legacy_manual_import,westport electronics sarl,394225258329500,Maroc,Cornerstone Assemblies S.L.,ES19687479E,Spain,logistics,05-13-2025,
+567,portal_v1,Westport Electronics SARL,394225258329500,Maroc,Highland  Machinery  Ltd. ,GB485329247,UK,dyeing,2025-05-18,Pending re-confirmation
+568,portal_v2,PREMIER COATINGS A.Ş.,4752892539,TR,Andean  Machinery  A.Ş. ,3690557991,Turkey,subcontracted_labor,07/12/2024,"Data provided via phone, not verified"
+569,portal_v2,Pacific Metals Inc,11-7347262,US,Meridian Industries SAS,FR1059-6861958,France,logistics,26/03/2024,Société certifiée ISO 9001
+570,portal_v2,southbay electronics s.a.,,Spain,COPPERFIELD PACKAGING AG,DE990333248,Deutschland,subcontracted_labor,11/08/2022,
+571,portal_v1,Vantage  Alloys  SARL ,193008687593586,Morocco,"Iberian Assemblies Co, Ltd",K54AWTVW783SWDM5XV,CN,component,2022-10-22,
+572,portal_v2,Prime Polymers S.L.,ES49180374G,España,HORIZON COMPONENTS PVT. LTD.,,India,raw material,02/06/2022,Pending re-confirmation
+573,portal_v2,Westport Trading AŞ,9238434939,Turkey,Premier  Coatings  SARL ,329449379788765,MA,finishing,19/08/2025,
+574,portal_v1,andean assemblies s.p.a.,,Italy,Summit Trading SARL,,FR,Raw Material,2022-01-28,
+575,portal_v2,global alloys sarl,,France,CONTINENTAL TEXTILES PVT. LTD.,29YKHST4465A1Z5,IN,packaging,07/04/2024,
+576,portal_v1,"United  Assemblies  Co.,  Ltd. ",6926242393,Vietnam,Riverside Chemicals SAS,FR78380759187,France,subcontracted_labor,2022-05-05,
+577,portal_v1,IRONGATE LOGISTICS B.V.,NL511393683B38,Netherlands,"Continental  Tooling  Co.,  Ltd. ",EJ377BC7RJZUZ0NFWL,CN,materia prima,2024-03-02,Pending re-confirmation
+578,portal_v2,Horizon Metals Sp z oo,PL 4768445880,PL,CONTINENTAL WEAVING S.P.A.,IT21371287442,Italy,materia prima,,Contact information outdated
+579,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,global circuits gmbh,,DE,finishing,04/02/2024,
+580,portal_v1,SOUTHBAY LEATHER B.V.,NL63879-7541B81,NL,"irongate ceramics co., ltd.",,Vietnam,logistics,2022-11-14,
+581,portal_v2,Northgate  Circuits  Ltd. ,GB715429489,GB,stonebridge yarns lda.,PT103953164,PT,finishing,13/06/2022,Fornecedor homologado em 2023
+582,legacy_manual_import,Horizon yDeworks A.Ş.,5797626609,Turkey,"Stonebridge Alloys Co, Ltd",1043205340,VN,packaging,07-02-2024,Confirmación pendiente por parte del proveedor
+583,portal_v2,Southbay  Electronics  SARL ,346652635766034,Maroc,Westport Electronics SARL,,Maroc,logistics,,Fornecedor homologado em 2023
+584,portal_v2,Atlantic Logistics Srl,IT04077145284,Italy,irongate alloys a.ş.,68883-37780,Türkiye,materia prima,28/09/2024,Pending re-confirmation
+585,portal_v2,Andean Assemblies .Sp.A.,IT38826320735,Italy,baltic metals sarl,341339581700446,MA,components,21/05/2024,
+586,portal_v2,Southbay Electronics S.A.,ES78333840D,ES,BLUEWATER TOOLING PVT. LTD.,11OPZCC7788A1Z5,IN,raw_material,30/05/2024,
+587,portal_v2,SUMMIT METALS LDA.,PT182309739,Portugal,Iberian Electronics SARL,706239917751423,Maroc,raw material,02/11/2024,
+588,portal_v2,Highland Steel Sp. z o.o.,pl7859126165,Polska,Iberian  Leather  Pvt.  Ltd. ,35HRPHY3801A1Z5,India,raw material,20/04/2022,
+589,legacy_manual_import,Pacfiic Dyeworks B.V.,,NL,LAKESIDE INDUSTRIES LDA.,PT868765643,PT,Raw Material,06-13-2023,Fornecedor homologado em 2023
+590,portal_v2,Copperfield  Metals  A.Ş. ,9918536797,TR,anatolian materials a.ş.,,Türkiye,packaging,28/09/2022,
+591,portal_v1,Bluewater  Manufacturing  S.r.l. ,IT10862914220,Italia,Pacific  Weaving  S.L. ,ES36664405A,Spain,packaging,2025-08-19,Contrato renovado según acuerdo marco
+592,portal_v2,Baltic Foundry BV..,,Netherlands,"Vantage Chemicals Co, Ltd",848MM2UGJMKQ90BK6N,China,subcontracted_labor,15/07/2023,
+593,portal_v2,ALPINE COATINGS SARL,102439281045618,Maroc,Anatolian  Polymers  Inc. ,30-63-64630,United States,subcontracted_labor,09/04/2023,Contact information outdated
+594,portal_v2,Westoprt Electronics SARL,394225258329500,Maroc,Iberian Machinery Ltd.,GB910116526,GB,RAW_MATERIAL,30/04/2025,Société certifiée ISO 9001
+595,portal_v1,RHINE TOOLING AG,DE535425961,Deutschland,Highland Mcahinery SARL,172575982337100,MA,component,2022-07-15,
+596,portal_v1,Godlen Tooling Sp. z o.o.,PL2144229485,Polska,oakridge logistics a.ş.,7963609841,Turkey,component,2023-08-24,
+597,legacy_manual_import,united chemicals ltd.,GB666750464,United Kingdom,Anatolian Machinery A.Ş.,3715490387,TR,subcontracted_labor,03-15-2022,
+598,portal_v2,"highland tooling co., ltd.",,China,Golden  Chemicals  SAS ,FR27698351396,FR,packaging,09/01/2023,
+599,portal_v1,RHINE PACKAGING LDA.,PT928840726,Portugal,Global Ceramics Sp. z o.o.,PL5131340444,PL,finishing,2025-06-16,
+600,portal_v1,OAKRIDGE LOGISTICS A.Ş.,7963609841,Turkey,PrimeP ackaging SARL,FR39133626704,France,raw material,2024-02-17,
+601,portal_v2,silverline leather s.l.,ES95639376A,Espagne,BALTIC LEATHER PVT. LTD.,95OEZWM3402A1Z5,India,component,03/07/2023,Fornecedor homologado em 2023
+602,portal_v2,Rhine Packaging Lda.,PT928840726,PT,EastfieldA lloys GmbH,DE413376973,Deutschland,logistics,15/12/2023,Société certifiée ISO 9001
+603,portal_v2,Baltic Foundry BV..,NL127387209B07,Holland,Atlantic Trading B.V.,NL274449316B37,Netherlands,packaging,25/03/2023,
+604,portal_v2,MERIDIAN ASSEMBLIES SP. Z O.O.,PL3793702943,Poland,Alpine Assemblies AŞ,1619347714,Türkiye,materia prima,24/10/2024,
+605,portal_v2,Northgate Circuist Ltd.,GB715429489,GB,Stonebridge Yarns Lda,PT103953164,PT,Raw Material,06/09/2022,Fornecedor homologado em 2023
+606,portal_v2,NotrhGate Textiles S.A.,,España,andean leather pvt. ltd.,02HCGCH-6332A1Z5,India,RAW_MATERIAL,08/08/2025,Confirmación pendiente por parte del proveedor
+607,portal_v1,"highland tooling co., ltd.",G9GDNTQUXZJWLN2EV6,CN,Silverline Leather S.L.,ES95639376A,España,component,2023-07-10,Duplicate of prior quarter submission
+608,portal_v2,Cornerstone Alloys B.V.,NL683629854B33,Netherlands,united fasteners gmbh,,Germany,packaging,30/11/2024,
+609,portal_v2,copperfield metals a.ş.,9918536797,Türkiye,Westport Manufactuirng S.p.A.,IT14525569325,IT,raw_material,12/03/2025,
+610,portal_v1,Southaby Logistics S.r.l.,IT40684690723,Italy,Westport Manufacutring B.V.,,Holland,raw material,2024-10-12,
+611,legacy_manual_import,continental fasteners sarl,,MA,"COPPERFIELD ALLOYS CO., LTD.",LQHUJWRG88MSHM9299,CN,packaging,02-12-2025,Backup supplier - low volume
+612,portal_v2,Southbay Logistics Srl,IT40684690723,Italia,WESTPORT MANUFACTURING B.V.,NL521295413B38,NL,subcontracted_labor,25/12/2024,
+613,legacy_manual_import,Premier Coatings SARL,329449379788765,Morocco,Prime  Textiles  SARL ,750072831530094,Morocco,materia prima,05-24-2024,Duplicate of prior quarter submission
+614,portal_v1,southbay electronics sarl,346652635766034,Morocco,WESTPORT ELECTRONICS SARL,,Maroc,finishing,2024-10-30,
+615,portal_v2,Baltic Foundry B.V.,NL127387209B07,Holland,continental weaving b.v.,NL346920737B67,NL,packaging,,Pending re-confirmation
+616,legacy_manual_import,horizon solutions sp. z o.o.,pl4837332964,Polska,OakridgeG roup SARL,FR91357663492,France,subcontracted_labor,01-27-2025,
+617,portal_v2,Nordic Fibers SAS,,France,Vantage  Tooling  Lda. ,,PT,materia prima,24/07/2022,Fornecedor homologado em 2023
+618,portal_v1,Northgate Machinery Ltd.,GB144982519,UK,premier dyeworks a.ş.,6954004320,Turkey,packaging,2023-08-13,Fournisseur validé lors de l'audit 2022
+619,portal_v2,Rhine Tooilng AG,DE535425961,Deutschland,"Silverline Leather Co, Ltd",MGS37PAKGJERBP9846,CN,materia prima,23/01/2023,
+620,legacy_manual_import,nordic materials gmbh,DE502141043,Germany,Nordic  Materials  GmbH ,DE502141043,Germany,subcontracted_labor,,
+621,portal_v2,Redstone  Chemicals  Lda. ,PT253396557,Portugal,EASTFIELD GROUP GMBH,,Deutschland,raw_material,12/09/2023,Fournisseur validé lors de l'audit 2022
+622,legacy_manual_import,vantage alloys sarl,,Maroc,"iberian assemblies co., ltd.",,CN,finishing,09-13-2023,Société certifiée ISO 9001
+623,portal_v2,Alpine  Coatings  SARL ,102439281045618,MA,Westport  Yarns  SAS ,FR75221771329,France,component,,"Data provided via phone, not verified"
+624,portal_v2,Westport Electronics SARL,,MA,Pacific Dyeworks BV,NL382948470B92,Netherlands,materia prima,,
+625,portal_v1,Cornerstone Alloys B.V.,NL683629854B33,NL,Eastfield Machinery S.p.A.,IT76445972558,Italia,component,,
+626,portal_v1,Atlanti cLogistics S.r.l.,IT04077145284,Italia,Bluewater Manufacturing S.r.l.,IT10862914220,IT,dyeing,2024-04-13,Duplicate of prior quarter submission
+627,portal_v2,westport trading a.ş.,9238434939,Turkey,"horizon weaving co., ltd.",2K2JHK5BH36K3HTFHF,China,raw material,02/01/2022,
+628,portal_v2,Danube Components Sp z oo,pl8781446242,Polska,Riverside  Chemicals  S.p.A. ,IT17291807684,Italy,logistics,08/01/2025,
+629,legacy_manual_import,"United  Assemblies  Co.,  Ltd. ",6926242393,VN,Stonebridge Plastics GmbH,,Germany,RAW_MATERIAL,03-15-2022,Backup supplier - low volume
+630,legacy_manual_import,Global Electronics S.A.,ES50165258A,ES,"REDSTONE PLASTICS CO., LTD.",2955705581,VN,subcontracted_labor,10-17-2022,
+631,portal_v2,ATLANTIC TRADING B.V.,NL274449316B37,Netherlands,eastfield leather sas,,FR,packaging,13/07/2025,Backup supplier - low volume
+632,portal_v2,Royal Coatings S.L.,,Spain,ALPINE YARNS S.A.,ES38927331G,Espagne,raw material,01/03/2025,Société certifiée ISO 9001
+633,portal_v2,Baltic Foundry BV,NL12738209B07,Netherlands,Continental  Weaving  B.V. ,NL346920737B67,Netherlands,raw material,17/12/2022,Backup supplier - low volume
+634,portal_v1,"Andean Leather Co, Ltd",DNCWF820JL0Q221BH9,China,Horizon Steel Lda.,PT702711595,PT,components,2022-06-05,
+635,portal_v2,Global Electronics S.A.,ES50165258A,Espagne,"Redstone Plastics Co., Ltd.",,VN,components,14/04/2022,
+636,portal_v2,NORDIC MATERIALS GMBH,E502141043,Deutschland,horizon metals sp. z o.o.,PL4768445880,PL,Raw Material,27/09/2024,Contact information outdated
+637,portal_v1,RHINE TOOLING AG,DE535425961,Germany,"silverline leather co., ltd.",MGS37PAKGJERBP9846,CN,RAW_MATERIAL,2023-06-17,
+638,portal_v2,Irongate Alloys A.Ş.,6888337780,Turkey,Silverline Polymers Sp z oo,PL7353-254094,Polska,raw material,08/08/2024,
+639,legacy_manual_import,SILVERLINE CHEMICALS SAS,FR67254489366,France,Riverside Metals Inc.,96-46-38761,USA,raw material,10-14-2022,Şirket 2021'de denetlendi
+640,portal_v1,Summit  Trading  SARL ,FR44034462491,France,Copperfield  Steel  Lda. ,PT830235629,Portugal,raw material,2023-06-27,Société certifiée ISO 9001
+641,legacy_manual_import,NorthGate  Textiles  S.A. ,ES60227680G,Spain,Atlantic Logistics Srl,,IT,raw_material,05-19-2023,
+642,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,India,Horizon Dyeworks A.Ş.,5797626609,Turkey,Raw Material,13/08/2025,Backup supplier - low volume
+643,portal_v1,sunrise leather sarl,FR17861973435,France,millbrook solutions lda.,PT399423598,PT,logistics,2024-09-02,Contrato renovado según acuerdo marco
+644,portal_v2,highland plastics s.p.a.,IT24406348066,IT,"United  Assemblies  Co.,  Ltd. ",6926242393,VN,component,03/01/2025,Backup supplier - low volume
+645,portal_v1,"United Assemblies Co. ,Ltd.",69262-42393,VN,Global  Circuits  GmbH ,DE720-227574,Deutschland,raw material,2024-06-05,
+646,portal_v2,Danube Tooling S.r.l.,IT40418653428,Italia,united leather sp. z o.o.,PL0846433592,Polska,packaging,10/06/2024,Pending re-confirmation
+647,legacy_manual_import,Rhine  Packaging  Lda. ,PT928840726,Portugal,Summit Materials Inc,91-9170792,United States,packaging,03-02-2022,Fournisseur validé lors de l'audit 2022
+648,portal_v2,Silvelrine Materials SAS,FR18769608269,FR,Copperfield  Fibers  Lda. ,PT151483512,Portugal,logistics,10/09/2025,
+649,portal_v2,apex circuits s.p.a.,IT59296256706,Italy,SUMMIT INDUSTRIES SAS,FR50014475805,FR,raw_material,23/10/2022,
+650,portal_v2,Rhine  Tooling  AG ,DE535425961,Germany,Highland Machinery SARL,172575982337100,Maroc,raw material,,
+651,portal_v2,APEX CIRCUITS S.P.A.,IT59296256706,Italy,summit industries sas,FR50014475805,France,subcontracted_labor,18/08/2025,
+652,portal_v1,rhine packaging lda.,PT928840726,Portugal,eastfield alloys gmbh,DE41376973,Deutschland,materia prima,2023-09-16,Backup supplier - low volume
+653,legacy_manual_import,Highland Machinery tLd.,485329247,United Kingdom,Danub ePlastics Ltd.,GB286174002,GB,raw_material,11-26-2024,
+654,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,IN,horizon dyeworks a.ş.,5797626609,Turkey,subcontracted_labor,18/12/2022,
+655,legacy_manual_import,Premier  Coatings  A.Ş. ,,Türkiye,SOUTHBAY CIRCUITS LTD.,GB188850611,United Kingdom,RAW_MATERIAL,01-21-2024,Duplicate of prior quarter submission
+656,portal_v2,Andean Leather Pvt Ltd,02HCGCH6332A1Z5,India,Vantage Textilse S.A.,ES30633873E,España,packaging,29/07/2024,Confirmación pendiente por parte del proveedor
+657,portal_v2,Andean Assemblies S.p.A.,38826320735,Italy,copperfield group s.l.,ES02793116B,ES,RAW_MATERIAL,06/01/2024,Confirmación pendiente por parte del proveedor
+658,portal_v2,premier coatings a.ş.,4752892539,TR,Southbay Circuits Ltd,GB188850611,GB,materia prima,26/06/2022,Contrato renovado según acuerdo marco
+659,portal_v2,Vantage  Circuits  S.p.A. ,IT53333151593,Italy,Summit Foundry Sp. z o.o.,PL3439241666,Poland,packaging,16/07/2022,Pending re-confirmation
+660,portal_v2,Westport Trading A.Ş.,9238434939,Türkiye,PREMIER COATINGS SARL,329449379788765,Morocco,Raw Material,09/08/2022,Şirket 2021'de denetlendi
+661,portal_v2,Crestwood Group Ltd.,GB595122698,United Kingdom,Redstone Chemicals A.Ş.,,Turkey,subcontracted_labor,10/01/2024,
+662,portal_v2,SOUTHBAY ELECTRONICS S.A.,,ES,COPPERFIELD PACKAGING AG,DE990333248,Germany,logistics,12/02/2024,Société certifiée ISO 9001
+663,portal_v2,Rhine Packagign Lda.,PT928840726,Portugal,Gloabl Ceramics Sp. z o.o.,PL5131340444,Polska,subcontracted_labor,25/11/2022,Şirket 2021'de denetlendi
+664,legacy_manual_import,ANDEAN LEATHER PVT. LTD.,,IN,ANATOLIAN CERAMICS S.L.,ES74672173A,ES,Raw Material,03-22-2022,Duplicate of prior quarter submission
+665,legacy_manual_import,Hihgland Plastics S.p.A.,IT24406348066,Italy,ATLANTIC INDUSTRIES B.V.,NL118466507B21,NL,component,01-07-2024,
+666,legacy_manual_import,-,ES60227680G,ES,VANTAGE ALLOYS SARL,193008687593586,Maroc,subcontracted_labor,01-08-2024,Contrato renovado según acuerdo marco
+667,portal_v2,Bluewater Dyweorks SAS,FR60253625246,FR,redstone manufacturing gmbh,DE473445968,Germany,RAW_MATERIAL,,
+668,portal_v2,alpine coatings sarl,102439281045618,Maroc,Bluewater Industries A.Ş.,2249294184,TR,raw material,11/05/2024,Contrato renovado según acuerdo marco
+669,portal_v2,Andean  Assemblies  S.p.A. ,IT38826320735,IT,Pacific Machinery Lda,PT721-441525,PT,logistics,17/09/2023,Société certifiée ISO 9001
+670,legacy_manual_import,"MERIDIAN FOUNDRY CO., LTD.",6936664761,Vietnam,Highland  Steel  Sp.  z  o.o. ,PL7859126165,Poland,Raw Material,,
+671,portal_v1,Westport  Electronics  SARL ,394225258329500,Morocco,Cornerstone Assemblise S.L.,ES1987479E,España,components,2022-11-25,"Data provided via phone, not verified"
+672,portal_v1,Atlantic Trading BV,NL274449316B37,Holland,Westport Packaging Ltd.,GB604944530,UK,dyeing,,segÃºn acuerdo
+673,portal_v2,Highland Machinery Ltd,GB485329247,GB,Horizon Solutions Inc.,94-3330230,USA,Raw Material,21/11/2022,
+674,portal_v1,Northgate  Machinery  Ltd. ,GB144982519,UK,Crestwood eMtals SARL,,Maroc,subcontracted_labor,2023-10-05,Contrato renovado según acuerdo marco
+675,portal_v2,Meridian Fasteners Ltd.,GB212776106,UK,EASTFIELD COMPONENTS SARL,FR5865-3776073,FR,raw material,16/03/2023,
+676,portal_v2,Danube Components Sp z oo,PL8781446242,Polska,RiversideC hemicals S.p.A.,IT17291807684,IT,components,04/04/2025,
+677,portal_v2,Oakridge Fsateners Lda.,PT175750309,Portugal,Westprot Trading A.Ş.,9238434939,Turkey,logistics,01/04/2025,Pending re-confirmation
+678,portal_v2,Silverline Chemicals SAS,FR67254489366,France,Riverside  Metals  Inc. ,96-4638761,United States,materia prima,26/02/2024,
+679,portal_v2,Continental Fastenesr SARL,,Maroc,"Highland  Tooling  Co.,  Ltd. ",G9GDNTQUXZJWLN2EV6,CN,component,,
+680,legacy_manual_import,silverline materials sas,FR18769608269,FR,Copperfiled Fibers Lda.,PT151483512,Portugal,raw material,08-24-2025,Société certifiée ISO 9001
+681,portal_v2,"andean leather co., ltd.",DNCWF820JL0Q221BH9,CN,Horizon Steel Lda.,PT702711595,PT,RAW_MATERIAL,18/11/2022,
+682,legacy_manual_import,Northgate Circuist Ltd.,GB715429489,United Kingdom,STONEBRIDGE YARNS LDA.,PT103953164,Portugal,components,11-04-2022,Société certifiée ISO 9001
+683,portal_v2,HORIZON ALLOYS SARL,381866192115924,Maroc,Northgaet Trading SARL,FR81767886857,FR,logistics,29/01/2022,
+684,portal_v2,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,Westport  Packaging  Ltd. ,GB604944530,GB,dyeing,14/05/2025,
+685,portal_v2,Global Yarns .AŞ.,9960677129,Türkiye,"royal tooling co., ltd.",7037207554,Vietnam,Raw Material,16/08/2022,
+686,portal_v2,Oakridge Logistics A.Ş.,7963609841,TR,Apex MachineryG mbH,DE660561327,Deutschland,dyeing,16/08/2025,Société certifiée ISO 9001
+687,portal_v2,Eastfield  Components  SARL ,FR58653776073,FR,"lakeside electronics co., ltd.",,China,packaging,25/09/2024,Contact information outdated
+688,portal_v2,danube plastics ltd.,GB286174002,GB,Batlic Manufacturing SARL,,Morocco,subcontracted_labor,07/04/2022,
+689,legacy_manual_import,Iberian Machinery Ltd,GB910116526,UK,Redstone  Electronics  B.V. ,NL912755756B86,NL,subcontracted_labor,01-08-2024,
+690,portal_v2,Westoprt Electronics SARL,394225258329500,Morocco,Iberian  Machinery  Ltd. ,GB910116526,UK,component,11/03/2025,Duplicate of prior quarter submission
+691,portal_v2,SUMMIT TRADING SARL,,FR,Horizon  Polymers  Sp.  z  o.o. ,PL0171072146,Polska,Raw Material,,
+692,portal_v2,GLOBAL YARNS A.Ş.,9960677129,TR,"Royal Tooling Co., tLd.",7037207554,VN,RAW_MATERIAL,13/06/2025,Backup supplier - low volume
+693,portal_v2,Irongate  Alloys  A.Ş. ,6888337780,Türkiye,"andean steel co., ltd.",CL12TKN77WAW76RRRX,CN,raw material,20/06/2025,
+694,portal_v2,Redstone Chemicals Lda,PT253396557,Portugal,Highland  Components  SAS ,FR34285656538,FR,subcontracted_labor,08/07/2024,
+695,legacy_manual_import,Nordic  Fibers  SAS ,FR32114540305,France,vantage tooling lda.,,PT,RAW_MATERIAL,11-23-2024,Fournisseur validé lors de l'audit 2022
+696,portal_v1,Global  Ceramics  Sp.  z  o.o. ,PL5131340444,Polska,NORDIC CERAMICS S.L.,ES28842673D,Espagne,logistics,2023-05-13,Société certifiée ISO 9001
+697,portal_v1,MERIDIAN FASTENERS LTD.,GB212776106,UK,Nordic  Fibers  SAS ,FR32114540305,France,dyeing,2025-07-10,
+698,portal_v1,"Meridian  Foundry  Co.,  Ltd. ",6936664761,Vietnam,Oakridge Platsics Pvt. Ltd.,94HXCVS3375A1Z5,IN,Raw Material,2022-11-26,
+699,portal_v2,Global Alloys ASRL,FR02653954607,FR,Contienntal Textiles Pvt. Ltd.,29YKHST4465A1Z5,India,components,13/05/2022,
+700,legacy_manual_import,GLOBAL CERAMICS SP. Z O.O.,,Polska,Horizon  Components  Lda. ,PT115345152,PT,logistics,08-11-2025,
+701,portal_v2,Summit Tooilng S.L.,ES 17820269F,ES,Irongate  Circuits  B.V. ,NL410656411B65,Netherlands,dyeing,01/09/2024,Fornecedor homologado em 2023
+702,portal_v1,southbay leather b.v.,NL638797541B81,Netherlands,"Irongate Ceramics Co, Ltd",2309407591,Vietnam,materia prima,2024-03-11,Contact information outdated
+703,portal_v2,Global Alloys ASRL,FR02653954607,FR,Continental Textiles Pvt Ltd,29YKHST4465A1Z5,IN,finishing,12/02/2022,"Data provided via phone, not verified"
+704,legacy_manual_import,Meridian Yarns Sp z oo,PL8435722373,Poland,Millbrook  Alloys  AG ,DE251791722,Germany,packaging,09-17-2025,
+705,portal_v1,meridian fasteners ltd.,,UK,Meridian Assemblies Sp z oo,,Polska,Raw Material,2025-09-30,Confirmación pendiente por parte del proveedor
+706,portal_v1,"Andean Leather C.o, Ltd.",DNCWF820JL0Q221BH9,China,Rhine  Packaging  Lda. ,PT928840726,Portugal,dyeing,2023-04-12,Confirmación pendiente por parte del proveedor
+707,legacy_manual_import,CONTINENTAL FASTENERS SARL,524296237088409,Morocco,"HIGHLAND TOOLING CO., LTD.",G9GDNTQUXZJWLN2EV6,China,Raw Material,03-21-2023,
+708,portal_v2,Premier Coatings .AŞ.,47528-92539,Turkey,Southbay Cicruits Ltd.,GB188850611,United Kingdom,raw material,02/04/2022,
+709,portal_v1,GlobalE lectronics S.A.,ES50165258A,España,Anatolian  Metals  SARL ,FR62182564559,France,component,2024-08-31,Fournisseur validé lors de l'audit 2022
+710,portal_v2,andean leather pvt. ltd.,,India,andean assemblies s.p.a.,IT38826320735,Italia,components,30/04/2025,
+711,portal_v2,Global Electronics SA,50165258A,España,"REDSTONE PLASTICS CO., LTD.",2955705581,VN,components,29/08/2022,
+712,portal_v1,Summit Trading SARL,FR44034462491,FR,Sunrise Circuits SAS,FR9091-6808819,FR,RAW_MATERIAL,2022-05-18,Confirmación pendiente por parte del proveedor
+713,portal_v2,Alpine  Coatings  SARL ,102439281045618,Maroc,anatolian polymers inc.,30-6364630,USA,materia prima,04/05/2023,Duplicate of prior quarter submission
+714,portal_v2,silverline leather s.l.,ES95639376A,ES,Northgate Polymers Srl,IT79593991237,Italia,component,19/03/2024,
+715,portal_v1,Crestwood Caotings Lda.,PT869464903,Portugal,southbay leather b.v.,NL638797541B81,Netherlands,Raw Material,2025-06-02,Duplicate of prior quarter submission
+716,portal_v2,Highland  Steel  Sp.  z  o.o. ,PL7859126165,Polska,Iberian Leather Pvt. Ltd.,35HRPHY3801A1Z5,IN,dyeing,29/04/2025,
+717,portal_v2,Global  Alloys  SARL ,FR02653954607,FR,Baltic Tarding Ltd.,,UK,dyeing,04/10/2023,
+718,portal_v1,EASTFIELD COMPONENTS SARL,,FR,"LAKESIDE ELECTRONICS CO., LTD.",YC17FKMGNQ3R7BUY9H,CN,packaging,2023-08-23,"Data provided via phone, not verified"
+719,portal_v2,Atlantic Logistics Srl,,Italia,Southbay Yarns AŞ,0992964398,TR,materia prima,25/06/2025,
+720,legacy_manual_import,horizon manufacturing ag,DE431839337,DE,Royal  Dyeworks  Inc. ,,United States,RAW_MATERIAL,07-09-2024,
+721,legacy_manual_import,Royal Macihnery Inc.,22-7342425,United States,APEX CERAMICS SP. Z O.O.,,Polska,components,08-02-2024,Pending re-confirmation
+722,portal_v2,highland weaving a.ş.,8152837670,Türkiye,Horizon  Packaging  S.A. ,ES71747066G,España,components,26/04/2024,
+723,portal_v2,Eastifeld Components SARL,FR58653776073,France,crestwood dyeworks sas,FR04397040587,FR,packaging,18/08/2022,Contrato renovado según acuerdo marco
+724,portal_v2,Anatolian  Metals  SARL ,FR62182564559,France,Global Metals Inc,,US,raw material,20/08/2023,
+725,portal_v2,Alpine  Coatings  SARL ,102439281045618,Maroc,VANTAGE PACKAGING PVT. LTD.,06JURYD6700A1Z5,India,logistics,13/02/2024,
+726,portal_v2,NorthGate Textiles SA,ES60227680G,Spain,Atlantic  Logistics  S.r.l. ,IT04077145284,Italy,materia prima,20/02/2023,
+727,portal_v1,Silverline Leather SL,ES95639376A,Espagne,baltic leather pvt. ltd.,95OEZWM3402A1Z5,IN,raw material,,
+728,portal_v2,,GB485329247,UK,HORIZON SOLUTIONS INC.,94-3330230,US,packaging,23/10/2023,
+729,portal_v2,"Andean Leather Co, Ltd",DNCWF820JL0Q221BH9,CN,"MERIDIAN FOUNDRY CO., LTD.",6936664761,Vietnam,raw material,22/04/2024,Pending re-confirmation
+730,portal_v2,Atlantic Logistics S.r.l.,IT04077145284,Italy,Southbay  Logistics  S.r.l. ,,Italia,raw_material,30/07/2023,Contact information outdated
+731,portal_v2,Silverline  Materials  SAS ,,FR,Copperfield Fibers Lda.,PT151483512,Portugal,components,07/04/2024,
+732,portal_v1,Northgate Machinery Ldt.,GB144982519,United Kingdom,Northgate Circuist Ltd.,,United Kingdom,finishing,2023-06-19,
+733,portal_v2,Horizon Dyeworks AŞ,5797626609,TR,�,1043205340,Vietnam,components,25/05/2023,
+734,portal_v2,Summit  Materials  Inc. ,91-9170792,US,Rhine  Machinery  SARL ,,France,RAW_MATERIAL,27/04/2025,
+735,portal_v2,Nordic  Fibers  SAS ,,France,Southbay Electronics SRAL,,Maroc,subcontracted_labor,14/04/2023,Fournisseur validé lors de l'audit 2022
+736,portal_v2,Rhine  Packaging  Lda. ,PT928840726,Portugal,eastfield alloys gmbh,DE413376973,DE,RAW_MATERIAL,,
+737,portal_v2,"Andean  Leather  Co.,  Ltd. ",,CN,Horizon Steel Lda,PT702711595,Portugal,Raw Material,05/03/2024,Société certifiée ISO 9001
+738,portal_v2,###,,GB,eastfield components sarl,FR58653776073,France,materia prima,28/02/2024,
+739,portal_v2,Highland Machinery Ltd,GB485329247,GB,Horizon Solutions Inc.,94-3330230,USA,Raw Material,21/11/2022,
+740,portal_v2,VANTAGE ALLOYS SARL,193008687593586,Maroc,"Iberian Assemblies Co., Ltd.",K54AWTVW783SWDM5XV,CN,raw material,12/06/2024,Confirmación pendiente por parte del proveedor
+741,portal_v1,westport electronics sarl,394225258329500,Maroc,COPPERFIELD FASTENERS GMBH,DE713595939,DE,RAW_MATERIAL,2024-02-13,
+742,portal_v2,Golden  Tooling  Sp.  z  o.o. ,PL2144229485,Polska,OAKRIDGE LOGISTICS A.Ş.,7963609841,Turkey,finishing,14/07/2024,Duplicate of prior quarter submission
+743,portal_v2,Silverline  Leather  S.L. ,ES95639376A,Espagne,BALTIC LEATHER PVT. LTD.,95OEZWM3402A1Z5,IN,raw material,10/03/2024,Fournisseur validé lors de l'audit 2022
+744,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,MA,Pacific  Dyeworks  B.V. ,NL382948470B92,Holland,subcontracted_labor,28/06/2024,
+745,legacy_manual_import,Northgate Circuits Ltd.,GB715429489,UK,IBERIAN PLASTICS S.L.,,Espagne,dyeing,10-31-2024,Backup supplier - low volume
+746,legacy_manual_import,Andean  Assemblies  S.p.A. ,IT38826320735,Italia,copperfield group s.l.,ES02793116B,Spain,logistics,,Fornecedor homologado em 2023
+747,portal_v2,Prime Polymers SL,,ES,"Meridian Yarns Co., Ltd.",,VN,RAW_MATERIAL,03/01/2025,
+748,portal_v2,Redstone Chemicals Lda,PT253396557,PT,Horizon Alloys SARL,,Maroc,materia prima,24/12/2022,
+749,portal_v2,andean plastics s.r.l.,IT09674857331,IT,Copperfield Weaving Pvt Ltd,45UXLVQ3410A1Z5,India,raw_material,06/08/2022,
+750,portal_v2,meridian fasteners ltd.,,UK,anatolian yarns sp. z o.o.,PL0677017673,Polska,components,07/11/2022,
+751,legacy_manual_import,Westport  Trading  A.Ş. ,9238434939,Türkiye,HORIZON MACHINERY S.P.A.,,Italia,dyeing,11-15-2022,
+752,portal_v2,irongate alloys a.ş.,6888337780,Türkiye,Silverline Polymers Sp z oo,PL7353254094,Polska,RAW_MATERIAL,23/07/2024,
+753,portal_v2,RHINE PACKAGING LDA.,PT928840726,PT,Eastfield  Alloys  GmbH ,DE413376973,DE,component,03/10/2022,Contact information outdated
+754,portal_v2,ANATOLIAN YARNS SP. Z O.O.,,Polska,Sunrise Weaving A.Ş.,9075459796,Turkey,raw material,18/09/2024,Confirmación pendiente por parte del proveedor
+755,portal_v2,Anatolian Metals SARL,FR62182564559,FR,HORIZON SOLUTIONS SP. Z O.O.,PL4837332964,Poland,materia prima,24/09/2025,Contact information outdated
+756,portal_v2,Iberian Materials AG,817466807,Germany,"Millbrook  Circuits  Co.,  Ltd. ",G2WQHWTPM4R5ZZT4EZ,CN,materia prima,08/09/2022,
+757,portal_v2,CORNERSTONE ALLOYS B.V.,NL683629854B33,Holland,Eastfield Macihnery S.p.A.,IT76445972558,Italy,finishing,10/11/2023,Pending re-confirmation
+758,portal_v2,Andean Leather Pvt Ltd,,IN,Baltic Chemicals BV,NL192147365B35,Netherlands,packaging,04/06/2025,"Data provided via phone, not verified"
+759,portal_v2,Horizo nAlloys SARL,381866192115924,Maroc,Oakridge  Textiles  B.V. ,NL 886154196B97,Netherlands,materia prima,17/06/2024,
+760,legacy_manual_import,alpine coatings sarl,102439281045618,MA,Vantage Packaging Pvt Ltd,06JURYD6700A1Z5,India,packaging,04-20-2024,Duplicate of prior quarter submission
+761,portal_v2,Royal  Machinery  Inc. ,22-7342425,US,Rhine  Assemblies  Inc. ,24-7759986,USA,logistics,15/10/2022,"Data provided via phone, not verified"
+762,portal_v2,"United Assemblies Co, Ltd",,VN,TBD,,Germany,logistics,28/11/2024,
+763,portal_v2,Andean  Leather  Pvt.  Ltd. ,02HCGCH6332A1Z5,IN,Baltic Chmeicals B.V.,NL192147365B35,Holland,logistics,29/01/2023,Fornecedor homologado em 2023
+764,portal_v2,GLOBAL METALS INC.,07-8555313,US,Northgate  Ceramics  SARL ,708207504345321,Maroc,materia prima,14/10/2022,
+765,portal_v2,Baltic Foundry BV,,Netherlands,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,raw material,03/08/2022,Backup supplier - low volume
+766,portal_v1,�,IT04077145284,IT,SOUTHBAY YARNS A.Ş.,0992964398,Turkey,raw material,2024-11-25,
+767,legacy_manual_import,Oakridge Fasteners Lda,PT175750309,PT,premier coatings a.ş.,4752892539,Türkiye,dyeing,06-20-2024,Fournisseur validé lors de l'audit 2022
+768,portal_v2,"Meridian Foundry Co., Ltd.",6936664761,Vietnam,"Summit Machinery Co., tLd.",9402555543,Vietnam,materia prima,08/07/2024,Contact information outdated
+769,portal_v1,"ANDEAN LEATHER CO., LTD.",DNCWF820J-L0Q221BH9,CN,"Meridian Foundry Co., Ltd.",6936664761,Vietnam,materia prima,2025-03-10,Contact information outdated
+770,portal_v2,Northgate Circuist Ltd.,GB715429489,GB,Bluewater Industries A.Ş.,,Turkey,raw material,16/02/2025,Contact information outdated
+771,portal_v2,UNKNOWN,6888337780,Türkiye,crestwood group ltd.,,GB,finishing,23/11/2022,Confirmación pendiente por parte del proveedor
+772,portal_v2,Pacific Metals Inc.,11-7347262,United States,Millbrook  Components  A.Ş. ,8678162734,Türkiye,component,12/10/2024,
+773,legacy_manual_import,horizon solutions sp. z o.o.,,PL,Vantage  Chemicals  SAS ,,FR,Raw Material,09-30-2024,
+774,portal_v2,Horizon Manufactuirng AG,DE431839337,Deutschland,UNITED FOUNDRY LDA.,PT323269615,PT,Raw Material,21/08/2023,
+775,legacy_manual_import,NORTHGATE TEXTILES S.A.,ES60227680G,España,highland plastics s.p.a.,,IT,finishing,01-25-2024,
+776,legacy_manual_import,Atlantic Logistics S.r.l.,IT04077145284,Italy,bluewater manufacturing s.r.l.,IT10862914220,Italy,logistics,02-08-2023,
+777,legacy_manual_import,Oakridge Logistcis A.Ş.,7963609841,Turkey,APEX MACHINERY GMBH,DE660561327,Germany,RAW_MATERIAL,12-04-2022,Şirket 2021'de denetlendi
+778,portal_v2,"Andean  Leather  Co.,  Ltd. ",DNCWF820J-L0Q221BH9,CN,MERIDIAN FASTENERS LTD.,,United Kingdom,packaging,24/01/2023,
+779,legacy_manual_import,Copperfield Metals AŞ,9918536797,TR,Pacfiic Weaving SAS,FR78660368846,France,components,03-02-2023,Duplicate of prior quarter submission
+780,portal_v2,BALTIC FOUNDRY B.V.,NL12738-7209B07,NL,Continental Weaving B.V.,NL346920737B67,Holland,component,21/03/2025,
+781,portal_v1,Premier Coatings AŞ,4752892539,Türkiye,Southbay Circuits Ltd.,GB188850611,United Kingdom,finishing,2022-03-01,Contact information outdated
+782,legacy_manual_import,IRONGATE LOGISTICS B.V.,NL511393683B38,Netherlands,"Continental Tooling oC., Ltd.",,China,dyeing,06-05-2024,Duplicate of prior quarter submission
+783,portal_v1,Eastfield  Components  SARL ,FR58653776073,FR,"Lakeside  Electronics  Co.,  Ltd. ",YC17FKMGNQ3R7BUY9H,CN,raw_material,2025-04-20,Contact information outdated
+784,legacy_manual_import,Iberian Materiasl AG,DE817466807,Germany,"Apex Components Co., Ltd.",WCF8F792RN2BJZLJUT,CN,logistics,02-12-2025,Fornecedor homologado em 2023
+785,portal_v2,ANDEAN ASSEMBLIES S.P.A.,IT38826320735,IT,BALTIC METALS SARL,341339581700446,Maroc,RAW_MATERIAL,01/08/2023,"Data provided via phone, not verified"
+786,legacy_manual_import,ROYAL MACHINERY INC.,22-7342425,US,Apex Ceramics Sp z oo,PL5983766493,Poland,packaging,10-18-2023,
+787,portal_v2,Copperfield  Metals  A.Ş. ,,Turkey,Pacfiic Weaving SAS,,France,finishing,22/09/2024,
+788,portal_v2,Vantage Circuits SpA,IT5333-3151593,Italia,Millbrook Polymers B.V.,NL353205082B84,Netherlands,raw material,24/03/2023,
+789,portal_v2,iberian machinery ltd.,GB910116526,UK,Redstone  Electronics  B.V. ,NL912755756B86,NL,dyeing,30/12/2023,Contact information outdated
+790,portal_v2,NotrhGate Textiles S.A.,ES60227680G,Espagne,Godlen Tooling Sp. z o.o.,,PL,Raw Material,29/07/2025,Société certifiée ISO 9001
+791,legacy_manual_import,bluewater manufacturing s.r.l.,IT10862914220,Italy,Pacific Weaving SL,ES36664405A,Espagne,dyeing,09-23-2024,Fornecedor homologado em 2023
+792,portal_v2,"United Assemblies Co., Ltd.",6926242393,VN,ANATOLIAN POLYMERS SARL,413403018954648,Maroc,components,31/05/2023,
+793,portal_v2,"united assemblies co., ltd.",6926242393,Vietnam,Stonebridge  Plastics  GmbH ,DE885551925,DE,component,25/08/2025,
+794,portal_v1,Nordic  Materials  GmbH ,DE502141043,DE,"Atlantic Steel Co., Ldt.",6809149499,VN,components,2024-10-01,
+795,portal_v2,Redstone  Chemicals  Lda. ,PT253396557,PT,Highland  Components  SAS ,FR34285656538,FR,packaging,18/01/2024,
+796,portal_v2,,ES88454746C,ES,Cornerstone Fasteners S.A.,ES20546820H,Spain,RAW_MATERIAL,27/03/2024,Duplicate of prior quarter submission
+797,portal_v1,Global Alloys SARL,FR02653954607,France,Pacific  Metals  Inc. ,,United States,materia prima,2022-10-26,
+798,portal_v1,ALPINE MATERIALS LTD.,gb409940422,UK,"Prime Electronics Co, Ltd",VE8QMU72MHTLP9NJ96,China,component,2023-10-25,"Data provided via phone, not verified"
+799,legacy_manual_import,"Meridian Foundry Co, Ltd",6936664761,VN,"Redstone Plastics Co, Ltd",2677094459,Vietnam,Raw Material,11-01-2022,Contrato renovado según acuerdo marco
+800,portal_v2,,FR58653776073,FR,Crestwood Dyeworks SAS,FR04397040587,France,RAW_MATERIAL,20/06/2024,
+801,legacy_manual_import,GLOBAL ALLOYS SARL,FR02653954607,France,Contienntal Textiles Pvt. Ltd.,29YKHST4465A1Z5,IN,raw_material,04-14-2023,
+802,portal_v2,NORDIC FIBERS SAS,FR3211-4540305,FR,southbay electronics sarl,346652635766034,Morocco,subcontracted_labor,02/07/2024,Contact information outdated
+803,legacy_manual_import,Danube Plastics Ltd.,GB286174002,UK,Iberian Fibers SRAL,FR3901-3758056,France,RAW_MATERIAL,09-30-2025,Fournisseur validé lors de l'audit 2022
+804,portal_v2,Permier Dyeworks A.Ş.,6954004320,Türkiye,Millbrook Fibers Pvt. Ltd.,84WSTJK5150A1Z5,India,raw_material,31/10/2023,
+805,portal_v2,MERIDIAN ASSEMBLIES SP. Z O.O.,PL3793702943,Polska,Alpine  Assemblies  A.Ş. ,1619347714,Türkiye,components,01/12/2022,
+806,portal_v2,Continental Fastenesr SARL,524296237088409,Maroc,"Highland oToling Co., Ltd.",G9GDNTQUXZJWLN2EV6,China,raw material,08/08/2022,
+807,portal_v2,Atlantic Logistics S.r.l.,IT04077145284,Italy,Irongate Alloys A.Ş.,6888337780,TR,dyeing,08/03/2023,
+808,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,Morocco,Copperfeild Fasteners GmbH,713595939,Deutschland,component,15/05/2022,
+809,legacy_manual_import,Apex Circuits S..pA.,IT59296256706,Italy,SUMMIT INDUSTRIES SAS,FR50014475805,FR,dyeing,07-24-2022,
+810,legacy_manual_import,nordic materials gmbh,DE502141043,Germany,northgate trading s.a.,ES71132831E,España,logistics,,
+811,portal_v2,Nordci Materials GmbH,,Deutschland,"ROYAL TRADING CO., LTD.",7398432518,VN,Raw Material,07/09/2025,
+812,legacy_manual_import,copperfield group s.l.,ES02793116B,España,"Nordic  Steel  Co.,  Ltd. ",8GD5XVJXREAEQ92CHW,CN,RAW_MATERIAL,07-31-2024,
+813,portal_v2,Pacific  Dyeworks  B.V. ,NL382948470B92,Holland,Lakeside  Industries  Lda. ,PT868765643,Portugal,materia prima,10/03/2023,
+814,legacy_manual_import,Andean Leather Pvt. Ltd.,02HCGCH6332A1Z5,India,Andean Assemblies S.p.A.,IT38826320735,Italia,logistics,05-10-2022,
+815,portal_v1,prime packaging sarl,FR39133626704,FR,Sunrise Components Pvt Ltd,,India,raw_material,2024-07-17,
+816,portal_v2,eastfield components sarl,FR58653776073,FR,TBD,FR0439-7040587,FR,RAW_MATERIAL,10/03/2025,"Data provided via phone, not verified"
+817,portal_v1,Apex Industries A.Ş.,,TR,andean components b.v.,NL029205177B36,NL,packaging,2025-04-01,Fornecedor homologado em 2023
+818,legacy_manual_import,Alpine  Plastics  A.Ş. ,0683495249,Türkiye,COPPERFIELD DYEWORKS PVT. LTD.,56IJOUL3230A1Z5,IN,components,06-19-2025,
+819,portal_v2,southbay electronics sarl,,MA,westport electronics sarl,394225258329500,MA,finishing,22/07/2022,
+820,portal_v2,Atlantic Logistics Srl,IT04077145284,Italia,APEX CIRCUITS S.P.A.,,Italia,Raw Material,22/04/2022,
+821,legacy_manual_import,CONTINENTAL FASTENERS SARL,524296237088409,Morocco,United Machinery tLd.,,GB,logistics,04-09-2025,Şirket 2021'de denetlendi
+822,portal_v2,Andean Leather Pvt Ltd,02HCGCH6332A1Z5,IN,Anatolian  Ceramics  S.L. ,ES74672173A,ES,materia prima,01/04/2025,
+823,portal_v2,Danube  Tooling  S.r.l. ,IT40418653428,Italy,United Leather Sp z oo,PL0846433592,PL,raw material,31/07/2025,
+824,portal_v2,Global  Alloys  SARL ,FR02653954607,France,Baltic Trading Ltd.,GB261367723,UK,components,21/05/2023,Société certifiée ISO 9001
+825,portal_v2,Danub ePlastics Ltd.,286174002,GB,Iberian Fibers SARL,FR39013758056,FR,dyeing,,
+826,portal_v2,United Chmeicals Ltd.,GB666750464,GB,anatolian machinery a.ş.,3715490387,Turkey,raw material,26/05/2023,Contrato renovado según acuerdo marco
+827,legacy_manual_import,Cornerstone Alloys BV,NL683629854B33,Holland,eastfield machinery s.p.a.,IT76445972558,Italia,RAW_MATERIAL,11-07-2023,Pending re-confirmation
+828,portal_v2,Northgate Circuist Ltd.,GB715429489,GB,Bluewater Industries A.Ş.,9455686824,TR,Raw Material,07/09/2025,
+829,portal_v1,NorthGate  Textiles  S.A. ,ES60227680G,España,Global  Electronics  S.A. ,ES50165258A,Spain,raw_material,2023-03-04,
+830,legacy_manual_import,NotrhGate Textiles S.A.,ES60227680G,Espagne,Vantage Allosy SARL,193008687593586,Morocco,RAW_MATERIAL,06-29-2023,Confirmación pendiente por parte del proveedor
+831,portal_v2,Southbay Logistics Srl,IT40684690723,IT,"Golden Packaging Co.,L td.",YMG5T5QGXJM11UYNRE,China,logistics,18/06/2025,
+832,portal_v2,SUMMIT TOOLING S.L.,ES17820269F,Spain,danube plastics s.a.,ES39891810F,Spain,logistics,12/01/2022,Fournisseur validé lors de l'audit 2022
+833,portal_v2,Irognate Alloys A.Ş.,6888337780,TR,Cretswood Group Ltd.,GB595122698,UK,subcontracted_labor,29/06/2024,Contrato renovado según acuerdo marco
+834,portal_v2,Global Ceramics Sp. z o.o.,PL5131340444,Poland,Danube  Steel  A.Ş. ,,TR,components,09/10/2022,
+835,portal_v2,Alpine Coatings SARL,102439281045618,MA,bluewater industries a.ş.,2249294184,TR,Raw Material,11/01/2023,
+836,portal_v2,Sunrise Leather SARL,FR7861973435,FR,millbrook solutions lda.,,PT,subcontracted_labor,02/12/2024,Contrato renovado según acuerdo marco
+837,legacy_manual_import,Eastifeld Components SARL,FR58653776073,FR,"lakeside electronics co., ltd.",YC17FKMGNQ3R7BUY9H,China,logistics,02-18-2024,
+838,portal_v2,VANTAGE CIRCUITS S.P.A.,IT53333151593,IT,Summit Foundry Sp. z o.o.,PL3439241666,PL,raw_material,23/02/2022,
+839,portal_v2,southbay electronics s.a.,,Espagne,Copperfield  Packaging  AG ,DE990333248,Deutschland,logistics,13/03/2024,
+840,portal_v2,Horizon Solutions Sp z oo,PL4837332964,Poland,OakridgeG roup SARL,FR91357663492,France,Raw Material,12/09/2022,Pending re-confirmation
+841,portal_v2,Permier Dyeworks A.Ş.,6954004320,TR,Millbrook  Fibers  Pvt.  Ltd. ,84WSTJK5150A1Z5,India,raw_material,15/06/2023,
+842,portal_v1,"Highland oToling Co., Ltd.",G9GDNTQUXZJWLN2EV6,China,Silverline  Leather  S.L. ,ES95639376A,ES,dyeing,2023-12-24,
+843,legacy_manual_import,cornerstone alloys b.v.,NL683629854B33,Netherlands,Eastfield Machinery S.p.A.,IT76445972558,Italy,dyeing,05-05-2022,
+844,portal_v2,Premier Coatings .AŞ.,4752892539,Turkey,Southbay Circuits Ltd,GB188850611,GB,raw_material,06/10/2023,Pending re-confirmation
+845,portal_v2,NORTHGATE TEXTILES S.A.,ES60227680G,Spain,Westport Electronics SARL,394225258329500,Morocco,RAW_MATERIAL,30/10/2022,segÃºn acuerdo
+846,portal_v2,NorthGate Textiles SA,,Espagne,RHINE TOOLING AG,DE535425961,Deutschland,materia prima,23/07/2022,Fournisseur validé lors de l'audit 2022
+847,portal_v2,GlobalE lectronics S.A.,ES50165258A,Spain,anatolian metals sarl,FR62182564559,France,RAW_MATERIAL,05/05/2025,Pending re-confirmation
+848,portal_v2,LAKESIDE INDUSTRIES LDA.,PT868765643,PT,Bluewater Trading Inc.,,US,logistics,24/03/2023,
+849,portal_v2,HIGHLAND COMPONENTS SAS,FR34285656538,France,CONTINENTAL PACKAGING S.P.A.,IT26573980619,Italia,materia prima,01/06/2022,
+850,portal_v2,irongate logistics b.v.,NL511393683B38,NL,asdkjqwe123,,China,materia prima,04/07/2022,
+851,portal_v2,Eastfield Components SARL,FR58653776073,FR,Atlantic Textiles Pvt. Ltd.,54METII2553A1Z5,IN,component,01/11/2022,
+852,portal_v2,NorthGate  Textiles  S.A. ,es60227680g,Espagne,GlobalE lectronics S.A.,ES50165258A,Espagne,Raw Material,12/11/2022,
+853,portal_v2,Silverline Materials SAS,FR18769608269,FR,Copperfield  Fibers  Lda. ,,Portugal,components,27/11/2022,
+854,legacy_manual_import,apex industries a.ş.,6656315572,TR,Andean Components B.V.,NL029205177B36,NL,RAW_MATERIAL,08-27-2022,Contrato renovado según acuerdo marco
+855,portal_v2,CONTINENTAL GROUP SARL,575538294401555,Maroc,Oakridge Packaging SAS,FR69577944501,France,raw_material,,
+856,portal_v1,Vantage Circuits S.p.A.,IT53333151593,IT,MILLBROOK POLYMERS B.V.,,Holland,dyeing,2025-03-30,
+857,portal_v2,Copperfield  Metals  A.Ş. ,,Turkey,Pacific Weaving SAS,FR78660368846,France,raw_material,15/11/2024,Backup supplier - low volume
+858,portal_v2,Danube  Tooling  S.r.l. ,IT40418653428,Italy,United Leather Sp z oo,PL0846433592,PL,raw material,31/07/2025,
+859,portal_v2,Premier Dyeworks A.Ş.,6954004320,TR,Rhine Foundry Ltd,GB430959230,United Kingdom,logistics,14/07/2025,"Data provided via phone, not verified"
+860,portal_v1,"United Assemblies Co., Ltd.",6926242393,Vietnam,RIVERSIDE CHEMICALS SAS,FR78380759187,FR,component,2024-07-09,
+861,portal_v2,Nordic Materials GmbH,DE502141043,Germany,Northgate Trading S.A.,ES71132831E,Spain,subcontracted_labor,01/01/2022,
+862,legacy_manual_import,Horizon Metals Sp z oo,PL4768445880,PL,CONTINENTAL WEAVING S.P.A.,21371287442,Italy,packaging,07-31-2023,
+863,legacy_manual_import,Westport Electronics SARL,394225258329500,Maroc,Highland Machinery tLd.,GB485329247,GB,logistics,06-03-2023,
+864,portal_v1,VANTAGE ALLOYS SARL,193008687593586,Maroc,silverline materials sas,FR18769608269,France,Raw Material,2024-02-27,
+865,portal_v2,Westport  Electronics  SARL ,394225258329500,Maroc,HIGHLAND MACHINERY LTD.,GB485329247,UK,component,03/10/2024,
+866,portal_v1,Atlantic rTading B.V.,nl274449316b37,Holland,Westport Packaging Ltd,GB604944530,UK,raw_material,2022-04-09,
+867,legacy_manual_import,"UNITED ASSEMBLIES CO., LTD.",26242393,Vietnam,Anatolian Polymesr SARL,413403018954648,Morocco,packaging,02-09-2023,Pending re-confirmation
+868,portal_v2,Westport Electronics SARL,394225258329500,Morocco,Iberian Machinery Ltd.,GB910116526,UK,raw material,,
+869,legacy_manual_import,EastfieldA lloys GmbH,DE413376973,Deutschland,"Westpor tIndustries Co., Ltd.",,VN,RAW_MATERIAL,05-29-2022,
+870,portal_v1,Highland Steel Sp. z .oo.,PL 7859126165,PL,Golden  Steel  SARL ,012089444331070,Maroc,packaging,2025-02-20,Confirmación pendiente por parte del proveedor
+871,portal_v2,"Andean Leather C.o, Ltd.",DNCWF820JL0Q221BH9,China,Lakeisde Materials Inc.,70-5466589,United States,packaging,26/02/2023,Contact information outdated
+872,portal_v1,Copperfield Metals A.Ş.,9918536797,Türkiye,PACIFIC WEAVING SAS,,FR,Raw Material,2024-08-08,
+873,portal_v1,SOUTHBAY LEATHER B.V.,NL63879-7541B81,NL,"irongate ceramics co., ltd.",,Vietnam,logistics,2022-11-14,
+874,portal_v2,Redstone Chemicals Lda,PT253396557,PT,Horizon Alloys SARL,,Maroc,materia prima,24/12/2022,
+875,legacy_manual_import,Alpine  Weaving  S.L. ,ES88454746C,ES,Baltic  Fibers  Ltd. ,GB655823297,United Kingdom,materia prima,10-24-2022,
+876,portal_v2,global ceramics sp. z o.o.,PL5131340444,Poland,NORDIC CERAMICS S.L.,ES28842673D,ES,raw_material,02/03/2024,
+877,portal_v2,CONTINENTAL FASTENERS SARL,524296237088409,MA,Adnean Plastics S.r.l.,,IT,finishing,13/01/2023,Contact information outdated
+878,legacy_manual_import,Westoprt Electronics SARL,394225258329500,Maroc,SUNRISE LEATHER SARL,FR17861973435,FR,logistics,09-15-2025,Confirmación pendiente por parte del proveedor
+879,portal_v2,Northgate Circuits Ltd.,GB715429489,UK,Iberian  Plastics  S.L. ,ES85181933E,Spain,materia prima,,
+880,portal_v2,iberian tooling s.r.l.,,Italia,continental group sarl,575538294401555,Maroc,logistics,14/06/2023,Contrato renovado según acuerdo marco
+881,portal_v1,Alpine Coaitngs SARL,102439281045618,MA,prime industries b.v.,,Netherlands,raw material,2022-10-29,
+882,portal_v1,Apex Industries AŞ,6656315572,Turkey,Atlantic  Fasteners  Pvt.  Ltd. ,,IN,logistics,2024-03-05,Backup supplier - low volume
+883,portal_v2,IBERIAN MATERIALS AG,DE817466807,Deutschland,"millbrook circuits co., ltd.",G2WQHWTPM4R5ZZT4EZ,CN,raw_material,17/08/2023,
+884,portal_v2,crestwood metals sarl,976694569801375,Morocco,Horizon  Manufacturing  AG ,,Germany,subcontracted_labor,31/03/2022,"Data provided via phone, not verified"
+885,portal_v1,atlantic trading b.v.,NL274449316B37,Holland,Westport Packaging Ltd,GB604944530,GB,finishing,2025-03-16,Şirket 2021'de denetlendi
+886,portal_v2,Royal Macihnery Inc.,22-7342425,United States,RHINE ASSEMBLIES INC.,24-77-59986,US,components,28/01/2024,Fornecedor homologado em 2023
+887,portal_v2,"Andean Leather C.o, Ltd.",DNCWF820JL0Q221BH9,CN,"Meridian Foundry Co., Ltd.",6936664761,VN,logistics,,
+888,portal_v2,Oakridge Fasteners Lda.,,PT,Westprot Trading A.Ş.,9238434939,TR,finishing,13/06/2023,
+889,portal_v2,Silverline  Materials  SAS ,,FR,Copperfiled Fibers Lda.,PT151483512,Portugal,raw_material,16/04/2025,Backup supplier - low volume
+890,portal_v1,Global Alloys ASRL,fr02653954607,FR,Continental  Textiles  Pvt.  Ltd. ,29YKHST4465A1Z5,India,materia prima,2024-02-27,Şirket 2021'de denetlendi
+891,portal_v1,copperfield metals a.ş.,9918536797,TR,Westport  Manufacturing  S.p.A. ,,Italy,components,,
+892,portal_v1,summit trading sarl,FR44034462491,France,Horizon  Polymers  Sp.  z  o.o. ,PL0171072146,PL,packaging,2024-03-05,Pending re-confirmation
+893,portal_v2,CONTINENTAL FASTENERS SARL,524296237088409,Maroc,"COPPERFIELD ALLOYS CO., LTD.",LQHUJWRG88MSHM9299,CN,dyeing,03/01/2023,Contact information outdated
+894,portal_v2,NORDIC MATERIALS GMBH,,DE,Nordic Materials GmbH,DE502141043,Germany,component,24/03/2025,Backup supplier - low volume
+895,portal_v2,"United Assemblies Co. ,Ltd.",6926242393,Vietnam,riverside chemicals sas,FR78380759187,France,subcontracted_labor,,Société certifiée ISO 9001
+896,portal_v1,Southaby Logistics S.r.l.,IT40684690723,Italia,westport manufacturing b.v.,NL521295413B38,Netherlands,finishing,2022-11-17,
+897,portal_v1,OAKRIDGE PLASTICS PVT. LTD.,94 HXCVS3375A1Z5,IN,Irongate Electronics Inc.,17-8899452,USA,materia prima,2025-04-23,Société certifiée ISO 9001
+898,legacy_manual_import,NORTHGATE MACHINERY LTD.,GB144982519,GB,Northgate  Circuits  Ltd. ,GB715429489,United Kingdom,subcontracted_labor,03-10-2024,Duplicate of prior quarter submission
+899,portal_v2,Oakridge Logistics AŞ,7963609841,Turkey,Apex MachineryG mbH,DE660561327,Deutschland,Raw Material,19/01/2022,
+900,portal_v2,Copperfield Group SL,,Espagne,"nordic steel co., ltd.",8GD5XVJXREAEQ92CHW,CN,component,10/05/2025,Fornecedor homologado em 2023
+901,legacy_manual_import,Meridian Yarns Sp.z  o.o.,PL8435722373,Poland,millbrook alloys ag,,DE,materia prima,,Pending re-confirmation
+902,portal_v1,Oakridge Logistics A.Ş.,7963609841,Turkey,Meridian Weaving Pvt. Ltd.,06 VZKDB3713A1Z5,India,raw material,2024-10-13,Contact information outdated
+903,portal_v2,"United Assemblies Co., Ltd.",6926242393,Vietnam,RIVERSIDE CHEMICALS SAS,FR78380759187,France,raw material,27/02/2025,
+904,portal_v1,"United Assemblies Co, Ltd",,Vietnam,Stonebridge Plastcis GmbH,DE885551925,Germany,Raw Material,2023-10-17,Şirket 2021'de denetlendi
+905,legacy_manual_import,ALPINE WEAVING S.L.,ES88454746C,Spain,Baltic Fibers Ltd.,,GB,RAW_MATERIAL,06-13-2023,"Data provided via phone, not verified"
+906,legacy_manual_import,Sunrise Leather SARL,,France,Irongate  Steel  AG ,DE851882729,Germany,RAW_MATERIAL,02-13-2024,
+907,legacy_manual_import,Global  Ceramics  Sp.  z  o.o. ,PL5131340444,Polska,Danube Steel A.Ş.,9576837507,Türkiye,Raw Material,11-19-2024,Şirket 2021'de denetlendi
+908,legacy_manual_import,"Meridian Foundry Co, Ltd",6936664761,VN,"Summit Machinery Co., Ltd.",9402555543,VN,logistics,06-27-2022,Fournisseur validé lors de l'audit 2022
+909,legacy_manual_import,Cornerstnoe Fasteners S.A.,ES20546820H,ES,Oakridge Metals SARL,FR96492088836,FR,packaging,02-05-2022,Backup supplier - low volume
+910,portal_v2,Baltic  Foundry  B.V. ,,Netherlands,Atlantic  Trading  B.V. ,nl274449316b37,NL,components,23/12/2024,
+911,legacy_manual_import,Rhine  Packaging  Lda. ,PT928840726,Portugal,Summit Materials Inc,91-9170792,United States,packaging,03-02-2022,Fournisseur validé lors de l'audit 2022
+912,portal_v2,Crestwood  Group  Ltd. ,GB595122698,United Kingdom,millbrook tooling sarl,,Morocco,component,19/11/2024,
+913,portal_v2,ALPINE WEAVING S.L.,ES 88454746C,España,APEX INDUSTRIES A.Ş.,,TR,components,04/01/2023,
+914,legacy_manual_import,Vantage Circuits S.p.A.,IT53333151593,Italy,Millbrook Poylmers B.V.,NL353205082B84,NL,RAW_MATERIAL,01-20-2023,
+915,legacy_manual_import,Bluewater Manufacturing S.r.l.,IT10862914220,Italy,Pcaific Weaving S.L.,ES366-64405A,Spain,RAW_MATERIAL,08-17-2024,
+916,portal_v2,highland plastics s.p.a.,24406348066,IT,Atlantic  Industries  B.V. ,nl118466507b21,Holland,logistics,01/04/2023,
+917,portal_v2,premier dyeworks a.ş.,6954004320,Türkiye,Rhine Fonudry Ltd.,GB430959230,GB,component,21/07/2023,Pending re-confirmation
+918,portal_v1,NorthGate  Textiles  S.A. ,ES60227680G,Spain,atlantic logistics s.r.l.,IT04077145284,IT,subcontracted_labor,2023-08-09,
+919,portal_v2,ALPINE WEAVING S.L.,ES88454746C,Spain,baltic fibers ltd.,GB655823297,United Kingdom,RAW_MATERIAL,27/01/2024,
+920,portal_v1,ANDEAN LEATHER PVT. LTD.,02HCGCH6332A1Z5,India,Summit Leather BV,NL516371548B32,Holland,Raw Material,2022-05-18,Şirket 2021'de denetlendi
+921,portal_v2,Westport  Trading  A.Ş. ,9238434939,TR,"crestwood yarns co., ltd.",QDTRK1B2ZX2X1DSSZM,CN,RAW_MATERIAL,17/03/2024,
+922,portal_v2,Andean  Leather  Pvt.  Ltd. ,02HCGCH6332A1Z5,IN,Anatolian Ceramisc S.L.,ES74672173A,Espagne,materia prima,24/01/2023,
+923,portal_v2,CORNERSTONE FASTENERS S.A.,ES20546820H,ES,RoyalL eather S.p.A.,IT20429306986,Italy,Raw Material,28/01/2022,Contrato renovado según acuerdo marco
+924,portal_v1,Summit Metals Lda.,PT182309739,PT,Ibreian Electronics SARL,,Morocco,Raw Material,,
+925,portal_v2,Pacific Machniery Lda.,PT721441525,PT,CONTINENTAL ELECTRONICS S.R.L.,IT7511445932,Italy,finishing,17/11/2022,
+926,portal_v2,baltic foundry b.v.,NL12738709B07,NL,Atlantic rTading B.V.,NL274449316B37,NL,subcontracted_labor,28/01/2024,Société certifiée ISO 9001
+927,portal_v1,Atlantic Logistics Srl,IT04077145284,IT,alpine weaving s.l.,ES88454746C,España,raw material,2025-02-06,Fournisseur validé lors de l'audit 2022
+928,portal_v2,Nordic Materials GmbH,DE502141043,DE,Horizon Metals Sp. z o.o.,PL4768445880,PL,components,31/01/2024,Pending re-confirmation
+929,legacy_manual_import,Pacific Metals Inc.,11-7347262,USA,MERIDIAN INDUSTRIES SAS,FR10596861958,FR,RAW_MATERIAL,12-23-2023,Duplicate of prior quarter submission
+930,portal_v2,CORNERSTONE FASTENERS S.A.,,Spain,RoyalL eather S.p.A.,,IT,components,19/12/2024,
+931,portal_v1,"Andean  Leather  Co.,  Ltd. ",dncwf820jl0q221bh9,China,Meridian  Fasteners  Ltd. ,GB212776106,United Kingdom,finishing,,
+932,portal_v1,Alpine  Coatings  SARL ,102439281045618,Morocco,westport yarns sas,FR75221771329,FR,raw_material,,Société certifiée ISO 9001
+933,legacy_manual_import,Golden  Tooling  Sp.  z  o.o. ,,Poland,global alloys sarl,FR02653954607,FR,packaging,07-02-2024,Fournisseur validé lors de l'audit 2022
+934,portal_v1,copperfield metals a.ş.,9918536797,TR,Westport  Manufacturing  S.p.A. ,,Italy,components,,
+935,portal_v1,Cornerstone Alloys B.V.,,Holland,ROYAL MACHINERY INC.,22-7342425,United States,materia prima,2025-04-19,
+936,legacy_manual_import,Northgate Circuits Ltd,GB715429489,UK,Iberian Platsics S.L.,ES85181933E,ES,Raw Material,05-17-2023,
+937,portal_v2,vantage circuits s.p.a.,IT53333151593,Italy,Lakeside Foundry Sp. z o.o.,PL0346729503,PL,component,09/09/2025,Confirmación pendiente por parte del proveedor
+938,portal_v2,"Priem Electronics Co., Ltd.",VE8QMU72MHTLP9NJ96,CN,Alpine  Fibers  GmbH ,DE662610051,DE,Raw Material,08/08/2025,
+939,portal_v2,Global Electronics S.A.,ES50165258A,Spain,ANATOLIAN METALS SARL,FR62182564559,France,finishing,12/02/2025,
+940,portal_v2,SUMMIT MATERIALS INC.,91-9170792,USA,Rhine  Machinery  SARL ,FR62626828874,FR,raw_material,26/06/2023,
+941,portal_v2,Silvreline Chemicals SAS,FR67254489366,FR,Riverside Metals Inc.,96-4638761,United States,packaging,03/01/2024,Fornecedor homologado em 2023
+942,legacy_manual_import,Oakridge Fasteners Lda,PT175750309,Portugal,Horizon  Solutions  Lda. ,PT196215509,PT,components,,Pending re-confirmation
+943,portal_v2,continental fasteners sarl,524296237088409,MA,"Copperfield Alloys Co., Ltd.",LQHUJWRG88MSHM9299,CN,RAW_MATERIAL,15/09/2023,Confirmación pendiente por parte del proveedor
+944,portal_v1,Baltic Foundry B.V.,NL127387209B07,Holland,"VANTAGE CHEMICALS CO., LTD.",84 8MM2UGJMKQ90BK6N,CN,dyeing,2024-07-02,Confirmación pendiente por parte del proveedor
+945,legacy_manual_import,EASTFIELD COMPONENTS SARL,FR58653776073,FR,atlantic textiles pvt. ltd.,54METII2553A1Z5,IN,components,04-04-2023,
+946,portal_v2,Northgate Circuits Ltd,,UK,"Stonebridge Machinery Co., Ltd.",5P1Y30A5PDSXVR247B,CN,raw material,07/11/2022,
+947,portal_v2,VANTAGE ALLOYS S.R.L.,IT12170074530,Italia,GLOBAL YARNS A.Ş.,9960677129,Türkiye,logistics,15/09/2024,Fornecedor homologado em 2023
+948,portal_v2,Danube  Plastics  Ltd. ,GB286174002,United Kingdom,IBERIAN FIBERS SARL,FR39013758056,FR,component,11/01/2024,
+949,portal_v2,Meridian Yarns Sp. z o.o.,PL8435722373,Polska,millbrook alloys ag,DE251791722,Germany,dyeing,07/01/2024,
+950,portal_v1,PRIME PACKAGING SARL,FR39133626704,FR,Sunrise Components Pvt. Ltd.,60OBGEY5507A1Z5,IN,logistics,2024-01-09,
+951,portal_v2,Vantage Alloys S.r.l.,IT12170074530,Italia,global yarns a.ş.,9960677129,Türkiye,raw_material,,"Data provided via phone, not verified"
+952,portal_v2,crestwood metals sarl,976694569801375,Morocco,horizon manufacturing ag,DE431-839337,Germany,logistics,25/04/2024,Pending re-confirmation
+953,portal_v1,United Chmeicals Ltd.,,GB,ANATOLIAN MACHINERY A.Ş.,15490387,Türkiye,raw_material,2025-04-12,
+954,legacy_manual_import,Highland Machinery tLd.,GB485329247,United Kingdom,HORIZON SOLUTIONS INC.,94-3330230,USA,components,07-17-2025,
+955,portal_v1,iberian materials ag,DE817466807,DE,"APEX COMPONENTS CO., LTD.",WCF8F792RN2BJZLJUT,CN,finishing,2023-08-19,
+956,legacy_manual_import,premier coatings a.ş.,4752892539,Turkey,Andean Machinery A.Ş.,3690557991,Türkiye,packaging,12-03-2022,Fournisseur validÃ© lors de l'audit 2022
+957,portal_v1,Copperfield  Group  S.L. ,ES02793116B,ES,"Nordic Steel Co., Ltd.",8GD5XVJXREAEQ92CHW,China,raw_material,2022-07-27,Contact information outdated
+958,portal_v2,Southbay  Logistics  S.r.l. ,IT40684690723,Italia,Westport Manufacturing B.V.,NL521295413B38,Netherlands,component,20/04/2023,Fornecedor homologado em 2023
+959,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,VN,Iberian Dyeworsk Inc.,38-49-72853,United States,components,03/08/2023,Şirket 2021'de denetlendi
+960,legacy_manual_import,Southbay  Electronics  SARL ,346652635766034,Maroc,Westport Electronics SARL,394225258329500,MA,Raw Material,01-11-2025,"Data provided via phone, not verified"
+961,legacy_manual_import,REDSTONE CHEMICALS LDA.,PT253396557,Portugal,VANTAGE INDUSTRIES GMBH,DE784402277,Deutschland,RAW_MATERIAL,04-19-2024,Pending re-confirmation
+962,legacy_manual_import,Nordic  Materials  GmbH ,DE502141043,Deutschland,"ATLANTIC STEEL CO., LTD.",6809149499,VN,raw_material,10-20-2024,
+963,legacy_manual_import,Sunrise Leather SARL,FR17861973435,FR,IRONGATE STEEL AG,DE851882729,DE,Raw Material,09-13-2022,Société certifiée ISO 9001
+964,portal_v2,danube plastics ltd.,GB286174002,GB,Baltic  Manufacturing  SARL ,,Morocco,logistics,20/04/2024,"Data provided via phone, not verified"
+965,portal_v2,Apex  Industries  A.Ş. ,6656315572,Turkey,Andean Components .BV.,NL029205177B36,NL,materia prima,16/05/2023,Pending re-confirmation
+966,portal_v2,Crestwood Caotings Lda.,PT869464903,Portugal,Southbay  Leather  B.V. ,NL638797541B81,Netherlands,components,15/01/2025,Şirket 2021'de denetlendi
+967,portal_v1,Copperfield Group S.L.,ES02793116B,España,Bluewater  Steel  S.p.A. ,,Italy,component,2025-06-17,
+968,legacy_manual_import,Oakridge  Packaging  SAS ,FR69577944501,FR,Meridian Yarns Sp. z o.o.,PL8435722373,Poland,Raw Material,08-26-2025,Contact information outdated
+969,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,India,Anatolian Ceramics S.L.,ES74672173A,ES,raw_material,19/12/2022,
+970,portal_v2,VANTAGE CIRCUITS S.P.A.,IT53333151593,Italy,Summit Foundry Sp. z o.o.,,PL,finishing,14/10/2023,
+971,portal_v2,highland steel sp. z o.o.,PL7859126165,Polska,Golden Steel SARL,2089444331070,Maroc,raw material,08/05/2023,
+972,legacy_manual_import,Alpine Weaving SL,ES88454746C,España,"pacific machinery co., ltd.",4Z7XKKST8VZHE9JLQ5,China,packaging,07-03-2025,"Data provided via phone, not verified"
+973,portal_v1,Iberian  Tooling  S.r.l. ,,Italy,ContinentalG roup SARL,575538294401555,Morocco,raw material,2023-11-01,Fornecedor homologado em 2023
+974,legacy_manual_import,GLOBAL YARNS A.Ş.,9960677129,Türkiye,"Royal Tooling Co., Ltd.",7037207554,Vietnam,materia prima,06-24-2022,
+975,portal_v2,Anatolian Metals SARL,FR62182564559,FR,Global Metasl Inc.,07-8555313,US,packaging,14/02/2022,
+976,portal_v2,Andean Letaher Pvt. Ltd.,,IN,SUMMIT LEATHER B.V.,NL516371548B32,Holland,materia prima,06/03/2023,Şirket 2021'de denetlendi
+977,portal_v2,Highland Steel Sp z oo,PL7859126165,Polska,Iberian  Leather  Pvt.  Ltd. ,,IN,subcontracted_labor,31/08/2025,Fornecedor homologado em 2023
+978,portal_v1,Alpine  Weaving  S.L. ,ES88454746C,Espagne,Baltic  Fibers  Ltd. ,,UK,raw_material,2022-10-28,Confirmación pendiente por parte del proveedor
+979,portal_v2,Highland Weaving AŞ,8152837670,Turkey,Horizon Packagnig S.A.,ES71747066G,Spain,component,30/11/2024,
+980,legacy_manual_import,andean leather pvt. ltd.,02HCGCH6332A1Z5,India,Vantage Textiles SA,ES30633873E,Spain,Raw Material,01-26-2022,
+981,portal_v2,Continental  Fasteners  SARL ,524296237088409,Maroc,"global plastics co., ltd.",7PQ2DJE7EWKPVSC0BR,CN,subcontracted_labor,13/01/2024,Backup supplier - low volume
+982,portal_v2,NORTHGATE TEXTILES S.A.,ES60227680G,Spain,,,CN,subcontracted_labor,06/07/2025,
+983,portal_v1,pacific dyeworks b.v.,NL382948470B92,NL,LAKESIDE INDUSTRIES LDA.,PT868765643,PT,component,,Société certifiée ISO 9001
+984,legacy_manual_import,Baltic  Trading  Ltd. ,GB261367723,GB,Millbrook Machinery Lda,PT905520705,Portugal,packaging,12-26-2023,
+985,legacy_manual_import,SUMMIT LEATHER B.V.,,NL,Vantage Circuits SpA,IT53333151593,Italy,dyeing,05-23-2023,Confirmación pendiente por parte del proveedor
+986,portal_v2,Premier Coatings AŞ,,Turkey,HIGHLAND WEAVING A.Ş.,,Türkiye,packaging,21/10/2022,
+987,portal_v2,Alpine  Weaving  S.L. ,ES88454746C,España,"Pacific Machinery Co.,L td.",4Z7XKKST8VZHE9JLQ5,CN,logistics,07/04/2024,Contrato renovado según acuerdo marco
+988,portal_v2,Horizon yDeworks A.Ş.,5797626609,Türkiye,andean components lda.,PT761747749,PT,finishing,07/07/2024,
+989,legacy_manual_import,"Meridian  Foundry  Co.,  Ltd. ",6936664761,Vietnam,Oakridge Platsics Pvt. Ltd.,94HXCVS3375A1Z5,India,RAW_MATERIAL,,Société certifiée ISO 9001
+990,legacy_manual_import,SUMMIT TRADING SARL,FR44034462491,France,Cpoperfield Steel Lda.,PT 830235629,PT,logistics,,
+991,legacy_manual_import,Horizon Metals Sp. z o.o.,PL4768445880,PL,Continental  Weaving  S.p.A. ,IT21371287442,IT,materia prima,03-10-2024,Backup supplier - low volume
+992,legacy_manual_import,Nordic  Fibers  SAS ,FR32114540305,France,southbay electronics sarl,346652635766034,Maroc,packaging,01-25-2024,Fornecedor homologado em 2023
+993,portal_v1,"Andean  Leather  Co.,  Ltd. ",DNCWF820JL0Q221BH9,CN,Rhine Packaging Lda,,Portugal,packaging,2022-11-11,
+994,portal_v2,Continental Fasteners SARL,524296237088409,Morocco,"Highland Tooling Co, Ltd",G9GDNTQUXZJWLN2EV6,CN,packaging,,
+995,legacy_manual_import,"MERIDIAN FOUNDRY CO., LTD.",36664761,Vietnam,Highland Steel Sp z oo,PL7859126165,PL,components,05-23-2024,
+996,portal_v2,Premier Dyeworks A.Ş.,6954004320,Turkey,Crestwodo Chemicals S.p.A.,IT41098499897,Italia,raw material,24/08/2025,
+997,portal_v1,CORNERSTONE FASTENERS S.A.,ES20546820H,ES,Stonebridge Fasteners Lda,PT485627467,Portugal,raw_material,2022-11-02,
+998,legacy_manual_import,horizon alloys sarl,381866192115924,Morocco,oakridge textiles b.v.,NL886154196B97,NL,packaging,11-08-2024,
+999,portal_v2,Westport Trading A.Ş.,9238434939,Turkey,PREMIER COATINGS SARL,,Maroc,finishing,02/02/2024,Duplicate of prior quarter submission
+1000,portal_v1,"United Assemblies Co. ,Ltd.",6926242393,Vietnam,Global Circuits GbmH,DE720227574,Germany,packaging,2023-10-11,Société certifiée ISO 9001
+1001,portal_v2,UNKNOWN,,Poland,LAKESIDE ELECTRONICS SARL,FR82775299571,France,subcontracted_labor,22/05/2023,Duplicate of prior quarter submission
+1002,portal_v2,Pacific Machniery Lda.,PT721441525,PT,Summit  Metals  GmbH ,DE492238773,Deutschland,raw material,15/07/2024,Fornecedor homologado em 2023
+1003,portal_v2,nordic fibers sas,FR32114540305,FR,"Westport  Leather  Co.,  Ltd. ",,China,RAW_MATERIAL,05/09/2025,
+1004,portal_v2,Oakridge  Packaging  SAS ,FR69577944501,France,meridian yarns sp. z o.o.,PL8435722373,Polska,component,17/08/2025,Fournisseur validé lors de l'audit 2022
+1005,portal_v1,Meridian Fasteners Ltd.,GB212776106,GB,NORDIC FIBERS SAS,FR32114540305,France,logistics,2024-01-09,Contact information outdated
+1006,portal_v1,Oakridge  Packaging  SAS ,FR69577944501,France,Meridian Yarns Sp z oo,PL8435722373,PL,finishing,2022-01-22,
+1007,legacy_manual_import,EastfieldA lloys GmbH,DE413376973,Deutschland,"westport industries co., ltd.",,Vietnam,finishing,02-24-2025,
+1008,legacy_manual_import,silverline chemicals sas,FR67254489366,France,oakridge group sp. z o.o.,,Poland,raw_material,01-07-2024,Backup supplier - low volume
+1009,portal_v2,Southbay  Leather  B.V. ,NL63879-7541B81,Holland,"irongate ceramics co., ltd.",2309407591,VN,logistics,03/06/2022,Contrato renovado según acuerdo marco
+1010,portal_v2,Summit Materials Inc.,91-9170792,United States,Rhine  Machinery  SARL ,,France,component,18/07/2025,Contact information outdated
+1011,portal_v1,Anatolian  Machinery  A.Ş. ,3715490387,Turkey,Bluewater Dyeworks SAS,FR60253625246,FR,logistics,2024-07-06,"Data provided via phone, not verified"
+1012,portal_v1,Andean Leather Pvt Ltd,02HCGCH6332A1Z5,India,Andean Assemblies .Sp.A.,IT3882-6320735,Italy,packaging,2022-07-24,Société certifiée ISO 9001
+1013,portal_v2,anatolian metals sarl,FR62182564559,FR,Horzion Solutions Sp. z o.o.,PL4837332964,Poland,subcontracted_labor,07/05/2022,
+1014,legacy_manual_import,SUMMIT LEATHER B.V.,NL516371548B32,Netherlands,vantage circuits s.p.a.,,Italy,subcontracted_labor,01-29-2023,segÃºn acuerdo
+1015,portal_v2,Bluewater Manufacturing Srl,IT10862914220,Italy,"Northgate Polymers Co. ,Ltd.",0TNTW3356HT9DCDKZ7,China,component,25/12/2022,Backup supplier - low volume
+1016,portal_v1,Meridian  Fasteners  Ltd. ,GB 212776106,United Kingdom,Meridian  Assemblies  Sp.  z  o.o. ,PL3793702943,PL,Raw Material,2025-05-15,Backup supplier - low volume
+1017,portal_v2,baltic foundry b.v.,NL127387209B07,NL,"Vantage ChemicalsC o., Ltd.",848MM2UGJMKQ90BK6N,CN,logistics,28/05/2023,Duplicate of prior quarter submission
+1018,legacy_manual_import,Rhine Tooilng AG,DE535425961,Germany,Alpine  Coatings  SARL ,,Morocco,logistics,08-05-2023,
+1019,legacy_manual_import,"Meridian  Foundry  Co.,  Ltd. ",6936664761,VN,"Redstone  Plastics  Co.,  Ltd. ",,Vietnam,RAW_MATERIAL,11-27-2024,
+1020,portal_v2,Northgate  Machinery  Ltd. ,GB144982519,UK,Oakridge  Assemblies  Inc. ,65-4137672,United States,component,29/06/2023,Şirket 2021'de denetlendi
+1021,portal_v2,NorthGate Textiles SA,ES60227680G,España,rhine tooling ag,DE535425961,Germany,Raw Material,19/07/2023,Société certifiée ISO 9001
+1022,portal_v2,Bluewater Manufacturing Srl,IT10862914220,Italy,Pacific  Weaving  S.L. ,ES36664405A,ES,raw material,12/01/2024,Duplicate of prior quarter submission
+1023,portal_v2,"HIGHLAND TOOLING CO., LTD.",G9GDNTQUXZJWLN2EV6,China,SILVERLINE LEATHER S.L.,,ES,dyeing,03/07/2024,Fournisseur validé lors de l'audit 2022
+1024,portal_v1,�,5797626609,Türkiye,Andean Components Lda.,PT761-747749,PT,Raw Material,2024-03-10,
+1025,legacy_manual_import,Summit  Tooling  S.L. ,ES17820269F,España,DanubeP lastics S.A.,ES 39891810F,España,Raw Material,05-26-2024,
+1026,portal_v2,IBERIAN MATERIALS AG,,Deutschland,"Millbrook Circiuts Co., Ltd.",G2WQHWTPM4R5ZZT4EZ,China,raw_material,14/01/2023,
+1027,portal_v2,Alpine Plastics AŞ,0683495249,Türkiye,Copperfield Dyeworks Pvt Ltd,56IJOUL3230A1Z5,IN,component,15/06/2024,
+1028,portal_v1,PREMIER COATINGS A.Ş.,4752892539,Türkiye,Highland Weaving A.Ş.,8152837670,Türkiye,dyeing,2025-08-28,
+1029,portal_v1,NotrhGate Textiles S.A.,ES60227680G,Spain,"ANDEAN LEATHER CO., LTD.",DNCWF820JL0Q221BH9,China,dyeing,2024-04-26,
+1030,portal_v2,Highland Plastics SpA,IT24406348066,Italy,REDSTONE CHEMICALS LDA.,,PT,raw_material,30/01/2022,
+1031,portal_v2,CORNERSTONE FASTENERS S.A.,ES20546820H,Espagne,Stonebridge  Fasteners  Lda. ,PT485-627467,PT,component,31/05/2025,
+1032,portal_v2,VANTAGE ALLOYS S.R.L.,IT12170074530,Italy,Global Yarns A.Ş.,9960677129,Türkiye,dyeing,12/01/2023,
+1033,portal_v2,United Leather Sp z oo,,PL,Premier  Materials  Sp.  z  o.o. ,PL 5659235740,Poland,raw_material,18/09/2023,
+1034,legacy_manual_import,HORIZON DYEWORKS A.Ş.,5797626609,TR,"Stonebridge Alloys Co, Ltd",1043205340,VN,materia prima,07-04-2023,
+1035,portal_v2,"Meirdian Foundry Co., Ltd.",6936664761,VN,"Summit Machinery Co., Ltd.",02555543,Vietnam,materia prima,10/06/2023,Contact information outdated
+1036,portal_v2,Anatolian Yarns Sp z oo,PL0677017673,Polska,alpine chemicals sarl,663846623328168,MA,RAW_MATERIAL,14/01/2023,Société certifiée ISO 9001
+1037,portal_v1,NorthGate  Textiles  S.A. ,ES60227680G,España,ATLANTIC LOGISTICS S.R.L.,IT04077145284,IT,dyeing,2022-03-27,
+1038,legacy_manual_import,HORIZON SOLUTIONS SP. Z O.O.,pl4837332964,PL,Vantage  Chemicals  SAS ,FR60661010435,France,Raw Material,10-30-2024,
+1039,portal_v2,Rhine Tooling AG,DE535425961,DE,Silvreline Chemicals SAS,FR67254489366,France,logistics,10/04/2022,
+1040,portal_v2,prime packaging sarl,FR39133626704,FR,SUNRISE COMPONENTS PVT. LTD.,60OBGEY5507A1Z5,India,materia prima,25/04/2022,
+1041,portal_v2,Oakridge Plastics Pvt Ltd,,IN,Irongate Electronics Inc,17-8899452,US,logistics,15/09/2023,
+1042,portal_v2,andean plastics s.r.l.,IT09674857331,Italia,Copperfield  Weaving  Pvt.  Ltd. ,45 UXLVQ3410A1Z5,India,dyeing,18/05/2023,Société certifiée ISO 9001
+1043,portal_v2,"Andean Leather Co, Ltd",DNCWF820JL0Q221BH9,CN,Horizon Steel Lda.,PT702711595,PT,Raw Material,26/06/2025,Contrato renovado según acuerdo marco
+1044,portal_v2,irongate alloys a.ş.,,Turkey,Royal Coatings S.L.,ES73413748E,Spain,RAW_MATERIAL,14/03/2025,
+1045,portal_v2,Irognate Alloys A.Ş.,,Turkey,SILVERLINE POLYMERS SP. Z O.O.,PL7353-254094,Polska,logistics,10/05/2025,Backup supplier - low volume
+1046,portal_v2,Alpine Coaitngs SARL,102439281045618,Morocco,Prime Industries B.V.,NL669375536B21,NL,subcontracted_labor,25/10/2024,Şirket 2021'de denetlendi
+1047,portal_v2,HIGHLAND PLASTICS S.P.A.,IT2440634806,Italy,"united assemblies co., ltd.",,Vietnam,finishing,18/10/2024,
+1048,portal_v2,Andean  Leather  Pvt.  Ltd. ,02HCGCH6332A1Z5,IN,SUMMIT LEATHER B.V.,NL516371548B32,Holland,raw_material,,Contact information outdated
+1049,portal_v2,Pacific Metals Inc,11 -7347262,USA,Meridian  Industries  SAS ,FR10596861958,France,Raw Material,11/03/2024,Confirmación pendiente por parte del proveedor
+1050,legacy_manual_import,PREMIER DYEWORKS A.Ş.,,Türkiye,RHINE FOUNDRY LTD.,GB430959230,UK,packaging,06-27-2024,Contrato renovado segÃºn acuerdo marco
+1051,portal_v2,Southbay Logistics S.r.l.,IT40684690723,Italia,"Golden  Packaging  Co.,  Ltd. ",YMG5T5QGXJM11UYNRE,China,components,09/03/2024,Contact information outdated
+1052,portal_v1,Anatolian Yarns Sp. z o.o.,PL0677017673,Polska,ALPINE CHEMICALS SARL,663846623328168,Maroc,dyeing,2025-06-20,
+1053,portal_v2,Atlantic Trading B.V.,NL274449316B37,Holland,westport packaging ltd.,GB604944530,United Kingdom,Raw Material,29/10/2022,Şirket 2021'de denetlendi
+1054,portal_v2,NorthGate Textiles S.A.,ES60227680G,Espagne,andean leather pvt. ltd.,02HCGCH6332A1Z5,India,logistics,29/08/2025,
+1055,portal_v1,Summit  Tooling  S.L. ,ES17820269F,Spain,TBD,,Espagne,Raw Material,2022-05-04,
+1056,legacy_manual_import,"Andean Leather C.o, Ltd.",DNCWF820JL0Q221BH9,CN,RHINE PACKAGING LDA.,PT928840726,PT,logistics,05-28-2024,Contact information outdated
+1057,portal_v1,Andean Assemblies S.p.A.,IT38826320735,Italy,BALTIC METALS SARL,341339581700446,Maroc,component,2025-01-28,
+1058,portal_v2,Oakridge  Fasteners  Lda. ,PT175750309,PT,Alpine Tradin gSARL,274958225941535,Morocco,RAW_MATERIAL,,
+1059,portal_v2,Global  Ceramics  Sp.  z  o.o. ,PL5131340444,Poland,Danube Steel AŞ,,Turkey,component,31/01/2022,
+1060,legacy_manual_import,VANTAGE ALLOYS S.R.L.,IT12170074530,Italy,Global  Yarns  A.Ş. ,990677129,Türkiye,RAW_MATERIAL,03-24-2025,
+1061,portal_v2,Pacific Machinery Lda.,,Portugal,CORNERSTONE FOUNDRY S.R.L.,,IT,components,02/01/2024,
+1062,portal_v2,iberian tooling s.r.l.,IT66369023642,Italia,continental group sarl,575538294401555,MA,component,26/05/2023,
+1063,portal_v2,Meridian Fasteners Ltd.,,United Kingdom,Northgate Steel A.Ş.,6256180218,Turkey,component,01/09/2024,
+1064,legacy_manual_import,Northgate Circuist Ltd.,GB715429489,UK,"Oakrideg Polymers Co., Ltd.",QATCNZKTQP0GYSSKQK,CN,packaging,,Confirmación pendiente por parte del proveedor
+1065,portal_v2,Global Electronics SA,ES50165258A,ES,Silverline Componetns SAS,FR42403927449,France,raw material,21/10/2024,
+1066,legacy_manual_import,Copperfield Dyeworks Pvt. Ltd.,56ijoul3230a1z5,IN,Alpine  Materials  Ltd. ,GB409940422,GB,Raw Material,05-01-2023,Confirmación pendiente por parte del proveedor
+1067,portal_v2,Andean Plastics Srl,,IT,copperfield weaving pvt. ltd.,45UXLVQ3410A1Z5,IN,packaging,03/01/2022,
+1068,portal_v2,Highland Plastics S.p.A.,IT 24406348066,Italy,Redstone Chemicals Lda,PT253396557,PT,finishing,25/02/2025,"Data provided via phone, not verified"
+1069,portal_v2,Pacific Metals Inc,11-7347262,US,Millbrook Component sA.Ş.,,Türkiye,subcontracted_labor,14/10/2023,
+1070,portal_v2,PACIFIC METALS INC.,11-347262,US,Meridian  Industries  SAS ,FR1059-6861958,France,raw_material,12/08/2023,Fournisseur validé lors de l'audit 2022
+1071,portal_v2,Cpoperfield Metals A.Ş.,9918536797,Türkiye,Anatolian Materials A.Ş.,2337786746,Türkiye,components,18/07/2024,Backup supplier - low volume
+1072,portal_v2,summit tooling s.l.,17820269F,ES,Irongate  Circuits  B.V. ,NL410656411B65,Netherlands,finishing,07/03/2023,
+1073,portal_v2,Anatloian Yarns Sp. z o.o.,PL0677017673,Polska,Alpine  Chemicals  SARL ,663846623328168,Morocco,dyeing,06/10/2023,Contact information outdated
+1074,portal_v1,Vantage Allosy SARL,193008687593586,Morocco,"Iberian  Assemblies  Co.,  Ltd. ",K54AWTVW783SWDM5XV,CN,dyeing,2023-11-13,
+1075,portal_v1,oakridge logistics a.ş.,7963609841,TR,Prime  Packaging  SARL ,FR39133626704,FR,Raw Material,2025-08-31,
+1076,portal_v1,Sunrise Leather SARL,F17861973435,FR,Irongate  Steel  AG ,DE851882729,Deutschland,materia prima,,
+1077,portal_v2,Oakridge Fasteners Lda.,PT175750309,PT,Premier Coatings .AŞ.,,TR,packaging,02/09/2024,
+1078,portal_v2,Rhine  Tooling  AG ,DE535425961,DE,silverline chemicals sas,FR67254489366,France,logistics,27/03/2024,
+1079,portal_v2,ANATOLIAN METALS SARL,FR62182564559,FR,Global Metasl Inc.,07-8555313,United States,materia prima,27/01/2025,
+1080,legacy_manual_import,Andean  Assemblies  S.p.A. ,IT38826320735,IT,pacific machinery lda.,PT721441525,PT,component,11-24-2023,
+1081,portal_v1,Southbay Eelctronics S.A.,ES78333840D,Spain,Apex Coatings Lda,PT541466438,Portugal,subcontracted_labor,2023-08-09,
+1082,portal_v1,Vantage Alloys SARL,,MA,silverline materials sas,FR18769608269,FR,dyeing,2025-01-23,
+1083,portal_v2,"Highland Tooling Co., Ltd.",G9GDNTQUXZJWLN2EV6,China,Golden Chemicals SAS,FR27698351396,FR,logistics,08/03/2023,
+1084,legacy_manual_import,Rhine Tooling AG,DE535425961,DE,highland machinery sarl,172575982337100,MA,raw material,09-28-2022,Contact information outdated
+1085,portal_v1,Coppefrield Group S.L.,ES02793116B,Spain,bluewater steel s.p.a.,IT04283502536,Italia,materia prima,2025-03-05,
+1086,portal_v1,Baltic  Foundry  B.V. ,NL127387209B07,Netherlands,southbay electronics s.a.,ES78333840D,Espagne,components,2024-09-30,
+1087,portal_v2,Prime PolymersS .L.,ES49180374G,España,horizon components pvt. ltd.,,IN,subcontracted_labor,,
+1088,portal_v2,Global  Electronics  S.A. ,ES50165258A,Spain,silverline components sas,FR42403927449,France,component,02/12/2024,Confirmación pendiente por parte del proveedor
+1089,portal_v2,Alpine  Plastics  A.Ş. ,0683495249,Türkiye,copperfield dyeworks pvt. ltd.,,IN,logistics,23/09/2023,Backup supplier - low volume
+1090,portal_v2,Rhine Packaging Lda,PT928840726,PT,Summit  Materials  Inc. ,91-9170792,United States,materia prima,04/01/2024,Şirket 2021'de denetlendi
+1091,portal_v2,"ANDEAN LEATHER CO., LTD.",DNCWF820JL0Q221BH9,China,Lakeisde Materials Inc.,,US,raw_material,18/12/2022,
+1092,portal_v2,Premier  Dyeworks  A.Ş. ,6954004320,TR,crestwood chemicals s.p.a.,IT41098499897,IT,dyeing,27/04/2022,Pending re-confirmation
+1093,portal_v1,OAKRIDGE LOGISTICS A.Ş.,7963609841,Turkey,PrimeP ackaging SARL,FR39133626704,France,raw material,2024-02-17,
+1094,legacy_manual_import,Rhine Tooling AG,DE535425961,DE,Pacific Coatings Ltd,GB202514640,GB,RAW_MATERIAL,06-03-2023,Backup supplier - low volume
+1095,portal_v2,Continental Fastenesr SARL,524296237088409,Maroc,United Machinery Ltd.,GB286459114,GB,subcontracted_labor,28/08/2024,Şirket 2021'de denetlendi
+1096,portal_v1,GlobalE lectronics S.A.,ES50165258A,ES,ANATOLIAN METALS SARL,FR62182564559,FR,logistics,2025-04-25,
+1097,portal_v2,Bluewater Manufacturing S.r.l.,IT10862914220,Italia,"northgate polymers co., ltd.",0TNTW3356HT9DCDKZ7,CN,dyeing,27/01/2023,
+1098,portal_v1,Summit Tooilng S.L.,,Spain,Danube Plastics S.A.,,España,finishing,2025-08-02,Société certifiée ISO 9001
+1099,portal_v2,Horizon  Manufacturing  AG ,DE431839337,Germany,United Foundry Lda.,PT323269615,PT,RAW_MATERIAL,22/03/2022,Pending re-confirmation
+1100,portal_v2,"Meridian Foundry Co, Ltd",6936664761,VN,Highland Steel Sp. z o.o.,PL7859126165,PL,components,23/04/2022,
+1101,portal_v2,northgate textiles s.a.,ES60227680G,Spain,-,535425961,Germany,materia prima,19/06/2025,Contrato renovado según acuerdo marco
+1102,portal_v2,GLOBAL ELECTRONICS S.A.,,Spain,anatolian metals sarl,FR62182564559,FR,finishing,09/10/2024,
+1103,portal_v2,nordic materials gmbh,DE502141043,Deutschland,"Royal  Trading  Co.,  Ltd. ",7398432518,Vietnam,raw_material,05/12/2023,Société certifiée ISO 9001
+1104,portal_v2,ALPINE MATERIALS LTD.,GB409940422,UK,"Prime Electronics Co, Ltd",VE8QMU72MHTLP9NJ96,China,dyeing,18/09/2024,
+1105,portal_v1,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,global circuits gmbh,DE720227574,Germany,component,2022-02-03,
+1106,portal_v1,Westport Electronics SARL,394225258329500,MA,PACIFIC DYEWORKS B.V.,NL382948470B92,Holland,packaging,2024-10-12,Contact information outdated
+1107,portal_v2,Meridian  Fasteners  Ltd. ,GB212776106,GB,Meridian Assebmlies Sp. z o.o.,PL3793702943,PL,raw_material,31/03/2024,Fornecedor homologado em 2023
+1108,portal_v2,summit trading sarl,FR44034462491,FR,Copperfield Steel Lda,PT830235629,PT,RAW_MATERIAL,,Backup supplier - low volume
+1109,portal_v2,Global Alloys SARL,FR02653954607,FR,Baltic Trading Ltd.,GB261367723,UK,packaging,16/07/2022,Duplicate of prior quarter submission
+1110,portal_v2,Silvreline Chemicals SAS,FR67254489366,FR,"Lakeside Packaging oC., Ltd.",6606551693,Vietnam,packaging,,Backup supplier - low volume
+1111,portal_v2,Rhine  Packaging  Lda. ,,PT,Summit Matreials Inc.,-9170792,US,components,17/06/2022,Şirket 2021'de denetlendi
+1112,portal_v2,VANTAGE ALLOYS SARL,193008687593586,MA,Irongate Industries S.r.l.,IT62370499022,Italia,Raw Material,07/04/2024,
+1113,portal_v2,ContinentalG roup SARL,575538294401555,Morocco,Oakirdge Packaging SAS,FR69577944501,France,subcontracted_labor,12/04/2024,segÃºn acuerdo
+1114,portal_v2,Golden  Tooling  Sp.  z  o.o. ,,Polska,Nordci Materials GmbH,DE502141043,Deutschland,subcontracted_labor,01/06/2024,
+1115,portal_v2,Andean Letaher Pvt. Ltd.,02HCGCH6332A1Z5,IN,summit leather b.v.,,NL,raw material,22/09/2024,
+1116,portal_v2,Andean Assemblies .Sp.A.,IT38826320735,IT,pacific machinery lda.,PT316553290,Portugal,subcontracted_labor,25/07/2025,
+1117,portal_v2,SOUTHBAY ELECTRONICS S.A.,,España,Bluewater Tooling Pvt Ltd,11OPZCC7788A1Z5,IN,packaging,30/11/2024,Confirmación pendiente por parte del proveedor
+1118,portal_v2,Global  Metals  Inc. ,07-8555313,USA,northgate ceramics sarl,,MA,dyeing,09/02/2024,
+1119,portal_v2,Horizon  Alloys  SARL ,381866192115924,Maroc,Lakeside Packgaing S.L.,ES61385815B,Spain,materia prima,20/04/2025,Backup supplier - low volume
+1120,portal_v1,Golden  Tooling  Sp.  z  o.o. ,PL2144229485,Poland,Lkaeside Electronics SARL,FR82775299571,France,logistics,2024-06-12,Şirket 2021'de denetlendi
+1121,legacy_manual_import,NorthGate Textiles S.A.,60227680G,Espagne,NORTHGATE MACHINERY LTD.,,GB,dyeing,12-02-2024,"Data provided via phone, not verified"
+1122,legacy_manual_import,PACIFIC METALS INC.,11-7347262,USA,"Premier Metals Co., Ltd.",NWJ0XPEEVPEXGSBTWU,China,logistics,,
+1123,portal_v1,Andean Letaher Pvt. Ltd.,,India,Baltic Chemicals B.V.,NL192147365B35,Holland,finishing,2024-05-08,Duplicate of prior quarter submission
+1124,portal_v1,COPPERFIELD METALS A.Ş.,9918536797,TR,Pacfiic Weaving SAS,FR78660368846,FR,component,2024-05-09,
+1125,portal_v2,Oakridge  Logistics  A.Ş. ,7963609841,Türkiye,Meridian  Weaving  Pvt.  Ltd. ,06VZKDB3713A1Z5,India,subcontracted_labor,10/01/2023,Duplicate of prior quarter submission
+1126,portal_v1,Northgate Machinery Ldt.,GB144982519,GB,Permier Dyeworks A.Ş.,6954004320,TR,raw_material,2024-09-25,Fornecedor homologado em 2023
+1127,portal_v2,Lakeside Indsutries Lda.,PT868765643,PT,bluewater trading inc.,93-9313119,USA,logistics,23/04/2024,
+1128,legacy_manual_import,Eastfield  Alloys  GmbH ,DE413376973,Deutschland,"Westpor tIndustries Co., Ltd.",3529838408,VN,packaging,03-06-2024,
+1129,portal_v2,Oakridge Logistics A.Ş.,7963609841,TR,Meridian Waeving Pvt. Ltd.,,IN,Raw Material,,
+1130,portal_v2,Southbay  Logistics  S.r.l. ,IT40684690723,Italy,"GOLDEN PACKAGING CO., LTD.",YMG5T5QGXJM11UYNRE,China,materia prima,19/02/2023,Contact information outdated
+1131,legacy_manual_import,Pacific Dyeworks B.V.,NL382948470B92,Holland,Lakeside  Industries  Lda. ,PT868765643,PT,dyeing,,
+1132,portal_v2,Vantage Alloys SARL,193008687593586,MA,Silverline Materials SAS,,FR,Raw Material,23/01/2022,Fornecedor homologado em 2023
+1133,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,India,Vantage  Textiles  S.A. ,30633873E,ES,components,06/06/2025,Backup supplier - low volume
+1134,portal_v2,"summit machinery co., ltd.",9402555543,Vietnam,highland fibers ltd.,GB289869081,GB,component,14/03/2022,
+1135,portal_v2,Oakridge Fasteners Lda.,PT175750309,Portugal,Horizon Solutions Lda.,,PT,subcontracted_labor,08/07/2025,
+1136,legacy_manual_import,Continental Textiles Pvt Ltd,29YKHST4465A1Z5,IN,global fasteners b.v.,,Holland,RAW_MATERIAL,08-24-2025,Backup supplier - low volume
+1137,portal_v2,Anatolian Machienry A.Ş.,3715490387,Türkiye,Bluewater Dyweorks SAS,FR60253625246,France,packaging,19/10/2022,
+1138,portal_v1,ANDEAN ASSEMBLIES S.P.A.,IT38826320735,Italy,Pacific Machinery Lda,,PT,finishing,2023-09-04,
+1139,portal_v2,Rhine Packaging Lda,PT928840726,PT,Summit  Materials  Inc. ,91-9170792,United States,materia prima,04/01/2024,Şirket 2021'de denetlendi
+1140,portal_v2,Cornerstone Alloys B.V.,NL683629854B33,Netherlands,united fasteners gmbh,DE265604717,Germany,packaging,05/04/2024,Fournisseur validé lors de l'audit 2022
+1141,portal_v2,Bluewater Dyeworks SAS,FR60253625246,France,Redstone  Manufacturing  GmbH ,,Deutschland,component,29/12/2022,
+1142,legacy_manual_import,Alpine Weaving SL,ES88454746C,Espagne,"Pacific Machinery Co.,L td.",,CN,finishing,12-11-2023,
+1143,portal_v2,ANDEAN PLASTICS S.R.L.,IT09674857331,IT,Copperfield Weaving Pvt Ltd,45UXLVQ3410A1Z5,IN,packaging,,Contact information outdated
+1144,portal_v2,Baltic Trading Ltd.,GB261367723,United Kingdom,Millbrook  Machinery  Lda. ,PT905520705,Portugal,Raw Material,17/09/2023,Société certifiée ISO 9001
+1145,legacy_manual_import,IRONGATE ALLOYS A.Ş.,6888337780,TR,"Andean tSeel Co., Ltd.",CL12TKN77WAW76RRRX,CN,packaging,09-18-2024,
+1146,portal_v2,EASTFIELD COMPONENTS SARL,FR58653776073,FR,Atlantic Textiles Pvt. Ltd.,54METII2553A1Z5,IN,components,,
+1147,portal_v2,WESTPORT ELECTRONICS SARL,394225258329500,MA,Sunrise Leahter SARL,FR17861973435,FR,logistics,28/04/2024,"Data provided via phone, not verified"
+1148,portal_v2,Rhine Tooling AG,DE535425961,Germany,baltic foundry b.v.,NL127387209B07,Holland,logistics,12/02/2022,Pending re-confirmation
+1149,portal_v2,summit leather b.v.,NL516371548B32,NL,Vantage Circuits SpA,IT53333151593,Italy,finishing,08/04/2022,
+1150,portal_v1,Horizon Dyeworks AŞ,5797626609,TR,"Stonebridge  Alloys  Co.,  Ltd. ",1043205340,Vietnam,logistics,2025-03-12,Confirmación pendiente por parte del proveedor
+1151,legacy_manual_import,"UNITED ASSEMBLIES CO., LTD.",26242393,Vietnam,Anatolian Polymesr SARL,413403018954648,Morocco,packaging,02-09-2023,Pending re-confirmation
+1152,legacy_manual_import,Pacific Machinery Lda,PT721441525,Portugal,CORNERSTONE FOUNDRY S.R.L.,,Italia,raw_material,11-04-2022,Fournisseur validé lors de l'audit 2022
+1153,portal_v1,Northgate Circuits Ltd.,GB715429489,GB,"Stonebridge  Machinery  Co.,  Ltd. ",5P1Y30A5PDSXVR247B,China,raw material,2024-06-04,
+1154,legacy_manual_import,Global  Alloys  SARL ,,France,Baltic Trading Ltd,GB261367723,UK,Raw Material,04-10-2025,Fornecedor homologado em 2023
+1155,portal_v2,Golden  Tooling  Sp.  z  o.o. ,PL2144229485,PL,NORDIC MATERIALS GMBH,DE502141043,Germany,materia prima,26/03/2024,
+1156,portal_v2,Danube  Tooling  S.r.l. ,IT40418653428,Italy,United Leather Sp z oo,PL0846433592,Polska,Raw Material,30/04/2022,
+1157,legacy_manual_import,Prime Packaging SARL,FR39133626704,FR,Sunrise Components Pvt .Ltd.,60OBGEY5507A1Z5,IN,raw_material,09-29-2025,Société certifiée ISO 9001
+1158,legacy_manual_import,Global Electronics S.A.,ES50165258A,Espagne,"REDSTONE PLASTICS CO., LTD.",2955705581,VN,logistics,,Şirket 2021'de denetlendi
+1159,portal_v1,Horizon Manufactuirng AG,DE431839337,DE,UNITED FOUNDRY LDA.,PT323269615,Portugal,packaging,2022-03-19,
+1160,portal_v1,Horizo nAlloys SARL,381866192115924,Morocco,NORTHGATE TRADING SARL,FR8176-7886857,FR,subcontracted_labor,2022-12-10,
+1161,portal_v2,Westport  Trading  A.Ş. ,92 38434939,TR,HORIZON MACHINERY S.P.A.,93706601345,IT,materia prima,19/06/2024,Fournisseur validé lors de l'audit 2022
+1162,portal_v2,COPPERFIELD METALS A.Ş.,9918536797,Türkiye,Westport Manufactuirng S.p.A.,IT14525569325,Italy,RAW_MATERIAL,27/08/2024,
+1163,portal_v1,highland plastics s.p.a.,IT24406348066,Italia,"united assemblies co., ltd.",6926242393,Vietnam,Raw Material,2025-04-18,
+1164,portal_v1,Northgate Machinery Ldt.,GB144982519,UK,Premier  Dyeworks  A.Ş. ,54004320,Türkiye,dyeing,2022-04-15,
+1165,portal_v2,Bluewater Manufacturing S.r.l.,IT10862914220,Italy,Pcaific Weaving S.L.,ES36664405A,España,Raw Material,04/10/2024,
+1166,legacy_manual_import,APEX INDUSTRIES A.Ş.,,Türkiye,Andean Components .BV.,NL029205177B36,Netherlands,raw_material,11-10-2023,"Data provided via phone, not verified"
+1167,portal_v2,CONTINENTAL FASTENERS SARL,524296237088409,Maroc,andean plastics s.r.l.,IT09674857331,Italy,raw_material,08/04/2024,Şirket 2021'de denetlendi
+1168,portal_v2,Westport Electronics SARL,394225258329500,Morocco,Copperfield  Fasteners  GmbH ,DE713595939,Deutschland,RAW_MATERIAL,25/02/2022,Société certifiée ISO 9001
+1169,portal_v2,highland components sas,FR34285656538,France,continental packaging s.p.a.,IT26573980619,Italy,subcontracted_labor,23/05/2023,Confirmación pendiente por parte del proveedor
+1170,portal_v2,crestwood metals sarl,976694569801375,Morocco,Horizon  Manufacturing  AG ,,Germany,subcontracted_labor,31/03/2022,"Data provided via phone, not verified"
+1171,portal_v2,NORDIC MATERIALS GMBH,DE502141043,Deutschland,Northgate Tradnig S.A.,ES71132831E,Espagne,dyeing,17/05/2025,Fournisseur validé lors de l'audit 2022
+1172,portal_v1,Alpine Plastics AŞ,0683495249,Türkiye,copperfield dyeworks pvt. ltd.,56IJOUL3230A1Z5,IN,RAW_MATERIAL,,
+1173,legacy_manual_import,Anatolina Metals SARL,FR62182564559,FR,Horizon  Solutions  Sp.  z  o.o. ,PL4837332964,PL,subcontracted_labor,,
+1174,portal_v1,Baltic Foundry BV,NL 127387209B07,Holland,Iberian  Materials  AG ,DE817466807,Deutschland,raw_material,2022-04-18,
+1175,portal_v1,Pacific Metals Inc.,11-7347262,US,"premier metals co., ltd.",NWJ0XPEEVPEXGSBTWU,CN,logistics,2023-10-27,
+1176,portal_v1,Northgate  Machinery  Ltd. ,GB144982519,GB,PREMIER DYEWORKS A.Ş.,6954004320,TR,Raw Material,2022-05-11,Société certifiée ISO 9001
+1177,portal_v2,Premier  Coatings  A.Ş. ,4752892539,Türkiye,Highland  Weaving  A.Ş. ,8152837670,Turkey,dyeing,06/02/2024,Confirmación pendiente por parte del proveedor
+1178,portal_v1,Crestwood Group Ltd,GB595122698,United Kingdom,redstone chemicals a.ş.,,Turkey,finishing,2023-02-12,Şirket 2021'de denetlendi
+1179,legacy_manual_import,ANDEAN LEATHER PVT. LTD.,02HCGCH6332A1Z5,IN,SUMMIT LEATHER B.V.,NL516371548B32,Netherlands,logistics,07-26-2024,
+1180,portal_v2,NorthGate Textiles S.A.,ES60227680G,Spain,highland plastics s.p.a.,IT24406348066,Italy,packaging,06/08/2023,Contact information outdated
+1181,portal_v2,Continental  Fasteners  SARL ,524296237088409,MA,"Global Plastics Co., Ltd.",7PQ2DJE7EWKPVSC0BR,China,component,23/03/2023,
+1182,portal_v1,Westport Trading A.Ş.,9238434939,TR,Premier Coatings SARL,329449379788765,Maroc,materia prima,2024-06-09,Fournisseur validé lors de l'audit 2022
+1183,portal_v1,Premier Coatings .AŞ.,4752892539,Turkey,Summit Tooilng S.L.,ES17820269F,ES,materia prima,2022-07-12,
+1184,legacy_manual_import,NorthGate  Textiles  S.A. ,,Espagne,Continental Fasteners SARL,524296237088409,Morocco,packaging,11-20-2023,Backup supplier - low volume
+1185,legacy_manual_import,"Andean Leather C.o, Ltd.",DNCWF820JL0Q221BH9,CN,RHINE PACKAGING LDA.,PT928840726,PT,logistics,05-28-2024,Contact information outdated
+1186,portal_v1,Northgate  Machinery  Ltd. ,GB144982519,UK,Northgate  Circuits  Ltd. ,GB715429489,GB,raw material,2022-09-22,
+1187,portal_v1,southbay electronics s.a.,ES78333840D,ES,###,,PT,subcontracted_labor,2022-03-24,
+1188,legacy_manual_import,redstone chemicals lda.,PT25339655,PT,Eastfield Grou pGmbH,DE632131355,Germany,materia prima,10-12-2022,Confirmación pendiente por parte del proveedor
+1189,legacy_manual_import,Alpine Plastics A.Ş.,0683495249,Türkiye,Copperfield Dyeworks Pvt. Ldt.,,IN,logistics,08-15-2023,Fornecedor homologado em 2023
+1190,portal_v2,RHINE TOOLING AG,DE535425961,Deutschland,Baltic Foundry BV,,Netherlands,components,18/09/2023,
+1191,portal_v2,Bluewater Dyeworks SAS,FR60253625246,France,redstone manufacturing gmbh,DE473445968,DE,logistics,28/03/2022,
+1192,portal_v2,Andean Assemblies SpA,,Italia,Pacific  Machinery  Lda. ,PT316553290,Portugal,RAW_MATERIAL,28/04/2022,
+1193,portal_v2,CONTINENTAL FASTENERS SARL,524296237088409,Morocco,"highland tooling co., ltd.",G9GDNTQUXZJWLN2EV6,CN,materia prima,,Şirket 2021'de denetlendi
+1194,portal_v2,Cornerstone Alloys B.V.,NL683629854B33,Holland,eastfield machinery s.p.a.,IT76445972558,IT,raw_material,18/11/2022,
+1195,portal_v2,Vantage Allosy SARL,193008687593586,MA,vantage assemblies sas,FR03191475196,France,materia prima,20/04/2025,Fornecedor homologado em 2023
+1196,portal_v2,Andean Assemblies SpA,IT38826320735,Italy,Baltic  Metals  SARL ,341339581700446,Maroc,Raw Material,23/05/2025,
+1197,legacy_manual_import,Cornerstone Alloys B.V.,NL683629854B33,Holland,Uinted Fasteners GmbH,DE265604717,Germany,raw material,01-28-2024,
+1198,portal_v2,Anatolian  Machinery  A.Ş. ,3715490387,TR,Bluewater Dyeworks SAS,FR60253625246,FR,raw_material,09/07/2023,segÃºn acuerdo
+1199,portal_v2,"ANDEAN LEATHER CO., LTD.",DNCWF820JL0Q221BH9,China,rhine packaging lda.,PT928840726,PT,raw_material,06/09/2023,
+1200,portal_v2,horizon solutions sp. z o.o.,PL4837332964,PL,Oakridge Group SARL,,France,dyeing,25/07/2023,
+1201,portal_v1,"ANDEAN LEATHER CO., LTD.",DNCWF820JL0Q221BH9,China,meridian fasteners ltd.,,UK,raw_material,2025-02-10,
+1202,portal_v2,Horizo nAlloys SARL,381866192115924,Morocco,lakeside packaging s.l.,ES61385815B,Spain,packaging,23/01/2023,
+1203,portal_v2,"highland tooling co., ltd.",G9GDNTQUXZJWLN2EV6,CN,SILVERLINE LEATHER S.L.,ES95639376A,Spain,raw material,14/12/2022,
+1204,portal_v2,NorthGate Textiles S.A.,ES60227680G,Espagne,Godlen Tooling Sp. z o.o.,PL2144229485,Polska,packaging,13/09/2024,Contrato renovado según acuerdo marco
+1205,portal_v1,Vantage  Circuits  S.p.A. ,IT53333151593,Italia,Summit Foundry S.p z o.o.,PL3439241666,Poland,RAW_MATERIAL,2022-03-08,Société certifiée ISO 9001
+1206,portal_v2,Nordic  Fibers  SAS ,FR 32114540305,France,VANTAGE TOOLING LDA.,PT 501617122,PT,dyeing,06/09/2024,Fournisseur validé lors de l'audit 2022
+1207,portal_v2,PACIFIC DYEWORKS B.V.,,Holland,Lakeside Industries Lda,,PT,packaging,14/01/2025,
+1208,portal_v2,Redstone Chemicals Lda.,PT253396557,PT,Horizon  Alloys  SARL ,381866192115924,Morocco,logistics,23/11/2023,
+1209,portal_v1,oakridge fasteners lda.,PT175750309,PT,Westport Trading A.Ş.,,Türkiye,raw material,2023-07-23,
+1210,portal_v1,NORTHGATE TEXTILES S.A.,ES60227680G,Espagne,Northgate Machinery Ltd,GB144982519,UK,raw material,2025-01-15,Société certifiée ISO 9001
+1211,portal_v2,NorthGate  Textiles  S.A. ,ES60227680G,España,Westoprt Electronics SARL,394225258329500,Maroc,raw material,30/06/2025,
+1212,portal_v2,SILVERLINE CHEMICALS SAS,FR67254489366,FR,riverside metals inc.,96-4638761,US,materia prima,04/11/2024,Fornecedor homologado em 2023
+1213,portal_v1,Rhine Tooilng AG,DE535425961,DE,pacific coatings ltd.,GB202514640,UK,component,2024-05-15,"Data provided via phone, not verified"
+1214,portal_v2,Northgate Circuits Ltd,GB715429489,United Kingdom,Iberian Platsics S.L.,,España,Raw Material,20/08/2024,
+1215,portal_v2,NORTHGATE TEXTILES S.A.,ES60227680G,Spain,oakridge fasteners lda.,PT175-750309,PT,RAW_MATERIAL,07/03/2025,"Data provided via phone, not verified"
+1216,portal_v2,southbay electronics s.a.,ES78333840D,España,Bluewater Toolnig Pvt. Ltd.,11OPZCC7788A1Z5,India,raw_material,02/03/2024,Contrato renovado según acuerdo marco
+1217,portal_v1,Summit Tooling SL,ES17820269F,España,danube plastics s.a.,ES39891810F,ES,raw material,2023-11-23,Confirmación pendiente por parte del proveedor
+1218,portal_v1,alpine weaving s.l.,ES88454746C,Espagne,Aepx Industries A.Ş.,66563-15572,Turkey,raw material,2022-06-19,Confirmación pendiente por parte del proveedor
+1219,legacy_manual_import,COPPERFIELD GROUP S.L.,ES02793116B,ES,Sunrise Foundry BV,NL757190566B03,NL,raw material,07-12-2023,Fornecedor homologado em 2023
+1220,portal_v2,Baltic  Foundry  B.V. ,NL127387209B07,NL,iberian materials ag,DE817466807,Deutschland,component,01/03/2022,
+1221,portal_v2,silverline chemicals sas,,France,Riverside Metals Inc,96-4638761,US,components,02/03/2022,
+1222,portal_v2,ALPINE COATINGS SARL,102439281045618,Maroc,-,06JURYD6700A1Z5,IN,Raw Material,12/06/2023,
+1223,portal_v1,NordicF ibers SAS,FR32114540305,France,"Westport  Leather  Co.,  Ltd. ",6M9BNZNYHPA3BGKNER,CN,raw_material,2022-08-11,
+1224,portal_v2,"UNITED ASSEMBLIES CO., LTD.",6926242393,Vietnam,Anatolian  Polymers  SARL ,413403018954648,MA,raw material,04/01/2024,Fournisseur validé lors de l'audit 2022
+1225,portal_v2,Iberian  Materials  AG ,DE817466807,Germany,"Apex  Components  Co.,  Ltd. ",wcf8f792rn2bjzljut,China,raw material,12/02/2024,
+1226,portal_v2,Royal Machinery Inc.,22-7342425,US,Rhine Assemblies Inc,24-7759986,United States,logistics,23/01/2025,Backup supplier - low volume
+1227,portal_v2,Horizon  Alloys  SARL ,381866192115924,Morocco,Oakridge Textile sB.V.,,Netherlands,materia prima,08/07/2025,
+1228,portal_v2,Highland Machinery Ltd.,GB485329247,UK,Horizon Solutions Inc.,94-3330230,USA,logistics,16/06/2025,
+1229,portal_v2,CRESTWOOD GROUP LTD.,,GB,millbrook tooling sarl,671609145861330,Morocco,finishing,05/05/2022,
+1230,portal_v2,Anatolian Yarns Sp. z o.o.,PL0677017673,Polska,sunrise weaving a.ş.,,Türkiye,materia prima,06/01/2022,Contrato renovado según acuerdo marco
+1231,portal_v2,Continental Fasteners SARL,524296237088409,Maroc,"global plastics co., ltd.",,CN,Raw Material,01/08/2025,Fornecedor homologado em 2023
+1232,portal_v2,IRONGATE LOGISTICS B.V.,NL511393683B38,NL,"Continental  Tooling  Co.,  Ltd. ",EJ377BC7RJZUZ0NFWL,China,Raw Material,16/08/2023,Société certifiée ISO 9001
+1233,portal_v2,Meridian  Assemblies  Sp.  z  o.o. ,PL3793702943,Poland,Alpine Assemblies AŞ..,,TR,RAW_MATERIAL,13/05/2023,
+1234,portal_v2,bluewater dyeworks sas,FR60253625246,FR,Redstone Manufacturing GbmH,DE 473445968,DE,raw material,29/08/2024,
+1235,portal_v2,HIGHLAND MACHINERY LTD.,,United Kingdom,Danube Plastics Ltd,,GB,component,07/03/2023,
+1236,portal_v2,Southbay Logistics Srl,,IT,Westport  Manufacturing  B.V. ,NL521295413B38,Holland,finishing,10/07/2024,Backup supplier - low volume
+1237,portal_v2,Sunrise  Leather  SARL ,FR17861973435,FR,Irognate Steel AG,DE851882729,DE,component,27/12/2022,
+1238,portal_v1,Global Alloys ASRL,fr02653954607,FR,Continental  Textiles  Pvt.  Ltd. ,29YKHST4465A1Z5,India,materia prima,2024-02-27,Şirket 2021'de denetlendi
+1239,portal_v2,Baltic Foundry BV,,Netherlands,Atlantic  Trading  B.V. ,NL274449316B37,Netherlands,raw material,03/08/2022,Backup supplier - low volume
+1240,portal_v2,Oakridge Logistics AŞ,7963609841,Turkey,meridian weaving pvt. ltd.,0VZKDB3713A1Z5,India,logistics,19/02/2023,
+1241,portal_v2,NORTHGATE MACHINERY LTD.,GB144982519,United Kingdom,Oakridge Assemblies Inc,,US,materia prima,14/09/2025,
+1242,legacy_manual_import,Atlanti cLogistics S.r.l.,IT04077145284,Italia,N/A,IT4064690723,Italy,subcontracted_labor,10-06-2024,Contact information outdated
+1243,portal_v2,Pacific  Metals  Inc. ,11-7347262,US,Millbrook Component sA.Ş.,8678162734,Türkiye,components,,Fournisseur validé lors de l'audit 2022
+1244,portal_v2,Highland  Components  SAS ,FR34285656538,FR,NORTHGATE ASSEMBLIES INC.,55-3358029,United States,packaging,29/02/2024,
+1245,portal_v2,SILVERLINE LEATHER S.L.,es95639376a,Spain,Northgate Polymers S.r.l.,,Italy,raw material,23/10/2022,Société certifiée ISO 9001
+1246,legacy_manual_import,NotrhGate Textiles S.A.,ES60227680G,Spain,Hihgland Plastics S.p.A.,IT24406348066,Italia,materia prima,08-12-2023,
+1247,legacy_manual_import,iberian machinery ltd.,GB910116526,UK,DANUBE COMPONENTS SP. Z O.O.,8781446242,Poland,component,07-28-2023,
+1248,portal_v2,Cornerstone Alloys BV,NL683629854B33,NL,United Fasteners GmbH,DE265604717,Deutschland,logistics,22/10/2023,Fournisseur validé lors de l'audit 2022
+1249,legacy_manual_import,Westoprt Electronics SARL,394225258329500,Maroc,SUNRISE LEATHER SARL,FR17861973435,FR,logistics,09-15-2025,Confirmación pendiente por parte del proveedor
+1250,legacy_manual_import,atlantic logistics s.r.l.,IT04077145284,Italia,southbay yarns a.ş.,0992964398,Turkey,components,07-03-2024,
+1251,portal_v2,ROYAL COATINGS S.L.,ES73413748E,Spain,Alpine Yarns SA,ES38927331G,ES,components,17/07/2025,
+1252,portal_v2,"Andean Leather Co., Ltd.",DNCWF820JL0Q221BH9,China,Lakeside Materials Inc.,70-5466589,US,raw material,24/02/2022,
+1253,portal_v1,Atlantic Trading BV,,NL,Northgate Solutions A.Ş.,0832460819,Turkey,materia prima,2023-03-19,Confirmación pendiente por parte del proveedor
+1254,portal_v2,Oakridge Plastics Pvt Ltd,,IN,irongate electronics inc.,17-8899452,United States,finishing,16/08/2022,Confirmación pendiente por parte del proveedor
+1255,portal_v2,Rhine Packaging Lda.,,PT,Irongate  Logistics  B.V. ,NL511393683B38,Holland,subcontracted_labor,20/02/2025,
+1256,legacy_manual_import,Silverline  Chemicals  SAS ,FR67254489366,France,"Lakeside Packaging Co., Ltd.",6606551693,Vietnam,RAW_MATERIAL,08-22-2024,
+1257,portal_v1,Oakridge Fasteners Lda.,PT175750309,Portugal,alpine trading sarl,274958225941535,MA,raw material,2025-09-28,Confirmación pendiente por parte del proveedor
+1258,portal_v2,Redstone  Chemicals  Lda. ,PT253396557,PT,vantage industries gmbh,DE784402277,Deutschland,raw material,30/08/2024,
+1259,portal_v1,Meridian Fasteners Ltd.,,GB,EASTFIELD COMPONENTS SARL,,FR,subcontracted_labor,2024-07-15,
+1260,portal_v2,premier coatings a.ş.,47528-92539,Turkey,SUMMIT TOOLING S.L.,ES17820269F,Espagne,finishing,24/03/2025,Backup supplier - low volume
+1261,portal_v2,Atlantic Trading BV,NL274449316B37,NL,Northgate  Solutions  A.Ş. ,08324-60819,Turkey,components,23/02/2025,
+1262,portal_v1,Copperfield  Group  S.L. ,ES02793116B,ES,"Nordic Steel Co., Ltd.",8GD5XVJXREAEQ92CHW,China,raw_material,2022-07-27,Contact information outdated
+1263,portal_v2,Summit Metals Lda,PT182309739,PT,Ibreian Electronics SARL,706239917751423,MA,materia prima,15/03/2025,
+1264,portal_v2,westport trading a.ş.,9238434939,Türkiye,Premier Coatings SARL,329449379788765,MA,component,17/11/2024,
+1265,legacy_manual_import,"Summit Machinery Co., Ltd.",9402555543,Vietnam,RIVERSIDE FASTENERS S.L.,ES59379346C,Espagne,Raw Material,03-05-2024,Duplicate of prior quarter submission
+1266,portal_v1,Anatolian  Yarns  Sp.  z  o.o. ,PL0677017673,Poland,Sunrise  Weaving  A.Ş. ,90 75459796,Turkey,subcontracted_labor,2023-10-20,
+1267,portal_v1,Andean  Assemblies  S.p.A. ,,IT,pacific machinery lda.,PT721-441525,Portugal,dyeing,2022-09-11,
+1268,portal_v1,Andean Assemblies .Sp.A.,IT38826320735,IT,Summit  Trading  SARL ,FR44034462491,FR,component,2024-06-17,Contrato renovado según acuerdo marco
+1269,portal_v2,Cpoperfield Metals A.Ş.,,Türkiye,Anatolain Materials A.Ş.,2337786746,Turkey,materia prima,17/09/2025,
+1270,portal_v2,NorthGate  Textiles  S.A. ,ES60227680G,Espagne,Vantage Allosy SARL,193008687593586,Maroc,finishing,01/02/2024,Société certifiée ISO 9001
+1271,portal_v2,Copperfield Dyeworks Pvt. Ltd.,56IJOUL3230A1Z5,India,Alpine Materials Ltd.,,UK,finishing,,
+1272,portal_v1,cornerstone alloys b.v.,NL683629854B33,NL,eastfield machinery s.p.a.,IT76445972558,Italia,logistics,2023-11-27,
+1273,portal_v1,Coppefrield Group S.L.,ES02793116B,Spain,bluewater steel s.p.a.,IT04283502536,Italia,materia prima,2025-03-05,
+1274,portal_v2,Eastfield Components SARL,FR58653776073,FR,Atlantic  Textiles  Pvt.  Ltd. ,,India,Raw Material,08/05/2023,Contact information outdated
+1275,portal_v1,summit trading sarl,FR44034462491,FR,Sunrise  Circuits  SAS ,FR90916808819,France,raw_material,2022-03-16,
+1276,portal_v2,andean leather pvt. ltd.,02HCGCH6332A1Z5,IN,anatolian ceramics s.l.,ES74672173A,Espagne,raw_material,17/03/2022,
+1277,portal_v2,Iberian  Tooling  S.r.l. ,IT66369023642,IT,continental group sarl,575538294401555,Maroc,RAW_MATERIAL,20/02/2025,Şirket 2021'de denetlendi
+1278,portal_v2,Pacific  Machinery  Lda. ,PT721441525,PT,continental electronics s.r.l.,IT75114459232,Italia,finishing,04/12/2023,
+1279,portal_v2,Iberian Tooling Srl,IT66369023642,Italy,CONTINENTAL GROUP SARL,575538294401555,MA,subcontracted_labor,30/03/2023,
+1280,portal_v2,NorthGate  Textiles  S.A. ,ES60227680G,Espagne,Godlen Tooling Sp. z o.o.,PL2144229485,Polska,logistics,18/08/2023,
+1281,portal_v2,BALTIC FOUNDRY B.V.,NL127387209B07,Netherlands,"Vantage Chemicals Co., Ltd.",848MM2UGJMKQ90BK6N,China,raw material,09/12/2022,Fornecedor homologado em 2023
+1282,portal_v2,Meirdian Fasteners Ltd.,GB212776106,GB,Northgate  Steel  A.Ş. ,,Türkiye,packaging,20/10/2022,
+1283,legacy_manual_import,Bluewater  Dyeworks  SAS ,FR 60253625246,FR,Redstone  Manufacturing  GmbH ,DE473445968,Germany,RAW_MATERIAL,08-31-2023,
+1284,portal_v2,silverline chemicals sas,FR67254489366,FR,prime polymers s.l.,,Spain,subcontracted_labor,08/04/2024,
+1285,portal_v1,CONTINENTAL GROUP SARL,575538294401555,MA,OAKRIDGE PACKAGING SAS,FR69577944501,FR,logistics,2023-11-09,Société certifiée ISO 9001
+1286,legacy_manual_import,Summit Materials Inc.,91-9170792,USA,RHINE MACHINERY SARL,FR62626828874,France,finishing,06-10-2024,segÃºn acuerdo
+1287,portal_v2,Atlantic  Logistics  S.r.l. ,IT04077145284,Italia,Alpine  Weaving  S.L. ,,ES,subcontracted_labor,09/03/2025,
+1288,portal_v2,Atlantic Trading B.V.,NL274449316B37,Netherlands,northgate solutions a.ş.,0832460819,Türkiye,raw_material,15/04/2024,
+1289,portal_v2,Premier Coatings AŞ,4752892539,TR,highland weaving a.ş.,8152837670,TR,subcontracted_labor,21/10/2024,
+1290,portal_v1,Northgate Circuits Ltd.,G715429489,United Kingdom,bluewater industries a.ş.,9455686824,Türkiye,component,2023-12-13,Contact information outdated
+1291,portal_v2,cornerstone alloys b.v.,NL683629854B33,Netherlands,Royal  Machinery  Inc. ,22-7342425,United States,component,26/06/2023,Backup supplier - low volume
+1292,legacy_manual_import,northgate machinery ltd.,GB144982519,UK,NORTHGATE CIRCUITS LTD.,,United Kingdom,component,02-24-2025,
+1293,portal_v2,anatolian yarns sp. z o.o.,PL0677017673,PL,Alpine Chemicals SARL,66384662332816,Maroc,raw_material,21/12/2023,Fournisseur validé lors de l'audit 2022
+1294,legacy_manual_import,"Andean Leather Co., Ltd.",DNCWF820JL0Q221BH9,China,RHINE PACKAGING LDA.,PT928840726,Portugal,raw material,09-11-2025,
+1295,legacy_manual_import,vantage circuits s.p.a.,,IT,Lakeside Foundry Sp z oo,PL0346729503,PL,dyeing,01-14-2025,
+1296,portal_v1,Highland Machinery Ltd.,gb485329247,United Kingdom,Danube Plastics Ltd.,GB286174002,GB,raw_material,2022-08-29,
+1297,portal_v1,Vantage Circuits SpA,,Italy,summit foundry sp. z o.o.,PL3439241666,Polska,packaging,2023-06-13,
+1298,portal_v2,Cornerstone Fasteners SA,ES2054820H,Espagne,Royal  Leather  S.p.A. ,,Italy,RAW_MATERIAL,02/07/2022,
+1299,portal_v1,highland plastics s.p.a.,it24406348066,IT,Redstone  Chemicals  Lda. ,PT25339655,PT,raw_material,2024-03-08,
+1300,portal_v2,Cornerstone Alloys BV,NL683629854B33,Holland,Royal  Machinery  Inc. ,22-7342425,US,Raw Material,03/11/2024,
+1301,portal_v2,NorthGate Textiles SA,ES60227680G,Espagne,WESTPORT ELECTRONICS SARL,394225258329500,Maroc,component,19/08/2022,
+1302,portal_v2,baltic foundry b.v.,,NL,Iberian  Materials  AG ,DE817466807,DE,dyeing,13/06/2022,
+1303,portal_v2,Royal Coatings SL,ES7313748E,Spain,Alpine Yrans S.A.,ES38927331G,Spain,raw material,24/06/2022,Backup supplier - low volume
+1304,portal_v1,"ANDEAN LEATHER CO., LTD.",DNCWF820JL0Q221BH9,China,LAKESIDE MATERIALS INC.,70-5466589,USA,component,2023-11-05,Contrato renovado según acuerdo marco
+1305,portal_v2,NorthGate  Textiles  S.A. ,ES60227680G,Spain,GlobalE lectronics S.A.,es50165258a,ES,component,21/09/2024,
+1306,portal_v2,HORIZON ALLOYS SARL,381866192115924,Maroc,OAKRIDGE TEXTILES B.V.,NL886154196B97,NL,logistics,07/09/2024,Contact information outdated
+1307,portal_v2,Pacific Metals Inc.,11-7347262,USA,MILLBROOK COMPONENTS A.Ş.,8678162734,Turkey,raw material,05/08/2024,Backup supplier - low volume
+1308,portal_v2,"Highland oToling Co., Ltd.",G9GDNTQUXZJWLN2EV6,CN,golden chemicals sas,FR27698351396,FR,Raw Material,03/01/2025,
+1309,portal_v1,vantage alloys sarl,193008687593586,Morocco,premier solutions lda.,PT712236852,Portugal,RAW_MATERIAL,2022-11-12,Şirket 2021'de denetlendi
+1310,portal_v2,Atlantic Logistics Srl,,IT,Southbay Yarns A.Ş.,,TR,logistics,12/05/2025,"Data provided via phone, not verified"
+1311,portal_v2,Nordic Materials GmbH,DE502141043,DE,horizon metals sp. z o.o.,PL4768445880,Poland,logistics,14/05/2022,
+1312,portal_v2,VANTAGE ALLOYS SARL,193008687593586,Maroc,"Iberian Assemblies Co., Ltd.",K54AWTVW783SWDM5XV,CN,raw material,12/06/2024,Confirmación pendiente por parte del proveedor
+1313,portal_v2,Cornerstone Alloys B.V.,NL683629854B33,NL,united fasteners gmbh,DE265604717,DE,packaging,16/03/2022,Backup supplier - low volume
+1314,portal_v1,pacific machinery lda.,PT721441525,Portugal,Summit  Metals  GmbH ,DE492238773,Germany,logistics,2024-08-02,
+1315,portal_v2,irongate alloys a.ş.,6888337780,Türkiye,"ANDEAN STEEL CO., LTD.",CL12TKN77WAW76RRRX,CN,components,09/03/2022,
+1316,legacy_manual_import,NorthGate  Textiles  S.A. ,,Espagne,Continental Fasteners SARL,524296237088409,Morocco,packaging,11-20-2023,Backup supplier - low volume
+1317,portal_v2,"summit machinery co., ltd.",9402555543,VN,Riversdie Fasteners S.L.,ES59379346C,Spain,dyeing,08/01/2024,
+1318,portal_v2,Rhine  Packaging  Lda. ,PT928840726,PT,Summit Matreials Inc.,91-9170792,USA,packaging,05/12/2023,
+1319,portal_v2,Highland  Machinery  Ltd. ,GB485329247,UK,HORIZON SOLUTIONS INC.,4-3330230,United States,raw_material,11/11/2022,Fornecedor homologado em 2023
+1320,portal_v2,Continental  Fasteners  SARL ,524296237088409,MA,United Machinery tLd.,GB286459114,GB,raw material,24/03/2022,Pending re-confirmation
+1321,portal_v2,MERIDIAN FASTENERS LTD.,,UK,Anatolian Yarns Sp. z o.o.,,Polska,RAW_MATERIAL,22/08/2024,Contrato renovado según acuerdo marco
+1322,portal_v2,prime polymers s.l.,49180374G,Spain,"Meridian  Yarns  Co.,  Ltd. ",2407709660,Vietnam,packaging,06/08/2024,Fournisseur validé lors de l'audit 2022
+1323,legacy_manual_import,Highland Machinery tLd.,GB485329247,United Kingdom,HORIZON SOLUTIONS INC.,94-3330230,USA,components,07-17-2025,
+1324,portal_v2,Northgate  Machinery  Ltd. ,GB144982519,GB,OAKRIDGE ASSEMBLIES INC.,65-4137672,United States,dyeing,26/04/2024,Contrato renovado según acuerdo marco
+1325,portal_v2,Vantage  Alloys  SARL ,193008687593586,Maroc,Silverline  Materials  SAS ,,FR,raw material,,"Data provided via phone, not verified"
+1326,portal_v2,Westport Electronics SARL,394225258329500,MA,copperfield fasteners gmbh,DE713595939,DE,subcontracted_labor,11/02/2022,Backup supplier - low volume
+1327,legacy_manual_import,Pacific  Machinery  Lda. ,721441525,PT,Continental Electronics S.r.l.,IT75114459232,Italia,RAW_MATERIAL,06-08-2025,
+1328,portal_v2,Continental  Fasteners  SARL ,52 4296237088409,Morocco,"Highland oToling Co., Ltd.",G9GDNTQUXZJWLN2EV6,China,packaging,23/07/2023,
+1329,portal_v2,Northgate  Circuits  Ltd. ,GB715429489,United Kingdom,"Stonebridge Machinery Co, Ltd",,CN,logistics,17/02/2025,Société certifiée ISO 9001
+1330,portal_v2,Northgate Circuist Ltd.,GB715429489,United Kingdom,"OAKRIDGE POLYMERS CO., LTD.",QATCNZKTQP0GYSSKQK,China,finishing,21/02/2023,Backup supplier - low volume
+1331,portal_v2,nordic materials gmbh,DE50141043,Germany,"Royal Trading Co, Ltd",7398432518,Vietnam,raw_material,,
+1332,portal_v2,Westport  Electronics  SARL ,394225258329500,Morocco,Highland Machinery Ltd.,GB485329247,UK,dyeing,05/06/2023,
+1333,legacy_manual_import,GLOBAL CERAMICS SP. Z O.O.,pl5131340444,Polska,Danube Steel A.Ş.,9576837507,TR,packaging,03-06-2025,
+1334,portal_v2,Summit Leather B.V.,NL516371548B32,NL,Vantaeg Circuits S.p.A.,IT53333151593,Italy,logistics,20/11/2023,
+1335,portal_v1,Irognate Alloys A.Ş.,,TR,Crestwood  Group  Ltd. ,GB595122698,GB,component,2025-05-28,Pending re-confirmation
+1336,legacy_manual_import,Northgate Circuist Ltd.,GB715429489,UK,stonebridge yarns lda.,PT103953164,PT,logistics,11-05-2023,Şirket 2021'de denetlendi
+1337,legacy_manual_import,"Meridian Foundry Co, Ltd",6936664761,VN,"Summit Machinery Co., Ltd.",9402555543,VN,logistics,06-27-2022,Fournisseur validé lors de l'audit 2022
+1338,portal_v2,NorthGate Textiles SA,ES60227680G,ES,Andean Leather Pvt Ltd,02HCGCH6332A1Z5,India,materia prima,20/07/2023,Fornecedor homologado em 2023
+1339,portal_v2,Pacific  Machinery  Lda. ,,PT,SUMMIT METALS GMBH,,Germany,subcontracted_labor,13/11/2023,Backup supplier - low volume

@@ -1,0 +1,38 @@
+graph LR
+  E192["Global Fasteners B.V.\nE192\ntier 2"]
+  E520["Westport Manufactuirng S.p.A.\nE520\ntier 2"]
+  E191["Global Fasteners .BV.\nE191\ntier 2"]
+  E031["Anatolian Materials A.Ş.\nE031\ntier 2"]
+  E109["Contienntal Textiles Pvt. Ltd.\nE109\ntier 1"]
+  E193["global fasteners b.v.\nE193\ntier 2"]
+  E085["Baltic Tarding Ltd.\nE085\ntier 1"]
+  E298["Meridian Industries SAS\nE298\ntier 2"]
+  E369["Pacific Metals Inc.\nE369\ntier 1"]
+  E523["Westport Manufacturing S.p.A.\nE523\ntier 2"]
+  E297["Meridian Industrie sSAS\nE297\ntier 2"]
+  E379["Premier Metals Co, Ltd\nE379\ntier 2"]
+  E084["Baltic Trading Ltd.\nE084\ntier 1"]
+  E380["Premier Metals Co.,L td.\nE380\ntier 2"]
+  E306["Millbrook Components A.Ş.\nE306\ntier 2"]
+  E183["Global Alloys SARL\nE183\ntier 0"]
+  E360["Pacfiic Weaving SAS\nE360\ntier 2"]
+  E127["Copperfield Metals A.Ş.\nE127\ntier 1"]
+  E192 -->|finishing| E109
+  E520 -->|raw_material| E127
+  E191 -->|logistics| E109
+  E031 -->|raw_material,packaging| E127
+  E109 -->|finishing,packaging,components,raw_material,materia_prima| E183
+  E193 -->|raw_material| E109
+  E085 -->|dyeing| E183
+  E298 -->|components,logistics,raw_material| E369
+  E369 -->|raw_material,logistics,packaging,materia_prima| E183
+  E523 -->|components| E127
+  E297 -->|raw_material| E369
+  E379 -->|materia_prima,logistics| E369
+  E084 -->|packaging,components,raw_material| E183
+  E380 -->|raw_material| E369
+  E306 -->|component,subcontracted_labor,components,raw_material| E369
+  E360 -->|components,finishing,raw_material,component| E127
+  E127 -->|packaging,raw_material,logistics| E183
+  classDef root fill:#d4f4dd,stroke:#1b7f3a;
+  class E183 root;

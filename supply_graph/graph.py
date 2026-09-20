@@ -8,6 +8,25 @@ import networkx as nx
 import pandas as pd
 
 
+def _text(value) -> str | None:
+    """pandas NaN is truthy in Python (`bool(float('nan')) is True`), so never use bare `if value`."""
+    if value is None:
+        return None
+    try:
+        if pd.isna(value):
+            return None
+    except (TypeError, ValueError):
+        pass
+    text = str(value).strip()
+    if text.lower() in {"", "nan", "none", "nat", "null"}:
+        return None
+    return text
+
+
+def _unique_sorted(values: list) -> list[str]:
+    return sorted({v for v in (_text(x) for x in values) if v is not None})
+
+
 def _lookup_entity_id(mentions: pd.DataFrame, row_id, role: str) -> str | None:
     hit = mentions[(mentions["row_id"].astype(str) == str(row_id)) & (mentions["role"] == role)]
     if hit.empty:
@@ -44,16 +63,21 @@ def build_graph(
                 "notes": [],
             },
         )
-        rel = rec.get("relationship_type_norm")
+        rel = _text(rec.get("relationship_type_norm"))
         if rel and rel not in bucket["relationship_types"]:
             bucket["relationship_types"].append(rel)
-        bucket["source_rows"].append(str(rec.get("row_id")))
-        if rec.get("source_system"):
-            bucket["source_systems"].append(str(rec["source_system"]))
-        if rec.get("last_updated_iso"):
-            bucket["last_updated"].append(rec["last_updated_iso"])
-        if rec.get("notes") and str(rec.get("notes")) not in ("nan", ""):
-            bucket["notes"].append(str(rec["notes"]))
+        row_id = _text(rec.get("row_id"))
+        if row_id:
+            bucket["source_rows"].append(row_id)
+        system = _text(rec.get("source_system"))
+        if system:
+            bucket["source_systems"].append(system)
+        updated = _text(rec.get("last_updated_iso"))
+        if updated:
+            bucket["last_updated"].append(updated)
+        note = _text(rec.get("notes"))
+        if note:
+            bucket["notes"].append(note)
 
     for (src, tgt), data in buckets.items():
         G.add_edge(
@@ -61,8 +85,8 @@ def build_graph(
             tgt,
             relationship_types=data["relationship_types"],
             source_rows=data["source_rows"],
-            source_systems=sorted(set(data["source_systems"])),
-            last_updated=sorted(set(data["last_updated"])),
+            source_systems=_unique_sorted(data["source_systems"]),
+            last_updated=_unique_sorted(data["last_updated"]),
             notes=data["notes"],
             # Relationship confidence is not the same as entity-match confidence.
             # After resolution we treat the declared link as observed (1.0) and

@@ -85,7 +85,7 @@ def resolve(mentions: pd.DataFrame, scored_pairs: list[dict]) -> tuple[pd.DataFr
 
     cluster = {i: uf.find(i) for i in work["mention_idx"]}
     # Stable canonical ids: sort clusters by earliest mention then assign E001...
-    roots = sorted(set(cluster.values()), key=lambda r: (work.loc[r, "core_name"] or "", r))
+    roots = sorted(set(cluster.values()), key=lambda r: (_na(work.loc[r, "core_name"]) or "", r))
     root_to_eid = {root: f"E{str(n).zfill(3)}" for n, root in enumerate(roots, start=1)}
     work["entity_id"] = work["mention_idx"].map(lambda i: root_to_eid[cluster[i]])
 
