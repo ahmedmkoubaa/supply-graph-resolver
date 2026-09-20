@@ -64,6 +64,7 @@ COUNTRY_ALIASES = {
     "tr": "TR",
     "spain": "ES",
     "espana": "ES",
+    "espagne": "ES",
     "es": "ES",
 }
 
@@ -123,6 +124,15 @@ def normalize_tax_id(raw: str | None) -> str | None:
         return None
     # Strip spaces, dashes, dots, slashes — keep A-Z0-9 only.
     cleaned = re.sub(r"[^A-Za-z0-9]", "", text).upper()
+    # EU-style VAT values are exported both with and without their two-letter country prefix.
+    # The country is modeled separately, so remove a recognized prefix when the local part starts
+    # with a digit. Requiring a real ISO code avoids stripping arbitrary letters from local IDs.
+    if (
+        len(cleaned) > 4
+        and cleaned[2:3].isdigit()
+        and pycountry.countries.get(alpha_2=cleaned[:2]) is not None
+    ):
+        cleaned = cleaned[2:]
     return cleaned or None
 
 

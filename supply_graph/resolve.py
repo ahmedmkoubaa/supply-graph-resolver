@@ -81,6 +81,24 @@ def resolve(mentions: pd.DataFrame, scored_pairs: list[dict]) -> tuple[pd.DataFr
         for other in idxs[1:]:
             uf.union(root, other)
 
+    # Country is sometimes absent even when name and tax ID are complete. Bridge those country
+    # blocks only on exact core-name + tax-ID agreement, and never when populated countries
+    # conflict. This recovers records such as ES60227680G vs 60227680G without making the much
+    # riskier assumption that an exact company name alone is globally unique.
+    tax_name_groups: dict[tuple[str, str], list[int]] = defaultdict(list)
+    for rec in work.to_dict(orient="records"):
+        core_name = _na(rec.get("core_name"))
+        tax_id = _na(rec.get("tax_id"))
+        if core_name and tax_id:
+            tax_name_groups[(core_name, tax_id)].append(int(rec["mention_idx"]))
+    for idxs in tax_name_groups.values():
+        countries = {_na(work.loc[idx, "country"]) for idx in idxs}
+        populated_countries = countries - {None}
+        if len(populated_countries) <= 1:
+            root = idxs[0]
+            for other in idxs[1:]:
+                uf.union(root, other)
+
     cluster = {i: uf.find(i) for i in work["mention_idx"]}
     # Stable canonical ids: sort clusters by earliest mention then assign E001...
     roots = sorted(set(cluster.values()), key=lambda r: (_na(work.loc[r, "core_name"]) or "", r))

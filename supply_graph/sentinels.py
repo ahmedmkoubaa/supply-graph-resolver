@@ -36,7 +36,7 @@ SENTINELS = {
 
 def print_sentinels() -> None:
     print("=== sentinel normalization ===")
-    print("  Maroc ->", normalize_country("Maroc"), "| Türkiye ->", normalize_country("Türkiye"), "| VN ->", normalize_country("VN"))
+    print("  Maroc ->", normalize_country("Maroc"), "| Türkiye ->", normalize_country("Türkiye"), "| Espagne ->", normalize_country("Espagne"))
     print("  tax FR02653954607 ->", normalize_tax_id("FR02653954607"), "| 11-7347262 ->", normalize_tax_id("11-7347262"))
     print("  name GLOBAL ALLOYS SARL ->", normalize_name("GLOBAL ALLOYS SARL"))
     print("  name Pacific  Metals  Inc.  ->", normalize_name("Pacific  Metals  Inc. "))
