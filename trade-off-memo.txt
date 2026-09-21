@@ -1,0 +1,13 @@
+Trade-off memo — customs data as a Tier-N signal
+
+Tier-1 data is reliable because both sides confirm it — but it stops at the first hop, exactly where sustainability and concentration risk usually hides. Customs bill-of-lading data is the only signal that reaches past Tier 1 without anyone self-reporting, and the raw data itself is public and free.
+
+What it costs, three separate things:
+
+Coverage: only international ocean freight landing in the US. Suppliers reached by air, truck, rail, or sold domestically never appear — a structural blind spot, not something cleaning fixes.
+Noise: renames, intra-group shipments disguised as new supplier links, coincidental name collisions, freight-forwarder pass-throughs. The intra-group pattern isn't a fixed list to filter once — it's a heuristic we keep tuning.
+Confidence: nothing here is confirmed by either party, and uncertainty compounds with every hop. Beyond name/ID matching, shipment volume and recency are worth weighting too — exact weights are a Part 2 design question, not something to lock in here.
+
+Free-vs-paid is really build-vs-buy. The raw feed costs nothing, but resolving it into something safe to show a buyer costs ongoing engineering time, indefinitely, because the noise keeps evolving. A paid feed (Panjiva/ImportGenius-style vendors) buys someone else's entity resolution and likely broader multi-modal coverage — not just "cleaner data" — at the cost of tunability. I'd use the free source now to prove buyers actually want a Tier-N feature, then revisit a paid vendor specifically to close the coverage gap once that's proven — a vendor fixes coverage, not confidence.
+
+Since Tier-N can never be fully verified: ship from a small, manually-checked slice first, show confidence bands rather than yes/no, and keep recalibrating the score as feedback comes in — not a constant we set once.

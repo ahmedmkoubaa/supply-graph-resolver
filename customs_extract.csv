@@ -1,0 +1,42 @@
+bill_of_lading_id,shipment_date,shipper_name,shipper_country,consignee_name,consignee_country,product_description,weight_kg,vessel_name
+BOL100019,2026-02-05,Global Cargo Solutions LLC,US,Solstice Materials Co,US,packaging materials,6729,MV Cape Aurora
+BOL100021,2026-04-30,Rutile Mineral Exports Pty,AU,Aurora Pigments Ltd,US,titanium ore concentrate,43160,MV Southern Cross
+BOL100030,2026-01-05,RUTILE MINERAL HOLDINGS PTY,AU,Rutile Mineral Exports Pty,AU,titanium ore concentrate,3603,MV Southern Cross
+BOL100016,2026-07-28,Solstice Logistics Hub LLC,US,Solstice Materials Co,US,packaging materials,42035,MV Southern Cross
+BOL100027,2026-05-04,Quartz Extraction Co,US,Terra Silica Partners,US,raw quartz,26367,MV Southern Cross
+BOL100038,01/12/2025,Rockwell Freight Systems Inc,US,Vantage Industrial Group LLC,US,machine tools,15873,
+BOL100007,2026-06-24,Terra Silica Partners,US,Solstice Materials Co,US,silica sand,14531,
+BOL100002,2026-01-28,Aurora Pigments Ltd,US,Solstice Materials Co,US,titanium dioxide pigment,17549,MV Cape Aurora
+BOL100033,2025-12-27,Petrochem Feedstock Distribution LLC,US,  Petrochem Feedstock LLC ,US,bisphenol-A precursor,44454,
+BOL100029,2026-08-26,Flocculant Chemicals Pty,AU,Rutile Mineral Exports Pty,AU,ore-processing flocculant reagent,22752,MV Nordwind
+BOL100039,2025-11-19,Cobalt Traders NV,BE,Voltix Energy Storage Inc,US,battery-grade cobalt,34892,
+BOL100012,2025-10-27,Solstice Materials Europe GmbH,DE,Solstice Materials Co,US,alumina intermediate,26398,MV Nordwind
+BOL100024,2026-09-04,Petrochem Feedstock LLC,US,Boreal Resins Inc,US,bisphenol-A precursor,46296,MV Nordwind
+BOL100036,2026-01-14,Benzene Feedstock Refining Co,US,Phenol Basestock Corp,US,benzene feedstock,38289,MV Southern Cross
+BOL100003,2025-11-20,AURORA PIGMENTS LTD,US,Solstice Materials Co,US,titanium dioxide pigment,8217,MV Nordwind
+BOL100014,2025-10-02,Solstice Materials Iberia SA,ES,Solstice Materials Co,US,alumina intermediate,31608,MV Nordwind
+BOL100035,2025-11-22,Flocculant Chemicals Group Pty,AU,Flocculant Chemicals Pty,AU,ore-processing flocculant reagent,18859,MV Cape Aurora
+BOL100023,13/06/2026,Aurora Pigments Distribution GmbH,DE,Aurora Pigments Ltd,US,titanium dioxide pigment,45420,MV Southern Cross
+BOL100034,2026-03-31,Acrylamide Monomer Pty,AU,Flocculant Chemicals Pty,AU,acrylamide monomer,43629,
+BOL100026,2026-06-10,Boreal Resins Iberia SL,ES,Boreal Resins Inc,US,epoxy resin compound,17543,MV Cape Aurora
+BOL100025,2026-07-18,Petrochem Feedstock LLC,US,  Boreal Resins Inc ,US,bisphenol-A precursor,43113,MV Cape Aurora
+BOL100037,2026-07-06,Phenol Basestock Holdings Corp,US,Phenol Basestock Corp,US,phenol feedstock,29577,
+BOL100022,2025-12-02,Rutile Mineral Exports Pty,AU,Aurora Pigments Ltd,US,titanium ore concentrate,25760,MV Southern Cross
+BOL100001,2026-08-03,Aurora Pigments Ltd,US,Solstice Materials Co,US,titanium dioxide pigment,8796,MV Nordwind
+BOL100018,2025-10-03,Global Cargo Solutions LLC,US,Solstice Materials Co,US,packaging materials,44836,MV Cape Aurora
+BOL100009,2025-09-13,Nordkant Borates AB,SE,Solstice Materials Co,US,borate compound,,
+BOL100017,2026-07-02,Solstice Analytics Inc,US,Solstice Materials Co,US,laboratory testing reagents,14101,MV Nordwind
+BOL100015,2026-03-22,Solstice Logistics Hub LLC,US,Solstice Materials Co,US,packaging materials,6664,MV Southern Cross
+BOL100020,2025-10-31,Bergwerk Mining Alias GmbH,DE,Solstice Materials Co,US,alumina intermediate,26411,MV Southern Cross
+BOL100031,08/06/2026,Phenol Basestock Corp,US,Petrochem Feedstock LLC,US,phenol feedstock,19046,MV Nordwind
+BOL100013,2026-03-12,Solstice Materials Iberia SA,ES,Solstice Materials Co,US,alumina intermediate,24041,MV Southern Cross
+BOL100005,2025-09-25,Boreal Resins Inc,US,Solstice Materials Co,,epoxy resin compound,7640,MV Cape Aurora
+BOL100028,2026-08-03,Flocculant Chemicals Pty,AU,Rutile Mineral Exports Pty,AU,ore-processing flocculant reagent,46599,MV Cape Aurora
+BOL100011,2025-12-29,Solstice Materials Europe GmbH,DE,Solstice Materials Co,US,alumina intermediate,23559,MV Nordwind
+BOL100010,2026-03-03,Meridian Coatings LLC,US,Solstice Materials Co,US,industrial coating additive,19710,MV Cape Aurora
+BOL100008,2025-12-31,Nordkant Borates AB,SE,Solstice Materials Co,US,borate compound,30939,MV Southern Cross
+BOL100004,2026-07-09,Boreal Resins Inc,US,Solstice Materials Co,US,epoxy resin compound,29151,MV Nordwind
+BOL100006,2026-01-07,Terra Silica Partners,US,Solstice Materials Co,US,silica sand,34618,MV Nordwind
+BOL100032,2025-12-27,Phenol Basestock Corp,US,Petrochem Feedstock LLC,US,phenol feedstock,38670,MV Southern Cross
+BOL100021,2026-04-30,Rutile Mineral Exports Pty,AU,Aurora Pigments Ltd,US,titanium ore concentrate,43160,MV Southern Cross
+BOL100027,2026-05-04,Quartz Extraction Co,US,Terra Silica Partners,US,raw quartz,26367,MV Southern Cross

@@ -1,0 +1,14 @@
+Corporate Registry Notes (companion reference, cross-check against the customs extract)
+
+1. Solstice Materials Europe GmbH (DE) also trades under the name "Bergwerk Mining Alias GmbH"
+   following an internal group restructuring. Same legal entity, same corporate group as
+   Solstice Materials Co. Both names appear on shipping manifests in this period.
+
+2. Solstice Analytics Inc (US) has no group or ownership relationship to Solstice Materials Co.
+   The shared "Solstice" name is coincidental: it is an independent laboratory-testing vendor,
+   founded by former employees under an unrelated holding company.
+
+3. Entities whose shipped goods are generic packaging, freight, or logistics services (rather
+   than a named material or chemical input) are usually customs brokers or freight forwarders
+   passing goods through on behalf of the actual buyer or seller. Don't count them as material
+   Tier-N suppliers unless you have separate evidence they manufacture something.
