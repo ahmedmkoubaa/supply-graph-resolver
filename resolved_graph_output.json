@@ -1,0 +1,274 @@
+{
+  "pipeline_version": "V1.0-Prototype",
+  "timestamp": "2026-09-21T13:20:19.411472",
+  "anchor_entity": {
+    "id": "ECO-T1-001",
+    "name": "Solstice Materials Co"
+  },
+  "discovered_tiers": {
+    "Tier_1": [
+      {
+        "entity_id": "customs_inf_025",
+        "golden_name": "Terra Silica Partners",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "silica sand",
+        "edge_confidence": 0.814,
+        "path_confidence": 0.814,
+        "tier": 1
+      },
+      {
+        "entity_id": "customs_inf_003",
+        "golden_name": "Aurora Pigments Ltd",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "titanium dioxide pigment",
+        "edge_confidence": 0.779,
+        "path_confidence": 0.779,
+        "tier": 1
+      },
+      {
+        "entity_id": "customs_inf_012",
+        "golden_name": "Nordkant Borates Ab",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "borate compound",
+        "edge_confidence": 0.729,
+        "path_confidence": 0.729,
+        "tier": 1
+      },
+      {
+        "entity_id": "customs_inf_021",
+        "golden_name": "Solstice Analytics Inc",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "laboratory testing reagents",
+        "edge_confidence": 0.609,
+        "path_confidence": 0.609,
+        "tier": 1
+      },
+      {
+        "entity_id": "customs_inf_006",
+        "golden_name": "Boreal Resins Inc",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "epoxy resin compound",
+        "edge_confidence": 0.892,
+        "path_confidence": 0.892,
+        "tier": 1
+      },
+      {
+        "entity_id": "customs_inf_011",
+        "golden_name": "Meridian Coatings Llc",
+        "supplied_to": "Solstice Materials Co",
+        "product_description": "industrial coating additive",
+        "edge_confidence": 0.631,
+        "path_confidence": 0.631,
+        "tier": 1
+      }
+    ],
+    "Tier_2": [
+      {
+        "entity_id": "customs_inf_017",
+        "golden_name": "Quartz Extraction Co",
+        "supplied_to": "Terra Silica Partners",
+        "product_description": "raw quartz",
+        "edge_confidence": 0.66,
+        "path_confidence": 0.537,
+        "tier": 2
+      },
+      {
+        "entity_id": "customs_inf_019",
+        "golden_name": "Rutile Mineral Exports Pty",
+        "supplied_to": "Aurora Pigments Ltd",
+        "product_description": "titanium ore concentrate",
+        "edge_confidence": 0.627,
+        "path_confidence": 0.488,
+        "tier": 2
+      },
+      {
+        "entity_id": "customs_inf_014",
+        "golden_name": "Petrochem Feedstock Llc",
+        "supplied_to": "Boreal Resins Inc",
+        "product_description": "bisphenol-a precursor",
+        "edge_confidence": 0.758,
+        "path_confidence": 0.676,
+        "tier": 2
+      }
+    ],
+    "Tier_3": [
+      {
+        "entity_id": "customs_inf_009",
+        "golden_name": "Flocculant Chemicals Pty",
+        "supplied_to": "Rutile Mineral Exports Pty",
+        "product_description": "ore-processing flocculant reagent",
+        "edge_confidence": 0.73,
+        "path_confidence": 0.356,
+        "tier": 3
+      },
+      {
+        "entity_id": "customs_inf_015",
+        "golden_name": "Phenol Basestock Corp",
+        "supplied_to": "Petrochem Feedstock Llc",
+        "product_description": "phenol feedstock",
+        "edge_confidence": 0.727,
+        "path_confidence": 0.491,
+        "tier": 3
+      }
+    ],
+    "Tier_4": [
+      {
+        "entity_id": "customs_inf_001",
+        "golden_name": "Acrylamide Monomer Pty",
+        "supplied_to": "Flocculant Chemicals Pty",
+        "product_description": "acrylamide monomer",
+        "edge_confidence": 0.658,
+        "path_confidence": 0.234,
+        "tier": 4
+      },
+      {
+        "entity_id": "customs_inf_004",
+        "golden_name": "Benzene Feedstock Refining Co",
+        "supplied_to": "Phenol Basestock Corp",
+        "product_description": "benzene feedstock",
+        "edge_confidence": 0.655,
+        "path_confidence": 0.322,
+        "tier": 4
+      }
+    ]
+  },
+  "candidate_affiliates_unconfirmed": [
+    {
+      "bill_of_lading_id": "BOL100030",
+      "shipper": "Rutile Mineral Holdings Pty",
+      "consignee": "Rutile Mineral Exports Pty",
+      "shared_core": "rutile mineral",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100033",
+      "shipper": "Petrochem Feedstock Distribution Llc",
+      "consignee": "Petrochem Feedstock Llc",
+      "shared_core": "petrochem",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100014",
+      "shipper": "Solstice Materials Iberia Sa",
+      "consignee": "Solstice Materials Co",
+      "shared_core": "solstice materials",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100035",
+      "shipper": "Flocculant Chemicals Group Pty",
+      "consignee": "Flocculant Chemicals Pty",
+      "shared_core": "flocculant chemicals",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100023",
+      "shipper": "Aurora Pigments Distribution Gmbh",
+      "consignee": "Aurora Pigments Ltd",
+      "shared_core": "aurora pigments",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100026",
+      "shipper": "Boreal Resins Iberia Sl",
+      "consignee": "Boreal Resins Inc",
+      "shared_core": "boreal resins",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100037",
+      "shipper": "Phenol Basestock Holdings Corp",
+      "consignee": "Phenol Basestock Corp",
+      "shared_core": "phenol basestock",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    },
+    {
+      "bill_of_lading_id": "BOL100013",
+      "shipper": "Solstice Materials Iberia Sa",
+      "consignee": "Solstice Materials Co",
+      "shared_core": "solstice materials",
+      "tag": "candidate_affiliate_unconfirmed",
+      "confidence": 0.5,
+      "reason": "Shipper and Consignee share root corporate name with structure/region modifier"
+    }
+  ],
+  "confirmed_affiliates": [
+    {
+      "original_name": "bergwerk mining alias gmbh",
+      "merged_to": "solstice materials europe gmbh",
+      "role": "shipper",
+      "tag": "known_affiliate",
+      "confidence": 1.0,
+      "reason": "Registry override: corporate restructuring alias"
+    },
+    {
+      "bill_of_lading_id": "BOL100012",
+      "shipper": "Solstice Materials Europe Gmbh",
+      "consignee": "Solstice Materials Co",
+      "tag": "known_affiliate",
+      "confidence": 1.0,
+      "reason": "Confirmed affiliate via corporate registry override (Solstice Europe restructuration)"
+    },
+    {
+      "bill_of_lading_id": "BOL100020",
+      "shipper": "Solstice Materials Europe Gmbh",
+      "consignee": "Solstice Materials Co",
+      "tag": "known_affiliate",
+      "confidence": 1.0,
+      "reason": "Confirmed affiliate via corporate registry override (Solstice Europe restructuration)"
+    },
+    {
+      "bill_of_lading_id": "BOL100011",
+      "shipper": "Solstice Materials Europe Gmbh",
+      "consignee": "Solstice Materials Co",
+      "tag": "known_affiliate",
+      "confidence": 1.0,
+      "reason": "Confirmed affiliate via corporate registry override (Solstice Europe restructuration)"
+    }
+  ],
+  "parked_brokers": [
+    {
+      "bill_of_lading_id": "BOL100019",
+      "shipper": "Global Cargo Solutions Llc",
+      "consignee": "Solstice Materials Co",
+      "product_description": "packaging materials",
+      "reason": "Pass-through broker detected via product description 'packaging materials'"
+    },
+    {
+      "bill_of_lading_id": "BOL100016",
+      "shipper": "Solstice Logistics Hub Llc",
+      "consignee": "Solstice Materials Co",
+      "product_description": "packaging materials",
+      "reason": "Pass-through broker detected via product description 'packaging materials'"
+    },
+    {
+      "bill_of_lading_id": "BOL100018",
+      "shipper": "Global Cargo Solutions Llc",
+      "consignee": "Solstice Materials Co",
+      "product_description": "packaging materials",
+      "reason": "Pass-through broker detected via product description 'packaging materials'"
+    },
+    {
+      "bill_of_lading_id": "BOL100015",
+      "shipper": "Solstice Logistics Hub Llc",
+      "consignee": "Solstice Materials Co",
+      "product_description": "packaging materials",
+      "reason": "Pass-through broker detected via product description 'packaging materials'"
+    }
+  ],
+  "dropped_self_loops": []
+}
