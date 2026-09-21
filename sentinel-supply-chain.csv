@@ -1,8 +1,0 @@
-row_id,source_system,reported_by,reported_by_tax_id,reported_by_country,declared_supplier,declared_supplier_tax_id,declared_supplier_country,relationship_type,last_updated,notes
-2,legacy_manual_import,GLOBAL ALLOYS SARL,FR02653954607,France,Pacific  Metals  Inc. ,11-7347262,US,raw material,12-03-2023,"Data provided via phone, not verified"
-3,portal_v2,Global  Alloys  SARL ,,France,COPPERFIELD METALS A.Ş.,991853679,Turkey,packaging,28/03/2023,
-4,portal_v2,global alloys sarl,FR02653954607,France,Pacific Meatls Inc.,11-7347262,USA,logistics,05/03/2025,
-1,portal_v2,"Meridian  Foundry  Co.,  Ltd. ",6936664761,VN,Highland Steel Sp. z .oo.,PL7859126165,Poland,finishing,,
-7,portal_v2,"Meirdian Foundry Co., Ltd.",6936664761,Vietnam,OAKRIDGE PLASTICS PVT. LTD.,,IN,packaging,21/08/2023,
-5,portal_v2,Horizon Alloys SARL,381866192115924,Morocco,NORTHGATE TRADING SARL,,France,RAW_MATERIAL,23/03/2022,
-6,portal_v1,ALPINE COATINGS SARL,102439281045618,Maroc,Bluewater Industries A.Ş.,2249294184,Türkiye,Raw Material,2024-02-04,Pending re-confirmation
